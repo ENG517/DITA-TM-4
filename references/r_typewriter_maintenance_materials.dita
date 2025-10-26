@@ -26,7 +26,58 @@
           <tbody>
             <row>
               <entry>
-                <p></p>
+                <p>Mineral Spirits</p>
+              </entry>
+              <entry>
+                <p>Use to disolve grease and hardened oils from internal mechanisms.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Soft-Bristle Brush</p>
+              </entry>
+              <entry>
+                <p>Use to remove loose dust, dirt, and lint from exterior surfaces and type keys.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Stiff-Bristle Brush</p>
+              </entry>
+              <entry>
+                <p>Use to gently scrub ink and buildup from type slugs.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Compressed Air</p>
+              </entry>
+              <entry>
+                <p>Use to remove dust and dirt from intricate and delicate mechanical components.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Microfiber Rags</p>
+              </entry>
+              <entry>
+                <p>Use to wipe down exterior surfaces without leaving lint in greased/waxed components.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Rubbing Alcohol</p>
+              </entry>
+              <entry>
+                <p>Use to clean ink buildup from metal key levers and type slugs.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Mild Soap</p>
+              </entry>
+              <entry>
+                <p>Use to gently clean typewriter exterior and casing.</p>
               </entry>
             </row>
           </tbody>
@@ -54,7 +105,26 @@
           <tbody>
             <row>
               <entry>
-                <p></p>
+                <p>Lightweight Oil</p>
+              </entry>
+              <entry>
+                <p>Apply to moving components that would otherwise be damaged by lubricants that can harden or congeal over time.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Precision Applicator</p>
+              </entry>
+              <entry>
+                <p>Used to precisely apply oil to pivot points and hard-to-reach grooves.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Penetrating Lubricant</p>
+              </entry>
+              <entry>
+                <p>To help loosen and free stuck mechanical components. Excess oil should always be removed.</p>
               </entry>
             </row>
           </tbody>
@@ -82,7 +152,34 @@
           <tbody>
             <row>
               <entry>
-                <p></p>
+                <p>Dust Cover or Case</p>
+              </entry>
+              <entry>
+                <p>Protect typewriter from long-term dust and dirt buildup.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Polishing Wax</p>
+              </entry>
+              <entry>
+                <p>Protect exterior paint finish and prevent rusting of metal components.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Moisture Absorbers</p>
+              </entry>
+              <entry>
+                <p>Use when typewriter is in long-term storage to prevent exessive moisture buildup and rusting of mechanical components.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Backing Sheet</p>
+              </entry>
+              <entry>
+                <p>Using an appropriately thick sheet behind typing paper absorbs impact from type slugs and protects the platen from long term wear and tear.</p>
               </entry>
             </row>
           </tbody>
@@ -90,9 +187,9 @@
       </table>
     </section>
 
-    <!--Routine Maintenance-->
+    <!--Occasional Maintenance-->
     <section>
-      <title>Routine Maintenance</title>
+      <title>Occasional Maintenance</title>
       <table>
         <tgroup cols="2">
           <colspec colname="c1" colnum="1" colwidth="1.0*"/>
@@ -110,7 +207,26 @@
           <tbody>
             <row>
               <entry>
-                <p></p>
+                <p>Ink Ribbons</p>
+              </entry>
+              <entry>
+                <p>A fresh ink ribbon will be required for replacement when print quality becomes deteriorated.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Springs</p>
+              </entry>
+              <entry>
+                <p>Various typewriter mechanics rely on springs to function and need to be replaced if they become worn or damaged.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Rollers</p>
+              </entry>
+              <entry>
+                <p>If platen or feeder rollers harden or become cracked, they cannot be repaired and must be replaced.</p>
               </entry>
             </row>
           </tbody>
