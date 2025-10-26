@@ -15,17 +15,33 @@
       </step>
        <step>
         <cmd>Roll and adjust the new sheet of paper.</cmd>
-          <info>Roll the platen knob forwards, towards the back of the typewriter until the paper begins to come out from under the platen roller.</info>
-          <info>Curve the paper backwards so that it is behind the paper bail.</info>
+          <substeps>
+            <substep>
+              <cmd>Roll the platen knob forwards, towards the back of the typewriter until the paper begins to come out from under the platen roller.</cmd>
+            </substep>
+            <substep>
+             <cmd>Curve the paper backwards so that it is behind the paper bail.</cmd>
+            </substep>
+          </substeps>
       </step>
        <step>
         <cmd>Readjust the paper bail.</cmd>
-          <info>Move the paper bail back to a closed position so that it is resting against the paper.</info>
+          <substeps>
+            <substep>
+              <cmd>Move the paper bail back to a closed position so that it is resting against the paper.</cmd>
+            </substep>
+          </substeps>
       </step>
        <step>
         <cmd>Test and Type.</cmd>
-          <info>Use the return lever to move the carriage to the left margin and begin typing.</info>
-          <info>If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly.</info>
+          <substeps>
+            <substep>
+              <cmd>Use the return lever to move the carriage to the left margin and begin typing.</cmd>
+            </substep>
+            <substep>
+              <cmd>If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly.</cmd>
+            </substep>
+          </substeps>
       </step>
     </steps>
   </taskbody>
