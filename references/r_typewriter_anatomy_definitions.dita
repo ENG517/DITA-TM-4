@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_typewriter_anatomy_definitions">
+  <title></title>
+  <shortdesc>
+    Typewriters contain a multitude of mechanical components. It is important for typewriter users to be familiar with these components to effectively and efficiently use their typewriters.
+  </shortdesc>
+  <refbody>
+    <!--External Components-->
+    <section>
+      <title>External Components</title>
+      <dl>
+        <dlentry>
+          <dt></dt>
+          <dd></dd>
+        </dlentry>
+      </dl>
+    </section>
+
+    <!--Internal Components-->
+    <section>
+      <title>Internal Components</title>
+      <dl>
+        <dlentry>
+          <dt></dt>
+          <dd></dd>
+        </dlentry>
+      </dl>
+    </section>
+
+  </refbody>
+</reference>
