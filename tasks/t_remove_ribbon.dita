@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_remove_ribbon">
+  <title>Remove Existing Typewriter Ribbon</title>
+  <shortdesc>
+    When you are changing the ribbon of your typewriter, you will need to remove the existing typewriter ribbons.
+  </shortdesc>
+  <taskbody>
+    <prereq>Before removing the ribbons, you will need to remove the ribbon cover on your typewriter.</prereq>
+      <steps>
+        <step>
+          <cmd>Pull back one of the spring-loaded ribbon arms and lift the ribbon spool from its respective ribbon spool shaft.</cmd>
+            <info>Repeat for the second ribbon spool.</info>
+        </step>
+        <step>
+          <cmd>Locate the set of ribbon guides that are in front of the ribbon vibrator.</cmd>
+        </step>
+        <step>
+          <cmd>Carefully unthread the existing ribbon through the small slits in the ribbon guides.</cmd>
+        </step>
+      </steps>
+  </taskbody>
+</task>
