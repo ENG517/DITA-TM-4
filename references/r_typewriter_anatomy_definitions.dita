@@ -11,8 +11,76 @@
       <title>External Components</title>
       <dl>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Carriage</dt>
+          <dd>A large mechanical component that holds the platen and feed rollers, and moves horizontally across the machine as you type.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Carriage Return Lever</dt>
+          <dd>A large lever, often located on the left side of the carriage, that moves the carriage back to the right margin and advances the paper to the next line.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Feed Roller</dt>
+          <dd>A smaller, rubber-covered roller that works in conjunction with the platen to grip and guide paper.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Line Spacing Lever</dt>
+          <dd>A lever that controls the vertical distance, or spacing, between lines of text. This can sometimes be the same lever as the carriage return.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Magic Margin Buttons</dt>
+          <dd>Buttons on newer typewriter models that allow the user to set margins by moving the carriage and pressing the buttons.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Manual Ribbon Reverse</dt>
+          <dd>A lever or switch that allows the user to manually change the winding direction of the ink ribbon between its spools. </dd>
+        </dlentry>
+        <dlentry>
+          <dt>Margin Release</dt>
+          <dd>A key or lever that allows the user to temporarily type past preset margin stops.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Margin Stops</dt>
+          <dd>A small metal or plastic tab that is used to set margins. These tabs act as stoppers and prevent the carriage from moving beyond a set margin on the left and right sides of the page.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Paper Bail</dt>
+          <dd>A metal bar that flips down to hold paper against the platen.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Paper Bail Rollers</dt>
+          <dd>Small rubber rollers on the paper bail that press the paper against the platen roller.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Paper Fingers</dt>
+          <dd>An adjustable clamp that holds paper against the platen roller to maintain alignment and prevent it from slipping, used in conjunction with the paper bail.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Paper Release Lever</dt>
+          <dd>A small lever that releases the presser on the paper from the feed rollers, allowing the user to remove or readjust the paper.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Paper Support</dt>
+          <dd>A piece of metal or plastic that lightly holds paper perpendicular against the platen during paper feeding to guide the paper into the machine.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Platen Knob</dt>
+          <dd>A small handle located at the end of the platen used to rotate the platen roller.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Platen Roller</dt>
+          <dd>A large, rubber-covered roller that works in conjunction with feed rollers to grip and guide paper.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Ribbon Color Selector</dt>
+          <dd>A lever or switch that shifts the ribbon to type a different color.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Ribbon Cover</dt>
+          <dd>A metal lid that protects the internal ribbon mechanisms, often hinged or connected via prongs and grommets.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Type Keys</dt>
+          <dd>Character tabs that activate the type bars when pressed.</dd>
         </dlentry>
       </dl>
     </section>
