@@ -22,11 +22,58 @@
       <title>Internal Components</title>
       <dl>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Auto Reversing Brackets</dt>
+          <dd>A forked or pronged lever that uses grommets or eyelets to automatically change the ribbon winding direction without manual intervention.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Grommets</dt>
+          <dd>Small metal or plastic rings that cover and protect holes in the typewriter frame at points of connection between structural components.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Keylever</dt>
+          <dd>The metal arm that connects Type Keys to the Type Bar/Hammer.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Ribbon Carrier/Vibrator</dt>
+          <dd>A metal component located at the center of a typewriter that guides and supports the ink ribbon as it passes from one spool to the other. It holds the ribbon in position for the type slugs to strike it and transfer ink to paper.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Ribbon Guides</dt>
+          <dd>Small metal slots located on the Ribbon Carrier to hold and straighten the ribbon in place.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Ribbon Pin Slot</dt>
+          <dd>A small opening or groove on the Ribbon Spool that fits over the Spool Pin.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Ribbon Spool</dt>
+          <dd>A cylindrical reel that contains inked ribbon.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Spring-Loaded Ribbon Arm</dt>
+          <dd>Metal or plastic arm that holds and directs the ink ribbon between the ribbon spool and ribbon guide.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Spool Pin</dt>
+          <dd>A small metal or plastic pin that secures and aligns the ribbon spool to the ribbon shaft.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Spool Shaft</dt>
+          <dd>A small rod that holds and rotates the ribbon spool.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Type Bar/Hammer</dt>
+          <dd>A thin, metal bar that holds type characters at its end and strikes the ink ribbon to print the characters.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Type Bar Linkage</dt>
+          <dd>Small mechanical connection between Keylever and Type Bar.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Type Slugs</dt>
+          <dd>Individual metal characters located at the end of a Type Bar.</dd>
         </dlentry>
       </dl>
     </section>
-
   </refbody>
 </reference>
