@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_insert_paper">
+  <title>Insert New Paper</title>
+  <shortdesc>
+    To write on your typewriter, you will need to insert a new sheet of paper.
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Manually feed a new sheet of paper downward behind the platen.</cmd>
+      </step>
+       <step>
+        <cmd>Push the paper release lever back so that it is deactivated.</cmd>
+      </step>
+       <step>
+        <cmd>Roll and adjust the new sheet of paper.</cmd>
+          <info>Roll the platen knob forwards, towards the back of the typewriter until the paper begins to come out from under the platen roller.</info>
+          <info>Curve the paper backwards so that it is behind the paper bail.</info>
+      </step>
+       <step>
+        <cmd>Readjust the paper bail.</cmd>
+          <info>Move the paper bail back to a closed position so that it is resting against the paper.</info>
+      </step>
+       <step>
+        <cmd>Test and Type.</cmd>
+          <info>Use the return lever to move the carriage to the left margin and begin typing.</info>
+          <info>If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly.</info>
+      </step>
+    </steps>
+  </taskbody>
+</task>
