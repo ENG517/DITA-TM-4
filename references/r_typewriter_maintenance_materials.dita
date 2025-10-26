@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_typewriter_maintenance_materials">
+  <title>Typewriter Maintenance Materials</title>
+  <shortdesc>
+    Using the proper materials to maintain a typewriter is essential to preserve its functionality and prevent damage to fragile mechanical components.
+  </shortdesc>
+  <refbody>
+    <!--Regular Cleaning-->
+    <section>
+      <title>Regular Cleaning</title>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <thead>
+            <row>
+              <entry>
+                <p>Material</p>
+              </entry>
+              <entry>
+                <p>Purpose</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p></p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+
+    <!--Lubrication-->
+    <section>
+      <title>Lubrication</title>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <thead>
+            <row>
+              <entry>
+                <p>Material</p>
+              </entry>
+              <entry>
+                <p>Purpose</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p></p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+
+    <!--Preservation-->
+    <section>
+      <title>Preservation</title>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <thead>
+            <row>
+              <entry>
+                <p>Material</p>
+              </entry>
+              <entry>
+                <p>Purpose</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p></p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+
+    <!--Routine Maintenance-->
+    <section>
+      <title>Routine Maintenance</title>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <thead>
+            <row>
+              <entry>
+                <p>Material</p>
+              </entry>
+              <entry>
+                <p>Purpose</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p></p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+
+  </refbody>
+</reference>
