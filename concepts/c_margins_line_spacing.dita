@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="margins-line-spacing">
+  <title>Adjusting the Margins and Line Spacing</title>
+    <shortdesc>Learn how to set the left and right margins and choose single or double line spacing on a typewriter.</shortdesc>
+    <conbody>
+        <p>Margins and line spacing control where your text begins and ends on a page and how much space appears between each line. 
+        Setting them correctly helps your document look neat and organized.</p>
+
+        <p>To set the <b>left margin</b>, move the margin stop on the left side of the carriage to the position where you want each line to start. 
+        To set the <b>right margin</b>, move the right margin stop to where you want the line to end. 
+        These stops prevent the carriage from moving beyond the set points while typing.</p>
+
+        <p>Most typewriters have a <b>line spacing lever</b> or selector near the carriage. 
+        You can adjust it to choose between <b>single spacing</b> (1) or <b>double spacing</b> (2). 
+        Single spacing is useful for drafts or notes, while double spacing is ideal for clean copies or documents that need editing.</p>
+
+        <p>After setting margins and spacing, test them by typing a few lines on scrap paper. 
+        Adjust as needed until your text fits neatly on the page and looks evenly spaced.</p>
+    </conbody>
+</concept>

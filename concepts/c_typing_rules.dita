@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="typing-rules">
+ <title>Foundational Typing Rules</title>
+     <shortdesc>Understand the basic typing rules for operating a typewriter efficiently and correctly.</shortdesc>
+    <conbody>
+        <p>Before you start typing on a typewriter, it is important to know the basic rules that help you type neatly and accurately. 
+        These rules apply to both manual and electric typewriters.</p>
+
+        <p>Use the <b>Shift</b> key to type capital letters or symbols that appear on the upper part of a key. 
+        Hold down the <b>Shift</b> key with one hand while pressing the desired letter or symbol with the other hand.</p>
+
+        <p>At the end of each line, use the <b>Return Lever</b> (or <b>Carriage Return</b> key on electric models) to move the carriage back to the starting position and advance the paper to a new line. 
+        This action allows you to continue typing on the next line without overlapping text.</p>
+
+        <p>Press the <b>Space Bar</b> once between words to create even spacing. 
+        Avoid pressing the space bar multiple times, as typewriters produce fixed-width spacing that already ensures uniform gaps between words.</p>
+
+        <p>Following these simple typing rules helps maintain a clean, readable document and improves your overall typing rhythm and accuracy.</p>
+    </conbody>
+</concept>
