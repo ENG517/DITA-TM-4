@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_place_ribbonspools">
+  <title>Place Ribbon Spools on Spool Shafts</title>
+  <shortdesc>
+    When you are changing the ribbon of your typewriter, you will place two ribbon spools on the spool shafts.
+  </shortdesc>
+  <taskbody>
+    <prereq>If there are existing ribbon spools, you must remove them first. You will need a new set of ribbon spools that are compatible with your typewriter model. </prereq>
+      <steps>
+        <step>
+          <cmd>Pull back one of the spring-loaded ribbon arms and place one of the new ribbon spools onto the ribbon spool shaft.</cmd>
+        </step>
+        <step>
+          <cmd>Ensure that the ribbon coming off of the spool is directed toward the back of the typewriter and is not twisted.</cmd>
+        </step>
+        <step>
+          <cmd>Adjust the ribbon spool so that the spool shaft pin fits into the designated slot on the new ribbon spool.</cmd>
+        </step>
+        <step>
+          <cmd>Ensure the ribbon is flush with the spool and let go of the spring-loaded ribbon arm.</cmd>
+        </step>
+        <step>
+          <cmd>Repeat for the other ribbon spool.</cmd>
+        </step>
+      </steps>
+  </taskbody>
+</task>
