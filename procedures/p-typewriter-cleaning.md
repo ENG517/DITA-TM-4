@@ -119,9 +119,40 @@ Smith Corona Typewriter panels are typically made of non-porous material that wi
  6. Wipe down the panels with a dry cloth, and set them in direct sunlight, or in front of a fan, for a few hours to a couple of days to fully dry.
  7. Optional: If your Smith Corona Sterling has steel or aluminum panels, you can apply car wax, as directed on the wax container, to create a glossy finish and prevent rusting.
 
-
 ## Clean The Case
+
+Like their typewriter panels, Smith Corona Holiday Cases are made of a non-porous material in order to resist staining, so most stains can easily be removed with mild soap and water. 
+
+If your machine came in a different style of case, follow the instructions below in accordance with the type of case you have. 
+
+If your machine did not come with a portable case, but rather a dust cover, follow the directions below while skipping the steps related to case frames and hinges (steps 1, 2, 6, and 7).
+
+If your machine did not come with its portable case or a dust cover, consider buying one of the two as it will prolong the life of your machine.
+
+ 1. Remove the fastening frame from the case by pressing the frame release lever to the right, while simultaneously lifting the bottom of the frame upwards and sliding the frame points out of their respective rear retainer slots.
+ 2. Remove the lid from the case by fully opening the case and pressing both the right and left hinge latches simultaneously and unhooking them.
+    - Note: If your case is different from the Smith Corona Holiday Case, your hinges may need to be unscrewed for removal rather than being unhooked.
+ 3. Dampen a lint-free rag with a mixture of mild soap and water and gently rub the case components, including the frame, in circular motions to remove stains or stuck-on debris. Repeat as necessary to fully remove dirt, staining, and debris.
+    - Note: If your case is different from the Smith Corona Holiday Case, you may need a different cleaning solution based on the case material. For leather, cloth, or carpet cases, research and patch test all detergents and cleaners before use.
+ 4. Use a cotton swab soaked in the cleaning solution to remove stuck on dirt and debris from the case hinges and frame levers and gears.
+ 5. Dry the surface of the case with a clean, lint-free cloth and set out in direct sunlight, or in front of a fan, for up to two to three days to fully dry and remove any odors.
+ 6. Replace the lid onto the case by lining up the two halves of both hinges, rehooking them, and pushing the hinge sections together with mild pressure until they snap into place.
+ 7. Replace the frame by sliding the frame points back into their respective rear retainer slots and snapping the front of the frame down into a latched position.
 
 ## Assemble The Typewriter
 
+ 1. Line up the metal segment plate with the typewriter feet. 
+ 2. Slide the two prongs on one side of the plate into the two slots on their respective typewriter foot. 
+ 3. Applying gentle pressure in the direction of the inserted prong-slot connection, firmly push down until the prongs on the other side of the plate line up with the slots in the remaining foot, removing pressure from the other side once the prongs are fully inserted into the foot slots.
+ 4. Line up the panel component screw slots with their corresponding slots on the typewriter frame.
+ 5. Insert and tighten the panel screws until all panel components are reattached.
+ 6. If any key caps or knobs were removed in the cleaning process, reattach them now.
+
 ## Place Typewriter Back Into Case
+
+ 1. Center the carriage of the typewriter.
+ 2. Pick up the typewriter and tilt the front end of the machine upwards approximately 2 to 3 inches. 
+ 3. Slowly insert the typewriter into the case, ensuring that the double-pronged cleat at the back of the case slides into the two slots on the back of the machine. 
+ 4. Push the front of the machine down so that it latches onto the front cleat.
+ 5. Check to ensure that the machine is secure by lifting the front end of the typewriter. If it is secure, it will not lift from the case.
+ 6. Optional: If the typewriter will be unused, or in storage, for extended periods of time, consider adding one or two moisture packets, such as silica gel packs, inside of the case to absorb excess moisture and prevent rusting.
