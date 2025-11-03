@@ -4,6 +4,24 @@ Repairs to the drawband and/or Mainspring are typically required when the carria
 
 ## Materials
 
+For all of the repairs listed below, you will need the following:
+
+ - Small screwdriver set
+ - Work Gloves
+ - Eye Protection
+ - Lint free cloth
+ - Needle nose pliers
+ - Replacing Mainspring Materials
+    - New mainspring
+    - Small allen wrench
+        - The exact size will depend on the existing hex nut in your mainspring housing
+- Repairing Mainspring Materials
+    - Strong degreaser
+        - Lacquer thinner or rubbing alcohol should suffice.
+    - Pipette or medicine dropper
+    - Compressed air
+    - Stiff-bristle brush
+
 ## Inspect The Machine
 
  1. Try to move the carriage to the right side of the machine.
