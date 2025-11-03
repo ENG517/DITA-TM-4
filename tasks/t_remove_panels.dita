@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_remove_panels">
+  <title>Remove Typewriter Panels</title>
+  <taskbody>
+      <steps>
+        <step>
+          <cmd>Locate the body screws, typically found on the underside of the typewriter, along the edges of the body panels.</cmd>
+        </step>
+        <step>
+          <cmd>Unscrew the body screws and set off to the side, making sure you keep track of which ones go where as they each have different lengths and threads.</cmd>
+        </step>
+        <step>
+          <cmd>Gently lift the panels off of the typewriter, and set aside.</cmd>
+        </step>
+        <step>
+          <cmd>Locate the metal plate on the underside of the typewriter, directly under the segment. This plate is not screwed in, but held in place by four metal prongs that slide into the feet of the typewriter.</cmd>
+        </step>
+        <step>
+          <cmd>Gently pry the plate outward using a wide, flat-head screwdriver, so the prongs slide out of the slots in one of the feet and the plate falls out.</cmd>
+        </step>
+      </steps>
+  </taskbody>
+</task>
