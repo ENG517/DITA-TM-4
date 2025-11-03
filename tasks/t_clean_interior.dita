@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_clean_interior">
+  <title>Clean the Interior</title>
+   <shortdesc>
+     When cleaning the interior components of a typewriter, it is best to use mineral spirits, as they are most effective in dissolving and removing stuck on grime without damaging the internal mechanisms. However, gentle degreasers and rubbing alcohol can also be used in place of mineral spirits.
+  </shortdesc>
+  <taskbody>
+    <context>Warning: Avoid getting mineral spirits on any rubber or soft-plastic components of the typewriter, especially the platen, feeder, and paper bail rollers, as it will degrade the rubber over time.</context>
+        <steps>
+        <step>
+          <cmd>Lift the ribbon cover into an open position.</cmd>
+        </step>
+        <step>
+          <cmd>Re-package your cleaning solvent into a small bottle with a precision applicator or liquid dropper top.</cmd>
+        </step>
+        <step>
+          <cmd>Apply your solvent to areas with visible grime and debris, focusing on areas of high movement, such as the type basket and segment, undercarriage, etc.</cmd>
+        </step>
+        <step>
+          <cmd>Use a soft-bristled brush, such as a toothbrush, to gently scrub the areas where the mineral spirits have been applied.</cmd>
+        </step>
+        <step>
+          <cmd>Take a lint-free rag, or cotton swab for hard to reach areas, and remove excess mineral spirit and loosened debris.</cmd>
+        </step>
+        <step>
+          <cmd>Repeat steps 3 through 5 as needed.</cmd>
+        </step>
+        <step>
+          <cmd>Apply mineral spirits to the end of the type slugs, focusing on areas with stuck-on ink.</cmd>
+        </step>
+        <step>
+          <cmd>Using a stiff-bristled brush, gently scrub where the mineral spirits have been applied.</cmd>
+        </step>
+        <step>
+          <cmd>Remove excess mineral spirit and loosened debris using a cotton swab.</cmd>
+          <info>Note: If ink and debris is still not fully removed, use a toothpick or cleaning pick to gently scrape remaining ink and debris off of the type slugs.</info>
+        </step>
+        <step>
+          <cmd>Set the typewriter in direct sunlight, or in front of a fan, for a few hours to a couple of days to fully dry.</cmd>
+        </step>
+      </steps>
+  </taskbody>
+</task>
