@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_dust_typewriter">
+  <title>Dust Typewriter</title>
+   <shortdesc>
+     Due to the tightly-packed mechanisms of a typewriter, using compressed air from a can or portable air compressor is easiest and most effective when removing dust and debris.
+  </shortdesc>
+  <taskbody>
+        <steps>
+        <step>
+          <cmd>Optional: If your typewriter has been sitting for an extended period of time and has a visible layer of dust settled on its surface, go in with a dry lint-free cloth first and pick up as much dust as possible.</cmd>
+        </step>
+        <step>
+          <cmd>Spray the interior and exterior of all typewriter and case components, including the panels, case frame, segment, keys, undercarriage, and any small gears or levers with compressed air to remove any settled dirt or debris.</cmd>
+          <info>Note: Ensure the air is reaching the interior mechanisms of the typewriter. If needed, add a thin extender to your air compressor or can nozzle to get into the nooks and crevices of the machine, such as in between the key levers.</info>
+        </step>
+      </steps>
+  </taskbody>
+</task>
