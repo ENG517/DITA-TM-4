@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_repair_mainspring">
+  <title>Repair The Mainspring</title>
+  <taskbody>
+     <steps>
+      <step>
+        <cmd>Remove the mainspring housing from the typewriter by unscrewing the two barrel attachment screws.</cmd>
+      </step>
+      <step>
+        <cmd>Set the housing on a rag, with the metal side of the barrel facing up.</cmd>
+      </step>
+      <step>
+        <cmd>Using the pipette or dropper, apply a few drops of degreaser on and around the center screw and slot.</cmd>
+        <info>Warning: Once the degreaser reaches the mainspring and loosens it, the barrel may jump or pop as the tension in the spring is released.</info>
+      </step>
+       <step>
+        <cmd>Use the stiff-bristle brush and soft-bristle brushes as needed to clean any gummed up debris from the center screw.</cmd>
+      </step>
+       <step>
+        <cmd>Spray the barrel with compressed air to further remove loosened debris.</cmd>
+      </step>
+       <step>
+        <cmd>Repeat steps 4 through 6 until the spring barrel is able to rotate easily, while still maintaining some tension.</cmd>
+      </step>
+       <step>
+        <cmd>Once the spring barrel is able to rotate, fully dry the barrel using a lint free cloth and compressed air.</cmd>
+      </step>
+       <step>
+        <cmd>Reattach the spring barrel to the typewriter undercarriage using the two attachment screws.</cmd>
+      </step>
+       <step>
+        <cmd>Reattach the drawband to the spring barrel using the steps outlined in the section below, titled "Reattach the drawband."</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
