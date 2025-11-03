@@ -4,6 +4,27 @@ Does your typewriter platen seem to be losing its grip? Dirty and hardened plate
 
 ## Materials
 
+For the repairs listed below, you will need the following:
+
+ - A Portable Smith Corona Manual Typewriter
+ - Gloves
+ - Well-ventilated Room
+ - Multiple lint free cloths (3+)
+ - Platen Cleaning Materials:
+    - Lacquer thinner
+ - Platen Sanding Materials:
+    - Fine grit sandpaper
+    - Rinse Water
+    - Fan
+ - Platen Refinishing Materials:
+    - Heat gun
+    - Black rubber heat shrink tubing
+        - The diameter will depend on your platen roller size, but 2 inches is generally acceptable.
+ - Platen Replacement Materials:
+    - New platen roller
+    - Small screwdriver set
+    - Small hook-ended tool
+
 ## Clean The Platen Roller
 
 The first step in repairing a platen roller is to clean it. This will allow you to see any tears, cracks, or severe indents on the roller that may indicate further repairs are needed.
