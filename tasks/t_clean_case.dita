@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_clean_case">
+  <title>Clean the Case</title>
+   <shortdesc>
+     Like their typewriter panels, Smith Corona Holiday Cases are made of a non-porous material in order to resist staining, so most stains can easily be removed with mild soap and water.
+  </shortdesc>
+  <taskbody>
+    <context>
+      If your machine came in a different style of case, follow the instructions below in accordance with the type of case you have.
+
+      If your machine did not come with a portable case, but rather a dust cover, follow the directions below while skipping the steps related to case frames and hinges (steps 1, 2, 6, and 7).
+
+      If your machine did not come with its portable case or a dust cover, consider buying one of the two as it will prolong the life of your machine.
+    </context>
+       <steps>
+        <step>
+          <cmd>Remove the fastening frame from the case by pressing the frame release lever to the right, while simultaneously lifting the bottom of the frame upwards and sliding the frame points out of their respective rear retainer slots.</cmd>
+        </step>
+        <step>
+          <cmd>Remove the lid from the case by fully opening the case and pressing both the right and left hinge latches simultaneously and unhooking them.</cmd>
+          <info>Note: If your case is different from the Smith Corona Holiday Case, your hinges may need to be unscrewed for removal rather than being unhooked.</info> 
+        </step>
+        <step>
+          <cmd>Dampen a lint-free rag with a mixture of mild soap and water and gently rub the case components, including the frame, in circular motions to remove stains or stuck-on debris. Repeat as necessary to fully remove dirt, staining, and debris.</cmd>
+          <info>Note: If your case is different from the Smith Corona Holiday Case, you may need a different cleaning solution based on the case material. For leather, cloth, or carpet cases, research and patch test all detergents and cleaners before use.</info>
+        </step>
+        <step>
+          <cmd>Use a cotton swab soaked in the cleaning solution to remove stuck on dirt and debris from the case hinges and frame levers and gears.</cmd>
+        </step>
+        <step>
+          <cmd>Dry the surface of the case with a clean, lint-free cloth and set out in direct sunlight, or in front of a fan, for up to two to three days to fully dry and remove any odors.</cmd>
+        </step>
+        <step>
+          <cmd>Replace the lid onto the case by lining up the two halves of both hinges, rehooking them, and pushing the hinge sections together with mild pressure until they snap into place.</cmd>
+        </step>
+        <step>
+          <cmd>Replace the frame by sliding the frame points back into their respective rear retainer slots and snapping the front of the frame down into a latched position.</cmd>
+        </step>
+      </steps>
+  </taskbody>
+</task>
