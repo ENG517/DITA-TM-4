@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_inspect_machine">
+  <title>Inspect The Machine</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Try to move the carriage to the right side of the machine.</cmd>
+      </step>
+      <step>
+        <cmd>Visually inspect the drawband for a loosened connection.</cmd>
+      </step>
+      <step>
+        <cmd>Try to manually rotate the spring barrel.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
