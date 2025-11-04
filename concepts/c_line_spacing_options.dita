@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_line_spacing_options">
+  <title>Line Spacing Options Available in Typewriters</title>
+  <shortdesc>
+  Line spacing options determine the platten movement after each line of text
+  </shortdesc>
+  <conbody>
+    <section>
+      <title>Common Line Spacing Options</title>
+      <ul>
+        <li>
+          <b>Single spacing</b>: Produces the most compact text layout. 
+          It is often used for drafts, notes, or documents where space efficiency is prioritized. 
+          This spacing provides minimal vertical distance between lines, giving a dense text appearance.
+        </li>
+        <li>
+          <b>Double spacing</b>: Provides balanced spacing between lines, improving legibility and visual clarity. 
+          It is the most common choice for formal documents, academic writing, or any material that may require annotations.
+        </li>
+        <li>
+          <b>Triple spacing</b>: Creates wide separation between lines. 
+          This setting is typically used for editing, proofreading, or instructional material where additional space is needed for comments or corrections.
+        </li>
+      </ul>
+    </section>
+    <section>
+      <title>Variation Across Models</title>
+      <p>
+        Most typewriters offer two or three spacing options. 
+        Advanced or newer machines may provide additional intermediate settings, while older or simpler models are limited to standard single and double spacing. 
+        The number of available options often reflects the mechanical design and sophistication of the typewriter.
+      </p>
+    </section>
+  </conbody>
+</concept>
