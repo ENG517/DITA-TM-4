@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_potential_ribbon_issues-post-replacement">
+  <title>Potential Issues After Replacing Ribbon</title>
+  <shortdesc>
+  Smudgy or unclear letters after installing a new ribbon may indicate issues with ribbon tatutness or dirty type slugs. 
+  </shortdesc>
+  <conbody>
+   <p>
+    After a new ribbon is installed, your text may continue to appear smudgy or unclear occassionally. 
+    This issue often results from insufficient ribbon tautness or surface cleanliness on the type slugs.
+    Recognizing these underlying conditions helps ensure the ribbon functions effectively within the typewriter’s mechanical system.
+   </p>
+   <section>
+      <title>Ribbon Tension</title>
+      <p>
+        A newly installed ribbon can sometimes lack adequate tension. 
+        When the ribbon is too loose, its surface does not meet the paper evenly during typing, leading to excessive ink transfer and smudging. 
+        Proper ribbon tautness allows for consistent contact and cleaner ink impressions.
+      </p>
+    </section>
+    <section>
+      <title>Residue on Type Slugs</title>
+      <p>
+        Ink residue or small particles of debris may accumulate on the type slugs during the ribbon installation process. 
+        This buildup prevents even ink distribution and results in blurred or smudged characters. 
+        Clean type slugs contribute to precise, well-defined text impressions.
+      </p>
+    </section>
+  </conbody>
+</concept>
