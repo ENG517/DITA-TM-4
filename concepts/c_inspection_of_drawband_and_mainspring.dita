@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="inspection_of_drawband_and_mainspring">
+  <title>Manual Inspection of Drawband and Mainspring</title>
+  <shortdesc>
+  Visual and manual inspection of the drawband and mainspring helps identify loosened connections and reduced tension that affect carriage performance.
+  </shortdesc>
+  <conbody>
+<p>
+      Inspection begins by moving the carriage to the right side of the machine. 
+      A visual check of the drawband helps determine whether it has loosened or disconnected from the spring barrel. 
+      Manually rotating the spring barrel reveals whether it maintains tension or moves freely. 
+      Lack of resistance indicates loss of spring tension and potential need for repair.
+    </p>
+  </conbody>
+</concept>
