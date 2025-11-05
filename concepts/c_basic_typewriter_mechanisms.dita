@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_basic_typewriter_mechanisms">
+  <title>Basic Typewriter Mechanisms</title>
+  <shortdesc>
+   Understanding the fundamental mechanisms of a manual typewriter to ensure proper operation and maintenance.
+  </shortdesc>
+  <conbody>  
+   <section>
+      <title>Paper Bail</title>
+      <p>
+        The paper bail is a metal or plastic bar positioned above the platen. It contains small rollers that press lightly on the paper to keep it flat and steady while typing. The bail ensures that the paper remains aligned and does not shift as the carriage moves.
+      </p>
+   </section>
+  <section>
+      <title>Paper Release Lever</title>
+      <p>
+        The paper release lever controls the grip of the platen on the paper. When released, it allows the user to adjust the paper’s alignment or remove it without resistance. Engaging the lever locks the paper in place to maintain consistent spacing during typing.
+      </p>
+    </section>
+  <section>
+      <title>Platen</title>
+      <p>
+        The platen is the large cylindrical roller behind the paper that provides a firm backing for the typebars to strike against. It advances the paper vertically between lines and ensures even ink transfer from the ribbon to the page.
+      </p>
+    </section>
+    <section>
+      <title>Platen Knob or Roller Knob</title>
+      <p>
+        The platen knob, located on one or both sides of the platen, allows controlled rotation of the roller. It is used to move the paper up or down line by line and helps align text precisely on the page.
+      </p>
+    </section>
+  </conbody>
+  </concept>
+    
+    
+    
+  
+  
