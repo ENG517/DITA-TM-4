@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="_map_formattingpaper.ditamap">
+ 
+ <title>Loading Paper and Setting Formatting for the Portable Smith Corona Sterling Manual Typewriter</title>
+
+
+<!--Concepts in order-->
+    <topicref type="concept" href="c_basic_typewriter_mechanisms.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Basic Typewriter Mechanisms</navtitle>
+      </topicmeta>
+    </topicref>
+
+    <topicref type="concept" href="c_significance_of_formatting.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Significance of Typewriter Formatting</navtitle>
+      </topicmeta>
+    </topicref>
+
+      <topicref type="concept" href="c_margin_typing_tips.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Additional Tips for Typing Past Margins</navtitle>
+      </topicmeta>
+    </topicref>
+
+      <topicref type="concept" href="c_line_spacing_options.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Line Spacing Options Available in Typewriters</navtitle>
+      </topicmeta>
+    </topicref>
+
+        <topicref type="concept" href="c_determining_paper_type.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Determining the Right Type of Paper for your Typewriter</navtitle>
+      </topicmeta>
+    </topicref>
+
+        <topicref type="concept" href="c_loading-paper-issues.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Issues in Loading Paper</navtitle>
+      </topicmeta>
+    </topicref>
+
+
+<!--Tasks in order-->
+
+    <topicref type="task" href="t_remove_case.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Remove Typewriter From Case</navtitle>
+      </topicmeta>
+    </topicref>
+
+
+  <!--This is a subsection, added another title-->
+  <title>Load Paper</title>
+
+    <topicref type="task" href="t_remove_paper.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Remove Typewriter Paper</navtitle>
+      </topicmeta>
+    </topicref>
+
+    <topicref type="task" href="t_insert_paper.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Insert New Paper</navtitle>
+      </topicmeta>
+    </topicref>
+
+
+  <!--This is a subsection, added another title-->
+  <title>Set Formatting</title>
+
+    <topicref type="task" href="t_set_visiblemargins.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Set Visible Margins</navtitle>
+      </topicmeta>
+    </topicref>
+
+    <topicref type="task" href="t_set_linespacing.dita" format="ditamap">
+          <topicmeta>
+        <navtitle>Set Line Spacing</navtitle>
+      </topicmeta>
+    </topicref>
+
+
+<!--References in order-->
+
+  <topicref type="reference" href="r_typewriter_anatomy_definitions.dita" format="ditamap">
+        <topicmeta>
+      <navtitle>Typewriter Anatomy</navtitle>
+    </topicmeta>
+  </topicref>
+
+   <topicref type="reference" href="__" format="ditamap">
+        <topicmeta>
+      <navtitle>Formatting Styles</navtitle>
+    </topicmeta>
+  </topicref>
+
+     <topicref type="reference" href="__" format="ditamap">
+        <topicmeta>
+      <navtitle>Types of Papers</navtitle>
+    </topicmeta>
+  </topicref>
+
+
+</map>
