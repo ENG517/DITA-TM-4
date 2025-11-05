@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_diagnosis_for_drawband_and_mainspring_conditions">
+  <title>Diagnosis of Drawband and Mainspring Conditions</title>
+  <shortdesc>
+   The condition of the carriage and spring barrel during inspection helps determine whether the drawband or mainspring requires repair, reattachment, or replacement.
+  </shortdesc>
+  <conbody>
+     <ul>
+      <li>
+        If the carriage moves freely and the drawband has come loose from the spring barrel, it needs to be reattached. 
+        See <xref href="t_reattach_drawband.dita">Reattach the Drawband</xref>.
+      </li>
+      <li>
+        If the carriage moves freely and the drawband is in good condition, but the spring barrel rotates without tension, the spring is broken and needs to be replaced. 
+        See <xref href="t_replace_mainspring.dita">Replace the Mainspring</xref>.
+      </li>
+      <li>
+        If the carriage does not move freely, and the spring barrel is not rotating easily, the spring needs to be cleaned, flushed, and lubricated. 
+        See <xref href="t_repair_mainspring.dita">Repair the Mainspring</xref>.
+      </li>
+    </ul>
+
+    <note>
+      If none of the above conditions match your concerns, the issue is likely not dependent on the spring, and further disassembly is required to diagnose the problem.
+    </note>
+  </conbody>
+</concept>
