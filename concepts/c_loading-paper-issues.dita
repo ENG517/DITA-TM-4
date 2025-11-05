@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_loading-paper-issues">
+  <title>Issues in Loading Paper</title>
+  <shortdesc>
+  Common issues encountered when loading paper into a typewriter
+  </shortdesc>
+  <conbody>
+    <section>
+      <title>Paper Release Lever Activation</title>
+      <p>
+        Unintended activation of the paper release lever prevents the platen from holding the paper securely, resulting in excessive movement.
+      </p>
+    </section>
+    <section>
+      <title>Damaged or Worn Platen</title>
+      <p>
+        Over time, platen rollers can harden and lose friction, reducing their grip on paper. Cleaning may temporarily restore texture, but long-term deterioration requires resurfacing or replacement.
+      </p>
+    </section>
+    <section>
+      <title>Damaged Paper Bail</title>
+      <p>
+        A bent or misshapen paper bail bar prevents rollers from maintaining proper contact with the paper. Hardened or cracked bail rollers can also reduce paper stability and may require replacement.
+      </p>
+    </section>
+    <section>
+      <title>Thin Paper</title>
+      <p>
+        Paper that is too thin may slip between the platen and rollers, while overly thick paper can overload the feeding mechanism. Optimal performance depends on using paper stock suited to the machine’s design.
+      </p>
+    </section>
+  </conbody>
+</concept>
