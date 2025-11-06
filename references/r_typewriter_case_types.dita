@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="r_enter_unique_id_here">
-  <title></title>
+<reference id="r_typewriter_case_types">
+  <title>Types of Smith Corona Portable Manual Typewriter Cases</title>
   <shortdesc>
-
+    There are many portable typewriter case types for Smith Corona Portable Typewriters. Some older manual typewriters have been preserved with cases that are different from the one they were originally purchased with, or may not be found with a case at all. 
   </shortdesc>
   <refbody>
-
+    <section>
+      <title>Types of Smith Corona Portable Manual Typewriter Cases</title>
+      <dl>
+        <dlentry>
+          <dt>Hard-Cover Tweed Cases</dt>
+          <dd>Rigid cases that have a metal or wood base and are wrapped with tweed-style or vinyl coverings. Produced in the late 1940's to early 1950's.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Leather Cases</dt>
+          <dd>Rigid cases that contain a wooden base, wooden bracing, and are wrapped with leather. Produced in the 1930's and 1940's.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Holiday Case</dt>
+          <dd>A large, highly durable, hard shell, molded case that was marketed as a premium portable typewriter case, as it could double as a suitcase. Most vintage Smith Corona's are accompanied by a Holiday Case. Produced from the 1950's until Smith Corona Typewriter production ceased.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Molded Cases</dt>
+          <dd>Smooth, lightweight cases that were molded using fiberglass, injection ABS, or polystyrene plastic. They are often equipped with aluminum locks and hinges. Produced from the 1960's until Smith Corona Typewriter production ceased.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Dust Covers</dt>
+          <dd>Manufactured covers made from vinyl or fabric, and sometimes plastic sheeting, that rests on top of a typewriter when out of its case to protect the typewriter mechanisms from dust and debris.</dd>
+        </dlentry>
+      </dl>
+    </section>
   </refbody>
 </reference>
