@@ -43,12 +43,12 @@ Locate the important typewriter mechanisms listed below for your typewriter usin
 ### 3. Insert the new paper
     - Manually feed a new sheet of paper downward behind the platen
     - Push the paper release lever back so that it is deactivated
-4. Roll and adjust the new sheet of paper
+### 4. Roll and adjust the new sheet of paper
     - Roll the platen knob forwards, towards the back of the typewriter until the paper begins to come out from under the platen roller
     - Curve the paper backwards so that it is behind the paper bail
-5. Readjust the paper bail
+### 5. Readjust the paper bail
     - Move the paper bail back to a closed position so that it is resting against the paper
-6. Test and Type
+### 6. Test and Type
     - Use the return lever to move the carriage to the left margin and begin typing
     - If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly. 
 
