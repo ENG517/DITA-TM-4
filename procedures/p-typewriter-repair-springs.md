@@ -39,7 +39,7 @@ For all of the repairs listed below, you will need the following:
 
 If any repairs or replacements to the drawband or mainspring are required, you must first remove the drawband from the spring barrel.
 
- 1. Locate the point of connection where the drawband meets the spring housing.
+ 1. Locate the point of connection where the drawband meets the spring barrel.
     - The end of the spring should have a knot or metal hook-like feature that is connected to the mainspring barrel by sliding into a thin slot through a hole in the barrel. The hole is large enough to fit the knot or hook for removal, but the slot is thin enough to contain the drawband knot/hook.
  2. Grab the drawband with a pair of needle nosed pliers and gently slide it out of the thin barrel slot, guiding it all of the way out through the hole in the barrel.
 
@@ -60,7 +60,7 @@ If any repairs or replacements to the drawband or mainspring are required, you m
 
 ***Warning***: Typewriter mainsprings are wound very tightly. Wearing gloves and eye protection is essential to protect your hands and eyes from the sharp edges of the spring, as they can and often will pop out quickly during the removal process. 
 
- 1. Remove the mainspring housing from the typewriter by unscrewing the two barrel attachment screws.
+ 1. Remove the mainspring housing from the typewriter by unscrewing the two housing attachment screws.
  2. Unscrew the back of the mainspring barrel using a small allen wrench.
  3. Put on gloves and eye protection.
  4. Disassemble the mainspring housing by sliding each gear layer off of the center shaft.
