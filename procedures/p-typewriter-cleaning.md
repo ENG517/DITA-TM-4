@@ -55,7 +55,7 @@ Portable Smith Corona machines will typically come in a popular case known as th
  1. Locate the body screws, typically found on the underside of the typewriter, along the edges of the body panels.
  2. Unscrew the body screws and set off to the side, making sure you keep track of which ones go where as they each have different lengths and threads.
  3. Gently lift the panels off of the typewriter, and set aside.
- 4. Locate the metal plate on the underside of the typewriter, directly under the segment. This plate is not screwed in, but held in place by four metal prongs that slide into the feet of the typewriter. 
+ 4. Locate the metal segment plate on the underside of the typewriter, directly under the segment. This plate is not screwed in, but held in place by four metal prongs that slide into the feet of the typewriter. 
  5. Gently pry the plate outward using a wide, flat-head screwdriver, so the prongs slide out of the slots in one of the feet and the plate falls out.
 
 
