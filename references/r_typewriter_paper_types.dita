@@ -8,45 +8,45 @@
   <refbody>
     <!--Papers you SHOULD use-->
     <section>
-      <title>Acceptable Paper Types</title>
+      <title>Papers You Should Use</title>
       <dl>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Standard Printing Paper</dt>
+          <dd>20 lb bond paper, feeds easily, rarely jams, absorbs ink, works best with a backing sheet.</dd>
         </dlentry>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Heavy-Weight Paper</dt>
+          <dd>24-28 lb bond paper, resists ink bleed-through. Typically used for letterhead, stationary, and manuscripts. </dd>
         </dlentry>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Textured Paper</dt>
+          <dd>Papers such as vellum, linen, kraft, and embossed, typically used for crafting and elaborate stationary. They hold ink well, and are thick enough to not require a backing sheet.</dd>
         </dlentry>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Cotton Paper</dt>
+          <dd>25%-100% cotton paper, more durable than typical paper materials, typewriter printing is most crisp on cotton materials.</dd>
         </dlentry>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Backing Sheets</dt>
+          <dd>A protective sheet, made of thick paper, placed behind the typing paper in order to protect the rubber platen roller.</dd>
         </dlentry>
       </dl>
     </section>
     <!--Papers you SHOULD NOT use-->
     <section>
-      <title>Unacceptable Paper Types</title>
+      <title>Papers You Should NOT Use</title>
       <dl>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Carbon Paper</dt>
+          <dd>Printing on carbon paper required 3 to 4 sheets of paper to be inserted at once, which often leads to jamming or will excessively stress the typewriter platen.</dd>
         </dlentry>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Coated Paper</dt>
+          <dd>Papers with additional coatings to increase smoothness or weight should be avoided as they do not absorb ink well and can lead to smudging.</dd>
         </dlentry>
         <dlentry>
-          <dt></dt>
-          <dd></dd>
+          <dt>Glossed/Picture Paper</dt>
+          <dd>Glossed paper may have difficulty being grabbed by the platen and feed rollers, and will not absorb ink well, leading to smudging.</dd>
         </dlentry>
       </dl>
     </section>
