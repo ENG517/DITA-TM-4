@@ -47,7 +47,7 @@ After cleaning the Platen Roller, inspect its surface to determine your next ste
 
 ## Remove The Platen Roller
 
- 1. Raise the paper pan support and paper bail so that they are not resting on the platen.
+ 1. Raise the paper support and paper bail so that they are not resting on the platen.
  2. Activate the carriage centering lever to center the carriage.
  3. Pull the platen detent arm outwards.
  4. Press the platen release lever.
