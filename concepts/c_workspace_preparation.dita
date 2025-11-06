@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_workspace_preparation">
+  <title>Preparation of Workspace for Typewriter Usage</title>
+  <shortdesc>
+  A clean and well-ventilated work area ensures safe and effective cleaning and maintenance of the typewriter.
+  </shortdesc>
+  <conbody>
+      <ul>
+      <li>
+        A well-ventilated space should be selected, ideally one with windows and access to direct sunlight.
+      </li>
+      <li>
+        Paper towels or plastic sheeting should be laid out to fully cover the work surface.
+      </li>
+      <li>
+        Nitrile gloves should be worn to prevent mineral spirits, cleaning agents, and waxes from contacting the skin.
+      </li>
+    </ul>
+
+    <note>
+     Working in a proper ventilates space ensures safety when using cleaning agents and allows for faster drying times when rinsing components.
+    </note>
+  </conbody>
+</concept>
