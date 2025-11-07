@@ -1,26 +1,18 @@
-# DITA Topic Model - Enter Title Here
+# DITA Topic Model - Using and Maintaining a 1950's Portable Manual Smith Corona Typewriter
 
-This repo contains a DITA topic model (TM) related to ...
+This repo contains a DITA topic model (TM) related to the necessary steps to use, maintain, and repair a 1950's Portable Manual Smith Corona Typewriter. 
 
 ## Authors
 
-- Enter names here
+- Harshini Ravindran
+- Gabby Simon
+- Alli Wray
 
 ## Project Maps
 
-### User Scenario 1: ...
+### User Scenario 1: Beginner User
 
-Description here.
-
-Map Outline:
-- c_filename.dita (File title)
-- c_filename.dita (File title)
-- t_filename.dita (File title)
-  - t_filename.dita (File title)
-
-### User Scenario 2: ...
-
-Description here.
+A first-time typewriter user, Genesis, has just purchased her very first typewriter. She wants to start using her typewriter for creative writing, but she has never set up a typewriter for use before, and doesn’t know where to begin. She needs to learn how to load paper into her machine, and how to format the paper before she begins typing.
 
 Map Outline:
 - c_filename.dita (File title)
@@ -28,9 +20,19 @@ Map Outline:
 - t_filename.dita (File title)
   - t_filename.dita (File title)
 
-### User Scenario 3: ...
+### User Scenario 2: Intermediate User
 
-Description here.
+An intermediate typewriter user, Park, is writing their debut novel on their vintage typewriter. They have written an extensive amount of text and have noticed that their typewriter is running low on ink, has an overall low performance, and is getting a bit dirty. They would like to continue using their typewriter, but they are relatively inexperienced in typewriter maintenance, and need to know how to clean the typewriter and perform some minor repairs.
+
+Map Outline:
+- c_filename.dita (File title)
+- c_filename.dita (File title)
+- t_filename.dita (File title)
+  - t_filename.dita (File title)
+
+### User Scenario 3: Advanced User
+
+An advanced typewriter user, Hunter, has recently purchased a 1957 Smith Corona Manual typewriter to restore for long term use in creative writing. He wants to know the appropriate steps and materials to complete a full restoration of the interior, exterior, and casing of the typewriter.
 
 Map Outline:
 - c_filename.dita (File title)
