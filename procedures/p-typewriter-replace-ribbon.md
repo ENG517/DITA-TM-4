@@ -7,7 +7,7 @@ So, you've been writing on your typewriter for a while and your text is starting
 Not much is required to successfully change your typewriters ink ribbon. All you need is:
  1. A Typewriter
  2. A New Ink Ribbon
-     > Note: Most Smith Corona typewriters are compatible with universal ribbons. However, it is important to research your typewriter model to ensure a specific ribbon size, spool size, or cassette type is not required.
+     > Note: 1950's Manual Smith Corona typewriters are compatible with universal ribbons.
  3. Gloves (optional)
      - Typewriter ribbons are fully saturated in ink, so handling them can get quite messy. If you prefer to remain ink-stain free, wearing nitrile, latex, or plastic gloves are recommended.
  4. Paper Towels/Cleaning Cloth (optional)
@@ -35,9 +35,9 @@ To change your typewriter ribbon, follow these steps:
      - Locate the set of ribbon guides that are in front of the ribbon vibrator
      - Carefully unthread the existing ribbon through the small slits in the ribbon guides
 
-     ![Ribbon Arm, Shaft, Pin](/assets/images/typewriter-ribbon-arm-shaft-pin.png)
+     ![Ribbon Arm, Shaft, Pin](/assets/images/typewriter-spool-shaft-and-reverse-brackets.png)
 
-     >*Figure 2: Ribbon Spring Arm, Shaft, and Pin*
+     >*Figure 2: Ribbon Spool Shaft and Auto-Reverse Brackets*
      
      ![Ribbon Vibrator and Guides](/assets/images/typewriter-ribbon-vibrator-guides.png)
 
@@ -58,7 +58,7 @@ To change your typewriter ribbon, follow these steps:
      - Repeat for the other ribbon spool
  4. Thread the ribbon
      - Locate the set of ribbon guides that are in front of the ribbon vibrator
-     - Take the ribbon between each spool and feed it through the small slots on each side of the ribbon guide so that the ribbon between each guide is closest to the typewriter platen
+     - Take the ribbon between each spool and feed it through the small slots on each side of the ribbon guide, taking care to not stretch the ribbon
      - Gently rotate each ribbon spool so that the ribbon is taut, but not tightened too much
 
      
