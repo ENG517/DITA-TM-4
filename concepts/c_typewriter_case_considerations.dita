@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_case_considerations">
+  <title>Smith-Corona Typewriter Cases and Care Considerations</title>
+  <shortdesc>
+  Portable Smith-Corona typewriters are typically stored in protective cases designed to prevent staining and wear, with specific care needs depending on the case material
+  </shortdesc>
+  <conbody>
+  <section>
+      <title>Smith-Corona Holiday Case</title>
+      <p>
+        Portable Smith-Corona machines are commonly stored in a case known as the “Holiday Case.” 
+        This case is slightly larger than standard typewriter carriers and can be disassembled. 
+        Like Smith-Corona typewriter panels, Holiday Cases are made of a non-porous material that resists staining, 
+        allowing most marks to be removed with mild soap and water.
+      </p>
+    </section>
+
+    <section>
+      <title>Alternate Case Styles</title>
+      <p>
+        Some machines were sold in different styles of cases. 
+        The care process for these cases varies based on their materials and construction.
+      </p>
+      <p>
+        Cases made of other materials may have hinges that need to be unscrewed for removal rather than unhooked. 
+        The cleaning solution required may also differ depending on the case’s material.
+      </p>
+    </section>
+
+    <section>
+      <title>Machines Without Cases</title>
+      <p>
+        Some Smith-Corona models were shipped with only a dust cover instead of a full portable case. 
+        In such cases, steps related to case frames and hinges may not apply. 
+        Machines without a case or dust cover benefit from being stored in one, as doing so extends the overall life of the typewriter.
+      </p>
+    </section>
+   <section>
+     <note>
+      For leather, cloth, or carpet-style cases, the cleaning solution should be selected carefully. 
+      Research and patch test all detergents and cleaners before use to prevent damage or discoloration.
+    </note>
+   </section>
+  </conbody>
+</concept>
