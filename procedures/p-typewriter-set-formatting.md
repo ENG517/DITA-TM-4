@@ -7,11 +7,11 @@ Though it may not seem intuitive, **setting formatting on a typewriter**, such a
 1. A 1950's Smith Corona Manual Typewriter.
 2. Paper must already be loaded into the typewriter.
 
-## Setting Margins
+## Setting margins
 
 Smith Corona machines have visible margins, which means margin size is set using margin stops. To set visible margins, follow the steps below:
 
-### Step 1: Identify the Margin Stops
+### Step 1: Identify the margin stops
 
 > Margin stops are small metal tabs that allow you to set margins by stopping the carriage at a fixed point, so that you cannot type in the designated margin space. They are located on the top of the carriage.
 
@@ -19,7 +19,7 @@ Smith Corona machines have visible margins, which means margin size is set using
     
 >*Figure 1: Margin Stops*
 
-### Step 2: Center your Carriage
+### Step 2: Center the carriage
 
 <!-- Also, should you provide that graphic from loading paper procedure for help and reference in this procedure too? -->
 
@@ -29,7 +29,7 @@ Smith Corona machines have visible margins, which means margin size is set using
 
      >Warning: While centering the carriage is not required, it is best practice as some margin stops can be finicky. It may be difficult to reset your margin stops in the desired location as they may not extend all the way to the left or right with an offset carriage.
 
-### Step 3: Move the Margin Stops
+### Step 3: Move the margin stops
 
 The location of your margin stops determine where your sentences will begin and end on the paper. You must manually move the margin stops to set your desired margin size.
 
@@ -37,22 +37,22 @@ The location of your margin stops determine where your sentences will begin and 
 2. Slide the left margin stop to where you want to start typing on your paper, and release pressure from the tab to set it in place.
 3. Repeat for the right margin stop, setting it where you want your text to end on your paper.
 
-### Step 4: Test your Margins
+### Step 4: Test the margins
 
 - To test the success of this margin setting, slide the carriage between each margin stop. The carriage should halt in movement at each stop.
 
-### Additional Tips
+### Additional tips
 
 <!-- See feedback anout tips from the loading paper -->
 
 - If you want to continue typing past your margin, most typewriters are equipped with a Margin Release key or lever. This may be denoted by arrows, the letters “M-R" or "MAR REL," or something similar. Simply press this key or lever, and the margin stop on the right side will be released and you can continue typing on your current line. This is the case for both visible and non-visible margin settings.
 - Most typewriters are equipped with a bell that will ring when you are 5 character spaces away from hitting your right margin. This is so that, when you are typing, you will know if you need to move on to the next line or hyphenate a word at the end of your current line.
 
-## Setting Line Spacing
+## Setting line spacing
 
 Manual typewriters allow you to easily adjust the line spacing of your text. More expensive, higher-level typewriters typically have more options for line spacing than older, simpler, or cheaper models. Most commonly, such as seen on a Smith Corona, a typewriter will have 3 options for line spacing. To set line spacing, follow the steps below:
 
-### Step 1: Identify your line spacer
+### Step 1: Identify your line spacing lever
 
 - The line spacer is a small lever located on the left hand side of the typewriter, usually right above the carriage return lever.
 
