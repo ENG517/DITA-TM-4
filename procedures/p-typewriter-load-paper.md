@@ -12,7 +12,7 @@ There are minimal materials required to load paper into a typewriter:
 
 ## Loading the Paper
 
-### 1. Identify the important typewriter mechanisms
+### 1. Identify important typewriter mechanisms
 
 Locate the following important typewriter mechanisms for your typewriter using the image provided.
 
@@ -27,7 +27,7 @@ Locate the following important typewriter mechanisms for your typewriter using t
 
   >Note: The example above is a general layout of a manual typewriter. Your typewriter may look slightly different than the example shown, but the above mechanisms are generally the same across manual typewriter models and brands.
 
-### 2. Remove the existing paper, if applicable.
+### 2. Remove the existing paper, if applicable
 
 1. Pull back the paper bail to an open position to release its hold on the paper.
 2. Pull back the paper release lever.
@@ -48,12 +48,14 @@ Locate the following important typewriter mechanisms for your typewriter using t
 
 1. Move the paper bail back to a closed position so that it is resting against the paper.
 
-### 6. Test and Type
+### 6. Test and type
 
 1. Use the return lever to move the carriage to the left margin and begin typing.
 2. If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly. 
 
 ## Common Issues To Look Out For
+
+<!-- I appreciate this content, but I wonder if you should put it in the places where they typically occur. Or, leave these subsections as is, but reference then in your procedure, where they are applicable. -->
 
 If you are loading paper into a typewriter for the first time and followed all of the steps above but your paper seems to be moving excessively, check for these common problems:
 
