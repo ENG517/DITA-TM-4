@@ -1,17 +1,15 @@
-# How To Change a Typewriter Ribbon
+# How To Change a Typewriter Ribbon On A 1950's Smith Corona Typewriter
 
-So, you've been writing on your typewriter for a while and your text is starting to look a bit see-through. Luckily, there's a simple fix for that! Read on to learn how to replace a typewriter ribbon and eliminate those obnoxiously transparent letters.
-
->Note: The images used in this tutorial are for a Brother typewriter. Different typewriters may have different, less complex spool mechanisms, and may not include a spring-loaded arm or spool shaft pin.
+So, you've been writing on your typewriter for a while and your text is starting to look a bit see-through. Luckily, there's a simple fix for that! Read on to learn how to replace a typewriter ribbon and eliminate those obnoxious transparent letters.
 
 ## Materials
 
 Not much is required to successfully change your typewriters ink ribbon. All you need is:
  1. A Typewriter
  2. A New Ink Ribbon
-     > Note: Most typewriters are compatible with universal ribbons. However, it is important to research your typewriter model to ensure a specific ribbon size, spool size, or cassette type is not required. This is particularly important for older models and electric typewriters. 
+     > Note: Most Smith Corona typewriters are compatible with universal ribbons. However, it is important to research your typewriter model to ensure a specific ribbon size, spool size, or cassette type is not required.
  3. Gloves (optional)
-     - Typewriter ribbons are fully saturated in ink, so handling them can get quite messy. If you prefer to remain ink-stain free, nitrile, latex, or plastic gloves are recommended.
+     - Typewriter ribbons are fully saturated in ink, so handling them can get quite messy. If you prefer to remain ink-stain free, wearing nitrile, latex, or plastic gloves are recommended.
  4. Paper Towels/Cleaning Cloth (optional)
      - Although optional, having something to wipe down excess ink from the work surface and the typewriters interior can be helpful to make this simple task go smoothly!
 
@@ -23,16 +21,17 @@ Put on your gloves and lay out plastic surface protection or paper towels/cloths
 ## Changing the Ribbon
 
 To change your typewriter ribbon, follow these steps:
- 1. Remove Ribbon Cover
-     - Gently release ribbon cover prongs from their grommets and lift from the typewriter
+ 1. Lift The Ribbon Cover
+     - Gently lift the front edge of the ribbon cover until it is fully opened.
 
      ![Ribbon Cover](/assets/images/typewriter-ribbon-cover.png)
 
      >*Figure 1: Ribbon Cover*
 
  2. Remove Existing Typewriter Ribbon
-     - Pull back one of the spring-loaded ribbon arms and lift the ribbon spool from its respective ribbon spool shaft
-     - Repeat for the second ribbon spool
+     - Slowly lift one of the ribbon spools from its metal spool holder
+     - Gently pull the ribbon upwards and out of the auto-reversing bracket
+     - Repeat the above two steps for the second ribbon spool
      - Locate the set of ribbon guides that are in front of the ribbon vibrator
      - Carefully unthread the existing ribbon through the small slits in the ribbon guides
 
@@ -53,17 +52,14 @@ To change your typewriter ribbon, follow these steps:
      >*Figure 4: New Ribbon Spool*
 
 
-     - Pull back one of the spring-loaded ribbon arms and place one of the new ribbon spools onto the ribbon spool shaft 
+     - Place one of the new ribbon spools onto the ribbon spool shaft so that the spool shaft pin fits into the designated slot on the new ribbon spool
      - Ensure that the ribbon coming off of the spool is directed toward the back of the typewriter and is not twisted
-     - Adjust the ribbon spool so that the spool shaft pin fits into the designated slot on the new ribbon spool
-     - Ensure the ribbon is flush with the spool and let go of the spring-loaded ribbon arm
+     - Carefully slide the ribbon into the auto-reverse bracket directly next to the metal spool shaft
      - Repeat for the other ribbon spool
  4. Thread the ribbon
      - Locate the set of ribbon guides that are in front of the ribbon vibrator
      - Take the ribbon between each spool and feed it through the small slots on each side of the ribbon guide so that the ribbon between each guide is closest to the typewriter platen
-     - Locate the auto-reversing brackets next to each ribbon spool
-     - For each ribbon spool, thread the excess ribbon through the slot in the auto-reversing bracket
-     - Gently roll each ribbon spool so that the ribbon is taut, but not tightened too much
+     - Gently rotate each ribbon spool so that the ribbon is taut, but not tightened too much
 
      
      ![Successfully Threaded Ribbon](/assets/images/typewriter-correct-threading.png)
@@ -73,8 +69,8 @@ To change your typewriter ribbon, follow these steps:
  5. Clean typewriter interior and hands
      - Carefully wipe any excess ink off of the interior of the typewriter
      - Clean your hands or remove your gloves
- 6. Replace ribbon cover
-     - Line up the ribbon cover prongs with the typewriter grommets and press down to reattach the ribbon cover
+ 6. Close the ribbon cover
+     - Gently push the ribbon cover down until it is fully closed
  7. Test the new Ribbon
     - Type out a few words to ensure the ribbon ink is installed and working as desired
     - Note: The letters may look smudgy at first, this is normal and likely due to excessive ink coming off of the ribbon during the installation process. It should resolve after typing a sentence or two. 
