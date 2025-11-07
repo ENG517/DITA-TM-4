@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_solvent_instructions">
+  <title>Surface Cleaning and Solvent Precautions</title>
+  <shortdesc>
+  Guidelines for safely using solvents to clean typewriter surfaces without causing damage.
+  </shortdesc>
+  <conbody>
+  <ul>
+      <li>
+        <b>Warning:</b> If bubbling, discoloration, or paint stripping occurs, the cleaner should be removed from the panel immediately, and a gentler cleaning solution should be tested on a small area.
+      </li>
+      <li>
+        <b>Warning:</b> Contact with decals, branding components, or model names should be avoided, as even mild soap and water can remove painted details.
+      </li>
+      <li>
+        <b>Warning:</b> Mineral spirits should not come into contact with any rubber or soft-plastic components of the typewriter, including the platen, feeder, and paper bail rollers, as prolonged exposure will degrade the rubber over time.
+      </li>
+    </ul>
+
+    <note>
+      If key caps, knobs, or other high-touch surfaces have tar buildup indicated by severe yellowing, they may be soaked in a 3% hydrogen peroxide solution for 4 to 8 hours to remove discoloration.
+    </note>
+
+    <p>
+      If the typewriter has steel or aluminum panels, car wax may be applied according to the product directions to create a glossy finish and prevent rusting.
+    </p>
+  </conbody>
+</concept>
