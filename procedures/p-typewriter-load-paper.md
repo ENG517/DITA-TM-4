@@ -6,20 +6,20 @@
 
 There are minimal materials required to load paper into a typewriter:
 
- 1. A 1950's Manual Smith Corona Typewriter
- 2. Paper
+ 1. A 1950's Manual Smith Corona Typewriter.
+ 2. Typing paper.
      - Most manual typewriters can use regular ol' printer paper, though some older models work best with thicker stock paper. It will likely take some trial and error to determine what works best for you.
 
-## Loading the Paper
+## Loading the paper
 
-### 1. Identify important typewriter mechanisms
+### Step 1: Identify important typewriter mechanisms
 
 Locate the following important typewriter mechanisms for your typewriter using the image provided.
 
-  - Paper Bail
-  - Paper Release Lever
-  - Platen
-  - Platen-Knob/Roller-Knob
+  - Paper Bail.
+  - Paper Release Lever.
+  - Platen.
+  - Platen-Knob/Roller-Knob.
 
   ![Typewriter Anatomy](/assets/images/typewriter-anatomy-load-paper.png)
 
@@ -27,28 +27,28 @@ Locate the following important typewriter mechanisms for your typewriter using t
 
   >Note: The example above is a general layout of a manual typewriter. Your typewriter may look slightly different than the example shown, but the above mechanisms are generally the same across manual typewriter models and brands.
 
-### 2. Remove the existing paper, if applicable
+### Step 2: Remove the existing paper, if applicable
 
 1. Pull back the paper bail to an open position to release its hold on the paper.
 2. Pull back the paper release lever.
     > Note: This is a very important step. While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.
 3. Roll the platen knob forward until the existing sheet of paper is fully removed.
 
-### 3. Insert the new paper
+### Step 3: Insert the new paper
 
 1. Manually feed a new sheet of paper downward behind the platen.
 2. Push the paper release lever back so that it is deactivated.
 
-### 4. Roll and adjust the new sheet of paper
+### Step 4: Roll and adjust the new sheet of paper
 
 1. Roll the platen knob forwards, towards the back of the typewriter until the paper begins to come out from under the platen roller.
 2. Curve the paper backwards so that it is behind the paper bail.
 
-### 5. Readjust the paper bail
+### Step 5: Readjust the paper bail
 
 1. Move the paper bail back to a closed position so that it is resting against the paper.
 
-### 6. Test and type
+### Step 6: Test and type
 
 1. Use the return lever to move the carriage to the left margin and begin typing.
 2. If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly. 
