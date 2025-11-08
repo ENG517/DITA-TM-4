@@ -2,36 +2,25 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_clean_exterior">
   <title>Clean the Exterior</title>
-   <shortdesc>
-     Smith Corona Typewriter panels are typically made of non-porous material that will resist staining from dirt, ink, and other debris. Mild soap and water is typically an adequate cleaning solution, but other household cleaners and detergents may also be used.
-  </shortdesc>
   <taskbody>
        <steps>
         <step>
           <cmd>Patch test cleaners on all panel surfaces by taking a cotton swab's worth of your cleaner and rubbing it onto a small, inconspicuous section of each panel.</cmd>
-          <info>Warning: If bubbling, discoloration, or paint stripping occurs, remove the cleaner from the panel immediately and patch test a gentler cleaning solution.
-          Note: Do this for every panel, just in case the panels have been replaced, repainted, or refinished in the past, as they may react with certain chemicals.</info>
         </step>
         <step>
           <cmd>Apply cleaning solution to a lint free rag, and then apply to the typewriter panels in thin coats, using a circular rubbing motion to clean the surface. Repeat until you have reached your desired cleanliness.</cmd>
-          <info>Warning: Avoid touching any decals, branding components, or model names on the typewriter as even mild soap and water can remove the paint.
-          Note: Do not spray cleaner directly onto the machine panels, as it can leave streaks on the machine where the solution concentration is highest.</info> 
         </step>
         <step>
           <cmd>Apply cleaning solution to a cotton swab, and gently clean around any labels, decals, or model/branding names with extra caution to avoid removing the label paint.</cmd>
         </step>
         <step>
           <cmd>Apply cleaning solution to a new cotton swab, and gently clean typewriter keys and knobs, repeating with a fresh cotton swab as needed.</cmd>
-          <info>Note: If key caps, knobs, or other high-touch surfaces have tar build up, indicated by severe yellowing of their surfaces, you may remove them and soak in a 3% hydrogen peroxide solution for 4 to 8 hours.</info>
         </step>
         <step>
           <cmd>Dampen a lint-free cloth with clean water and wipe down the panels to remove any excess cleaner.</cmd>
         </step>
         <step>
           <cmd>Wipe down the panels with a dry cloth, and set them in direct sunlight, or in front of a fan, for a few hours to a couple of days to fully dry.</cmd>
-        </step>
-        <step>
-          <cmd>Optional: If your Smith Corona Sterling has steel or aluminum panels, you can apply car wax, as directed on the wax container, to create a glossy finish and prevent rusting.</cmd>
         </step>
       </steps>
   </taskbody>
