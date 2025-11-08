@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_replace_mainspring">
+  <title>Replace The Mainspring</title>
+  <taskbody>
+     <steps>
+      <step>
+        <cmd>Remove the mainspring housing from the typewriter by unscrewing the two housing attachment screws.</cmd>
+      </step>
+      <step>
+        <cmd>Unscrew the back of the mainspring barrel using a small allen wrench.</cmd>
+      </step>
+      <step>
+        <cmd>Put on gloves and eye protection.</cmd>
+      </step>
+       <step>
+        <cmd>Disassemble the mainspring housing by sliding each gear layer off of the center shaft.</cmd>
+      </step>
+       <step>
+        <cmd>Using a pair of needle nosed pliers, gently remove the broken spring pieces from the spring barrel. Ensure that all pieces of the spring are fully removed before continuing.</cmd>
+      </step>
+       <step>
+        <cmd>Set all broken spring pieces aside, away from your work area, to avoid accidentally cutting yourself or damaging fragile components of the typewriter.</cmd>
+      </step>
+       <step>
+        <cmd>Line up the end of your new mainspring with the notch inside the barrel.</cmd>
+      </step>
+       <step>
+        <cmd>Wind the spring up, moving inwards toward the center of the barrel, so that the spring is coiled tightly.</cmd>
+      </step>
+       <step>
+        <cmd>Reassemble the spring barrel with the rest of the housing components by sliding them together along their connecting center shafts.</cmd>
+      </step>
+      <step>
+        <cmd>Complete the reassembly by tightening the hex nut with an allen wrench.</cmd>
+      </step>
+      <step>
+        <cmd>Reattach the spring housing to the typewriter undercarriage using the two attachment screws.</cmd>
+      </step>
+      <step>
+        <cmd>Reattach the drawband to the spring barrel using the steps outlined in the section titled "Reattach the drawband."</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
