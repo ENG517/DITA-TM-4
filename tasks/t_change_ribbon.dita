@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_change_ribbon">
+  <title>Change the Typewriter Ribbon</title>
+  <shortdesc>
+    To maintain your typewriter, you will need to change the ink ribbon inside the machine. Changing the ribbon will ensure that you have fresh ink for all your writing aspirations!
+  </shortdesc>
+  <taskbody>
+
+    <steps>
+      <step>
+        <cmd>Step 1: Lift the ribbon cover</cmd>
+          <substeps>
+            <substep>
+              <cmd>Gently lift the front edge of the ribbon cover until it is fully opened.</cmd>
+            </substep>
+          </substeps>
+      </step>
+      <step>
+        <cmd>Step 2: Remove existing typewriter ribbon</cmd>
+          <substeps>
+            <substep>
+              <cmd>Slowly lift one of the ribbon spools from its metal spool holder.</cmd>
+            </substep>
+            <substep>
+              <cmd>Gently pull the ribbon upwards and out of the auto-reversing bracket.</cmd>
+            </substep>
+            <substep>
+              <cmd>Repeat the above two steps for the second ribbon spool.</cmd>
+            </substep>
+            <substep>
+              <cmd>Locate the set of ribbon guides that are in front of the ribbon vibrator.</cmd>
+            </substep>
+            <substep>
+              <cmd>Carefully unthread the existing ribbon through the small slits in the ribbon guides.</cmd>
+            </substep>
+          </substeps>
+      </step>
+      <step>
+        <cmd>Step 3: Place new typewriter ribbon spools on spool shafts</cmd>
+          <substeps>
+            <substep>
+              <cmd>Place one of the new ribbon spools onto the ribbon spool shaft so that the spool shaft pin fits into the designated slot on the new ribbon spool.</cmd>
+            </substep>
+            <substep>
+              <cmd>Ensure that the ribbon coming off of the spool is directed toward the back of the typewriter and is not twisted.</cmd>
+            </substep>
+            <substep>
+              <cmd>Carefully slide the ribbon into the auto-reverse bracket directly next to the metal spool shaft.</cmd>
+            </substep>
+            <substep>
+              <cmd>Repeat for the other ribbon spool.</cmd>
+            </substep>
+          </substeps>
+      </step>
+      <step>
+        <cmd>Step 4: Thread the ribbon</cmd>
+          <substeps>
+            <substep>
+              <cmd>Take the ribbon between each spool and feed it through the small slots on each side of the ribbon guide, taking care to not stretch the ribbon.</cmd>
+            </substep>
+             <substep>
+              <cmd>Gently rotate each ribbon spool so that the ribbon is taut, but not tightened too much.</cmd>
+            </substep>
+          </substeps>
+      </step>
+      <step>
+        <cmd>Step 5: Clean typewriter interior and hands</cmd>
+          <substeps>
+            <substep>
+              <cmd>Carefully wipe any excess ink off of the interior of the typewriter.</cmd>
+            </substep>
+            <substep>
+              <cmd>Clean your hands or remove your gloves.</cmd>
+            </substep>
+          </substeps>
+      </step>
+      <step>
+        <cmd>Step 6: Close the ribbon cover</cmd>
+          <substeps>
+            <substep>
+              <cmd>Gently push the ribbon cover down until it is fully closed.</cmd>
+            </substep>
+          </substeps>
+      </step>
+      <step>
+        <cmd>Step 7: Test the new ribbon</cmd>
+        <substeps>
+          <substep>
+            <cmd>Type out a few words to ensure the ribbon ink is installed and working as desired.</cmd>
+            <info>Note: The letters may look smudgy at first, this is normal and likely due to excessive ink coming off of the ribbon during the installation process. It should resolve after typing a sentence or two.</info>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+  </taskbody>
+</task>
