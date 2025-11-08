@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_prepare_area">
+  <title>Prepare the Work Area</title>
+  <taskbody>
+      <steps>
+        <step>
+          <cmd>Select a well-ventilated space, ideally with windows and access to direct sunlight.</cmd>
+        </step>
+        <step>
+          <cmd>Lay out paper towels or plastic sheeting to fully cover your work surface.</cmd>
+        </step>
+        <step>
+          <cmd>Put on nitrile gloves so that mineral spirits, cleaning agents, and waxes do not touch your skin.</cmd>
+        </step>
+      </steps>
+  </taskbody>
+</task>
