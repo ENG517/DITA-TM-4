@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_sand_platen">
+  <title>Sand The Platen Roller</title>
+  <shortdesc>After removing the platen roller from the typewriter, follow the steps below to sand the roller.</shortdesc>
+  <taskbody>
+       <steps>
+        <step>
+          <cmd>Wrap your sandpaper around the platen roller.</cmd>
+        </step>
+        <step>
+          <cmd>Turn the platen by hand to evenly sand the entire surface.</cmd>
+        </step>
+        <step>
+          <cmd>Gently work the sandpaper up and down the length of the platen roller to remove the hardened top layer of rubber.</cmd>
+        </step>
+        <step>
+          <cmd>Remove sand debris from the roller using a damp cloth.</cmd>
+        </step>
+        <step>
+          <cmd>Set the roller in front of a fan to quickly dry the surface.</cmd>
+        </step>
+       </steps>
+  </taskbody>
+</task>
