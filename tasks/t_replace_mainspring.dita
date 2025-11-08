@@ -5,7 +5,7 @@
   <taskbody>
      <steps>
       <step>
-        <cmd>Remove the mainspring housing from the typewriter by unscrewing the two barrel attachment screws.</cmd>
+        <cmd>Remove the mainspring housing from the typewriter by unscrewing the two housing attachment screws.</cmd>
       </step>
       <step>
         <cmd>Unscrew the back of the mainspring barrel using a small allen wrench.</cmd>
@@ -35,7 +35,7 @@
         <cmd>Complete the reassembly by tightening the hex nut with an allen wrench.</cmd>
       </step>
       <step>
-        <cmd>Reattach the spring barrel to the typewriter undercarriage using the two attachment screws.</cmd>
+        <cmd>Reattach the spring housing to the typewriter undercarriage using the two attachment screws.</cmd>
       </step>
       <step>
         <cmd>Reattach the drawband to the spring barrel using the steps outlined in the section below, titled "Reattach the drawband."</cmd>
