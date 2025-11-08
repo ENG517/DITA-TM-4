@@ -5,7 +5,7 @@
   <taskbody>
        <steps>
         <step>
-          <cmd>Raise the paper pan support and paper bail so that they are not resting on the platen.</cmd>
+          <cmd>Raise the paper support and paper bail so that they are not resting on the platen.</cmd>
         </step>
         <step>
           <cmd>Activate the carriage centering lever to center the carriage.</cmd>
