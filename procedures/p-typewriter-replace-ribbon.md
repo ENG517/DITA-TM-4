@@ -1,17 +1,17 @@
-# How To Change a Typewriter Ribbon On A 1950's Smith Corona Manual Typewriter
+# How To Change a Typewriter Ribbon on A 1950's Smith Corona Manual Typewriter
 
 So, you've been writing on your typewriter for a while and your text is starting to look a bit see-through. Luckily, there's a simple fix for that! Read on to learn how to **replace a typewriter ribbon** and eliminate those obnoxious transparent letters.
 
 ## Materials
 
-Not much is required to successfully change your typewriters ink ribbon. All you need is:
+Not much is required to successfully change your typewriter's ink ribbon. All you need is:
  1. A 1950's Manual Smith Corona Typewriter.
  2. A New Ink Ribbon.
      > Note: 1950's Manual Smith Corona typewriters are compatible with universal ribbons.
  3. Gloves (optional).
      - Typewriter ribbons are fully saturated in ink, so handling them can get quite messy. If you prefer to remain ink-stain free, wearing nitrile, latex, or plastic gloves are recommended.
  4. Paper Towels/Cleaning Cloth (optional).
-     - Although optional, having something to wipe down excess ink from the work surface and the typewriters interior can be helpful to make this simple task go smoothly!
+     - Although optional, having something to wipe down excess ink from the work surface and the typewriter's interior can be helpful to make this simple task go smoothly!
 
 
 ## Preparation
