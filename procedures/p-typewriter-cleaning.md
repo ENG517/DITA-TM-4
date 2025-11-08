@@ -18,14 +18,14 @@ You will need a few items to successfully clean and maintain your Smith-Corona T
  8. Bottle with nozzle head, or a dropper bottle
  9. Clean rinse water
  10. Soft-bristle brush
-    - A car detailing brush, or tooth brush, can be used
+    - A car detailing brush, or toothbrush, can be used
  11. Stiff-bristle brush
  12. Mineral Spirit
     - Alternative: Gentle degreaser or rubbing alcohol.
  13. Cleaning solution
     - Mild soap and water is ideal, but all-purpose cleaners and detergents can be used.
  14. Cleaning picks
-    - Alternative: tooth picks
+    - Alternative: toothpicks
  15. Cotton swabs
  16. Light-weight oil
     - Sewing machine oil, gun oil, and specialized typewriter oil are acceptable
@@ -123,11 +123,9 @@ Smith Corona Typewriter panels are typically made of non-porous material that wi
 
 Like their typewriter panels, Smith Corona Holiday Cases are made of a non-porous material in order to resist staining, so most stains can easily be removed with mild soap and water. 
 
-If your machine came in a different style of case, follow the instructions below in accordance with the type of case you have. 
-
-If your machine did not come with a portable case, but rather a dust cover, follow the directions below while skipping the steps related to case frames and hinges (steps 1, 2, 6, and 7).
-
-If your machine did not come with its portable case or a dust cover, consider buying one of the two as it will prolong the life of your machine.
+- If your machine came in a **different style of case**, follow the instructions below in accordance with the type of case you have. 
+- If your machine **did not come with a portable case**, but rather a **dust cover**, follow the directions below while skipping the steps related to case frames and hinges (steps 1, 2, 6, and 7).
+- If your machine **did not come with its portable case or a dust cover**, consider buying one of the two as it will prolong the life of your machine.
 
  1. Remove the fastening frame from the case by pressing the frame release lever to the right, while simultaneously lifting the bottom of the frame upwards and sliding the frame points out of their respective rear retainer slots.
  2. Remove the lid from the case by fully opening the case and pressing both the right and left hinge latches simultaneously and unhooking them.
