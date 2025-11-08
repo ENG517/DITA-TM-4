@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_refinish_platen">
+  <title>Refinish The Platen Roller</title>
+  <shortdesc>After cleaning, removing, and sanding the original roller surface, follow the next steps to refinish the roller.</shortdesc>
+  <taskbody>
+       <steps>
+        <step>
+          <cmd>Unwrap and open the heat shrink tubing.</cmd>
+        </step>
+        <step>
+          <cmd>Measure the length of the platen roller and add 1 inch in length to the obtained measurement.</cmd>
+        </step>
+        <step>
+          <cmd>Cut the tubing to the necessary length.</cmd>
+        </step>
+        <step>
+          <cmd>Insert the platen roller into the tubing, ensuring it is centered on the roller with equal lengths of overlap on each side.</cmd>
+        </step>
+        <step>
+          <cmd>Apply heat evenly to the entire tubing length using a heat gun until the new tubing has fully adhered to the roller.</cmd>
+        </step>
+        <step>
+          <cmd>Insert the newly refinished platen roller into the typewriter using the section below, titled "Insert the Platen Roller."</cmd>
+        </step>
+       </steps>
+  </taskbody>
+</task>
