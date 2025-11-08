@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_remove_paper">
+  <title>Remove Typewriter Paper</title>
+  <shortdesc>
+    As you use your typewriter, you will need to know how to remove the paper that is already in the machine.
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Pull back the paper bail to an open position to release its hold on the paper.</cmd>
+      </step>
+      <step>
+        <cmd>Pull back the paper release lever.</cmd>
+          <info>Note: This is a very important step. While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.</info>
+      </step>
+      <step>
+        <cmd>Roll the platen knob forward until the existing sheet of paper is fully removed.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
