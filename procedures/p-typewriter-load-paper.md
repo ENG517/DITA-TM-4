@@ -16,10 +16,10 @@ There are minimal materials required to load paper into a typewriter:
 
 Locate the following important typewriter mechanisms for your typewriter using the image provided.
 
-  - Paper Bail.
-  - Paper Release Lever.
-  - Platen.
-  - Platen-Knob/Roller-Knob.
+  - Paper Bail
+  - Paper Release Lever
+  - Platen
+  - Platen-Knob/Roller-Knob
 
   ![Typewriter Anatomy](/assets/images/typewriter-anatomy-load-paper.png)
 
@@ -51,11 +51,10 @@ Locate the following important typewriter mechanisms for your typewriter using t
 ### Step 6: Test and type
 
 1. Use the return lever to move the carriage to the left margin and begin typing.
-2. If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly. 
+2. If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly. Try loading the paper again and see if the issues resolve.
+  - If you have tried to load the paper multiple times and are still having issues, read the following section on "Common Issues To Look Out For," and see if they could be the source of your problems.
 
 ## Common Issues To Look Out For
-
-<!-- I appreciate this content, but I wonder if you should put it in the places where they typically occur. Or, leave these subsections as is, but reference then in your procedure, where they are applicable. -->
 
 If you are loading paper into a typewriter for the first time and followed all of the steps above but your paper seems to be moving excessively, check for these common problems:
 
@@ -72,7 +71,6 @@ After a few decades or so, platen rollers can become worn and hardened, making t
 Sometimes, the paper bail or its components may be damaged, resulting in difficulty keeping your paper in place.
 - Visually inspect the paper bail bar. If it is bent or misshapen in any way, the paper bail rollers may not be able to make contact with the paper. If this is the case, try to gently bend the bar back into place. If you cannot correct the damage, it may need to be replaced.
 - Visually inspect the paper bail rollers. If they are hardened, cracked, or flattened, and are unable to make contact with your paper, they need to be replaced.
-
 
 ### Paper Thickness
 
