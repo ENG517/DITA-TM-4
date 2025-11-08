@@ -58,20 +58,18 @@ If any repairs or replacements to the drawband or mainspring are required, you m
 
 ## Replace The Mainspring
 
-***Warning***: Typewriter mainsprings are wound very tightly. Wearing gloves and eye protection is essential to protect your hands and eyes from the sharp edges of the spring, as they can and often will pop out quickly during the removal process. 
+***Warning***: Typewriter mainsprings are wound very tightly. Wearing gloves and eye protection for the following steps is essential to protect your hands and eyes from the sharp edges of the spring, as they can and often will pop out quickly during the removal process. 
 
  1. Remove the mainspring housing from the typewriter by unscrewing the two housing attachment screws.
  2. Unscrew the back of the mainspring barrel using a small allen wrench.
- 3. Put on gloves and eye protection.
- 4. Disassemble the mainspring housing by sliding each gear layer off of the center shaft.
- 5. Using a pair of needle nosed pliers, gently remove the broken spring pieces from the spring barrel. Ensure that all pieces of the spring are fully removed before continuing.
- 6. Set all broken spring pieces aside, away from your work area, to avoid accidentally cutting yourself or damaging fragile components of the typewriter.
- 7. Line up the end of your new mainspring with the notch inside the barrel.
- 8. Wind the spring up, moving inwards toward the center of the barrel, so that the spring is coiled tightly.
- 9. Reassemble the spring barrel with the rest of the housing components by sliding them together along their connecting center shafts.
- 10. Complete the reassembly by tightening the hex nut with an allen wrench.
- 11. Reattach the spring barrel to the typewriter undercarriage using the two attachment screws.
- 12. Reattach the drawband to the spring barrel using the steps outlined in the section below, titled “Reattach the drawband.”
+ 3. Disassemble the mainspring housing by sliding each gear layer off of the center shaft.
+ 4. Using a pair of needle nosed pliers, gently remove the broken spring pieces from the spring barrel. Ensure that all pieces of the spring are fully removed before continuing.
+ 5. Set all broken spring pieces aside, away from your work area, to avoid accidentally cutting yourself or damaging fragile components of the typewriter.
+ 6. Line up the end of your new mainspring with the notch inside the barrel.
+ 7. Wind the spring up, moving inwards toward the center of the barrel, so that the spring is coiled tightly.
+ 8. Reassemble the spring barrel with the rest of the housing components by sliding the components together along their connecting center shafts and tightening the hex nut with an allen wrench.
+ 9. Reattach the spring barrel to the typewriter undercarriage using the two attachment screws.
+ 10. Reattach the drawband to the spring barrel using the steps outlined in the section below, titled “Reattach the drawband.”
 
 ## Reattach The Drawband
 
