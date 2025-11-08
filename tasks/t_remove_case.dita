@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_remove_case">
+  <title>Remove Typewriter From Case</title>
+  <shortdesc>
+    Portable Smith Corona machines will typically come in a popular case known as the “Holiday Case.” It is a bit larger than normal typewriter carriers, and has the ability of being disassembled.
+  </shortdesc>
+  <taskbody>
+      <steps>
+        <step>
+          <cmd>Place the typewriter case down on a level surface, with the thinner side of the case on the bottom.</cmd>
+        </step>
+        <step>
+          <cmd>Press the double safety lock to open the case.</cmd>
+        </step>
+        <step>
+          <cmd>Push the machine release button back, towards the carriage return, to release the machine from the case.</cmd>
+        </step>
+        <step>
+          <cmd>Lift the front side of the machine upwards, 2 to 3 inches, and pull the typewriter towards yourself, away from the hinges of the case.</cmd>
+        </step>
+      </steps>
+  </taskbody>
+</task>
