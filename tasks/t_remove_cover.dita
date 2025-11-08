@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_remove_cover">
-  <title>Remove the Ribbon Cover</title>
+  <title>Lift the Ribbon Cover</title>
   <shortdesc>
-    You will need to remove the ribbon cover to access the ribbons, rollers, and type slugs. By removing the cover, you will be able to replace and clean these parts as needed.
+    You will need to remove the ribbon cover to access the ribbons and type slugs. By removing the cover, you will be able to replace and clean these parts as needed.
   </shortdesc>
   <taskbody>
     <steps>
       <step>
-        <cmd>Gently release ribbon cover prongs from their grommets and lift from the typewriter.</cmd>
+        <cmd>Gently lift the front edge of the ribbon cover until it is fully opened.</cmd>
       </step>
     </steps>
   </taskbody>
