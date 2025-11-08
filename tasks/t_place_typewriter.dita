@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_place_typewriter">
+  <title>Place Typewriter Back Into Case</title>
+  <taskbody>
+       <steps>
+        <step>
+          <cmd>Center the carriage of the typewriter.</cmd>
+        </step>
+        <step>
+          <cmd>Pick up the typewriter and tilt the front end of the machine upwards approximately 2 to 3 inches.</cmd>
+        </step>
+        <step>
+          <cmd>Slowly insert the typewriter into the case, ensuring that the double-pronged cleat at the back of the case slides into the two slots on the back of the machine.</cmd>
+        </step>
+        <step>
+          <cmd>Push the front of the machine down so that it latches onto the front cleat.</cmd>
+        </step>
+        <step>
+          <cmd>Check to ensure that the machine is secure by lifting the front end of the typewriter. If it is secure, it will not lift from the case.</cmd>
+        </step>
+       </steps>
+  </taskbody>
+</task>
