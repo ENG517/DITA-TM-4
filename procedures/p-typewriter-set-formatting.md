@@ -31,7 +31,7 @@ Smith Corona machines have visible margins, which means margin size is set using
 
 ### Step 3: Move the margin stops
 
-The location of your margin stops determine where your sentences will begin and end on the paper. You must manually move the margin stops to set your desired margin size.
+The location of your margin stops determines where your sentences will begin and end on the paper. You must manually move the margin stops to set your desired margin size.
 
 1. Press down and slide the margin stop left or right, using the measurements on your carriage as a guide.
 2. Slide the left margin stop to where you want to start typing on your paper, and release pressure from the tab to set it in place.
@@ -54,7 +54,7 @@ Manual typewriters allow you to easily adjust the line spacing of your text. Mor
 
 ### Step 1: Identify your line spacing lever
 
-- The line spacer is a small lever located on the left hand side of the typewriter, usually right above the carriage return lever.
+- The line spacer is a small lever located on the left-hand side of the typewriter, usually right above the carriage return lever.
 
 ### Step 2: Shift the lever to the spacing you prefer
 
