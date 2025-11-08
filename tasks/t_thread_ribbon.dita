@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_thread_ribbon">
+  <title>Thread the Ribbon</title>
+  <shortdesc>
+    When you are changing the ribbon of your typewriter, you will need to thread the ribbon.
+  </shortdesc>
+  <taskbody>
+    <prereq>Prior to threading the ribbon, your ribbon spools need to be in place.</prereq>
+      <steps>
+        <step>
+          <cmd>Take the ribbon between each spool and feed it through the small slots on each side of the ribbon guide, taking care to not stretch the ribbon.</cmd>
+        </step>
+        <step>
+          <cmd>Gently rotate each ribbon spool so that the ribbon is taut, but not tightened too much.</cmd>
+        </step>
+      </steps>
+  </taskbody>
+</task>
