@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_typewriter_common_formatting">
+  <title>Common Formatting Types Used on a Typewriter</title>
+  <shortdesc>
+    Typewriters are often used today for addressing formal documents, filling out pre-printed forms, or maintaining security in the production of highly confidential, sensitive materials. All of these options have different formatting.
+  </shortdesc>
+  <refbody>
+    <section>
+      <title>Common Typewriter Formatting Types</title>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="5.0*"/>
+          <thead>
+            <row>
+              <entry>
+                <p>Document</p>
+              </entry>
+              <entry>
+                <p>Formatting Description</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Letters</p>
+              </entry>
+              <entry>
+                <p>Papers have 1 inch margins, text is left justified with no first line indentation, single spaced with an extra space between paragraphs.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Mail/Invitation Addresses</p>
+              </entry>
+              <entry>
+                <p>Text is left justified, single spaced, and fully capitalized.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Academic Documents (APA, MLA, CMS)</p>
+              </entry>
+              <entry>
+                <p>Papers have 1 inch margins. Body text is double spaced and left justified with the first line indented. Titles are centered and references contain hanging indentation.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Resumes and CVs</p>
+              </entry>
+              <entry>
+                <p>Papers have 1 inch margins with varied line spacing.</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Crafting/Scrapbooking</p>
+              </entry>
+              <entry>
+                <p>Margins and spacing vary as chosen by the writer.</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </refbody>
+</reference>
