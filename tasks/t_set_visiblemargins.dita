@@ -7,29 +7,22 @@
     <context>Note: It is best to insert your paper before setting your margins, as you may need to use the edge of your paper as a reference.</context>
      <steps>
       <step>
-        <cmd>Locate the Margin Stops.</cmd>
+        <cmd>Step 1: Identify the margin stops</cmd>
       </step>
       <step>
-        <cmd>Locate the end of the drawband, ensuring it is still knotted or has a hooked end.</cmd>
-        <substeps>
-          <substep><cmd>Stops are small metal tabs that allow you to set margins by stopping the carriage at a fixed point, so that you cannot type in the designated margin space. They are typically located on the back or top of the carriage.</cmd>
-          </substep> 
-        </substeps>
-      </step>
-      <step>
-        <cmd>Center your Carriage.</cmd>
+        <cmd>Step 2: Center your carriage</cmd>
         <substeps>
           <substep>
-            <cmd>djust your carriage so that it is centered with the ruler on the typewriter.</cmd>
+            <cmd>Press the Carriage Centering Lever on the right-hand side of the machine to center the carriage.</cmd>
           </substep>
         </substeps>
         <info>Note: While centering the carriage is not required, it is best practice as some margin stops can be finicky. It may be difficult to reset your margin stops in the desired location as they may not extend all the way to the left or right with an offset carriage.</info>
       </step>
        <step>
-        <cmd>Move the Margin Stops.</cmd>
+        <cmd>Step 3: Move the margin stops</cmd>
         <substeps>
           <substep>
-            <cmd>To move a visible margin stop, press down and slide left or right, using the measurements on your carriage as a guide.</cmd>
+            <cmd>Press down and slide the margin stop left or right, using the measurements on your carriage as a guide.</cmd>
           </substep>
           <substep>
             <cmd>Slide the left margin stop to where you want to start typing on your paper, and release pressure from the tab to set it in place.</cmd>
@@ -40,7 +33,7 @@
         </substeps>
       </step>
        <step>
-        <cmd>Test your Margins.</cmd>
+        <cmd>Step 3: Test the margins</cmd>
         <substeps>
           <substep>
             <cmd>To test the success of this margin setting, slide the carriage between each margin stop. The carriage should halt in movement at each stop.</cmd>
