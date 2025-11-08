@@ -2,9 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_clean_interior">
   <title>Clean the Interior</title>
-   <shortdesc>
-     When cleaning the interior components of a typewriter, it is best to use mineral spirits, as they are most effective in dissolving and removing stuck on grime without damaging the internal mechanisms. However, gentle degreasers and rubbing alcohol can also be used in place of mineral spirits.
-  </shortdesc>
   <taskbody>
     <context>Warning: Avoid getting mineral spirits on any rubber or soft-plastic components of the typewriter, especially the platen, feeder, and paper bail rollers, as it will degrade the rubber over time.</context>
         <steps>
