@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_lubricate_mechanics">
+  <title>Lubricate the Mechanics</title>
+  <shortdesc>Portable typewriters generally do not need regular lubrication, as they are protected by their casing. However, metal-on-metal components can sometimes develop friction, which will require occasional lubrication to remedy.</shortdesc>
+  <taskbody>
+     <steps>
+      <step>
+        <cmd>Identify metal-on-metal connections, gears, and pivot points that seem to be hesitant in movement or completely stiff.</cmd>
+        <info>Common areas that will need lubrication include the carriage rails, and internal pivot points, levers, and gears.</info>
+      </step>
+      <step>
+        <cmd>Using a precision applicator, such as a small pipet or medicine dropper, apply one to two drops of oil where needed, immediately wiping away the excess with a rag or cotton swab.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
