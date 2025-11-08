@@ -9,8 +9,13 @@
     <prereq>Before removing the ribbons, you will need to remove the ribbon cover on your typewriter.</prereq>
       <steps>
         <step>
-          <cmd>Pull back one of the spring-loaded ribbon arms and lift the ribbon spool from its respective ribbon spool shaft.</cmd>
-            <info>Repeat for the second ribbon spool.</info>
+          <cmd>Slowly lift one of the ribbon spools from its metal spool holder.</cmd>
+        </step>
+        <step>
+          <cmd>Gently pull the ribbon upwards and out of the auto-reversing bracket.</cmd>
+        </step>
+        <step>
+          <cmd>Repeat the above two steps for the second ribbon spool.</cmd>
         </step>
         <step>
           <cmd>Locate the set of ribbon guides that are in front of the ribbon vibrator.</cmd>
