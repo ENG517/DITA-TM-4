@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_set_linespacing">
+  <title>Set Line Spacing</title>
+  <shortdesc>Manual typewriters allow you to easily adjust the line spacing of your text.</shortdesc>
+  <taskbody>
+     <steps>
+      <step>
+        <cmd>Step 1: Identify your line spacing lever</cmd>
+        <substeps>
+          <substep>
+            <cmd>The line spacer is a small lever located on the left-hand side of the typewriter, usually right above the carriage return lever.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>step 2: Shift the lever to the spacing you prefer</cmd>
+        <substeps>
+          <substep>
+            <cmd>Next to the lever, you will notice some numbering. This numbering corresponds to the pre-set spacing options your machine will have. Typically, a number "1" will correspond to single spacing, "2" will correspond to double spacing, and "3" will correspond to triple spacing.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Step 3: Test the spacing</cmd>
+        <substeps>
+          <substep>
+            <cmd>To ensure you have properly set your desired spacing, type a word or two and hit the carriage return lever to see if your line spacing is set correctly.</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+  </taskbody>
+</task>
