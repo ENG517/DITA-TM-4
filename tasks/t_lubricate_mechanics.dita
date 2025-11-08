@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_lubricate_mechanics">
   <title>Lubricate the Mechanics</title>
-  <shortdesc>Whether your drawband has come loose, you are replacing your drawband, or have made repairs to the mainspring, you will now need to reattach the drawband to the spring barrel.</shortdesc>
+  <shortdesc>Portable typewriters generally do not need regular lubrication, as they are protected by their casing. However, metal-on-metal components can sometimes develop friction, which will require occasional lubrication to remedy.</shortdesc>
   <taskbody>
      <steps>
       <step>
@@ -11,7 +11,6 @@
       </step>
       <step>
         <cmd>Using a precision applicator, such as a small pipet or medicine dropper, apply one to two drops of oil where needed, immediately wiping away the excess with a rag or cotton swab.</cmd>
-        <info>Note: It is important not to excessively oil a typewriter, as even light weight lubricants will attract dust and debris over time, causing more harm than good in the long run. Only use minimal oil, wiping away any excess as you go.</info>
       </step>
     </steps>
   </taskbody>
