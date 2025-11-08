@@ -19,9 +19,6 @@
         <step>
           <cmd>Check to ensure that the machine is secure by lifting the front end of the typewriter. If it is secure, it will not lift from the case.</cmd>
         </step>
-        <step>
-          <cmd>Optional: If the typewriter will be unused, or in storage, for extended periods of time, consider adding one or two moisture packets, such as silica gel packs, inside of the case to absorb excess moisture and prevent rusting.</cmd>
-        </step>
        </steps>
   </taskbody>
 </task>
