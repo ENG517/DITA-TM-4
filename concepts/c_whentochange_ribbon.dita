@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_enter_unique_id_here">
+  <title>When to Change Ribbon</title>
+  <shortdesc>
+   The clarity and visibility of typed text indicate when a typewriter ribbon requires replacement.
+  </shortdesc>
+<conbody>
+    <p>
+      Over time, the ink on a typewriter ribbon fades as it transfers to paper through repeated use. 
+      When this occurs, the typed characters begin to appear faint or semi-transparent, suggesting that the ribbon has lost sufficient ink saturation to produce crisp impressions.
+    </p>
+
+    <section>
+      <title>Visual Indicators</title>
+      <p>
+        The most common sign that a ribbon requires replacement is the appearance of pale or see-through letters on the page. 
+        These visual changes reflect the depletion of ink and reduced transfer efficiency during typing.
+      </p>
+    </section>
+
+    <section>
+      <title>Variations Among Typewriter Models</title>
+      <p>
+        Typewriter construction varies by model and manufacturer. 
+        Some devices, such as certain Brother models, include additional components like spring-loaded arms or spool shaft pins that influence how ribbons are replaced and tensioned. 
+        Other designs feature simpler spool mechanisms that rely solely on manual tension adjustment.
+      </p>
+    </section>
+
+  </conbody>
+</concept>
