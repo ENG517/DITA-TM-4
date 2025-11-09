@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_materials_required_drawsping_repair">
+  <title>Materials Required for Drawband and Mainspring Repairs</title>
+  <conbody>
+    <section>
+      <title>General Repair Materials</title>
+      <p>
+        For all of the repairs listed below, the following materials are required:
+      </p>
+      <ul>
+        <li>Small screwdriver set</li>
+        <li>Work gloves</li>
+        <li>Eye protection</li>
+        <li>Lint-free cloth</li>
+        <li>Needle-nose pliers</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Replacing Mainspring Materials</title>
+      <ul>
+        <li>New mainspring</li>
+        <li>Small Allen wrench</li>
+        <li>
+          The exact size of the wrench depends on the existing hex nut in the mainspring housing.
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Repairing Mainspring Materials</title>
+      <ul>
+        <li>Strong degreaser</li>
+        <li>Lacquer thinner or rubbing alcohol</li>
+        <li>Pipette or medicine dropper</li>
+        <li>Compressed air</li>
+        <li>Stiff-bristle brush</li>
+      </ul>
+    </section>
+  </conbody>
+</concept>
