@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_general_maintenance">
+  <title>Conducting General Maintenance for the Portable Smith Corona Sterling Manual Typewriter</title>
+
+<!-- Concept Topics-->
+
+  <topicref type="concept" href="concepts/c_workspace_preparation.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Preparation of Workspace for Typewriter Maintenance</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_materials_required_clean_typewriter.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Materials Required to Clean Typewriter</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_cleaning_material_types.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Cleaning Materials for Typewriters</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_cleaning_warnings.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Warnings and Precautions for Cleaning Materials</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_whentochange_ribbon.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>When to Change Ribbon</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_materials_required_to_replace_ribbon" format="ditamap">
+    <topicmeta>
+      <navtitle>Materials for Typewriter Ribbon Replacement</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_preparation_to_change_ribbondita" format="ditamap">
+    <topicmeta>
+      <navtitle>Preparation for Replacing the Typewriter Ribbon</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_ribbon_issues_post_replacement.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Potential Issues After Replacing Ribbon</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_inspection_of_drawband_and_mainspring.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Manual Inspection of Drawband and Mainspring</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_diagnosis_for_drawband_and_mainspring_conditions.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Diagnosis of Drawband and Mainspring Conditions</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_materials_required_mainspring_drawband_repair.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Materials Required for Drawband and Mainspring Repairs</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_Safety_Precautions_Considerations_Mainspring_Repair.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Key Considerations and Safety Precautions During Drawband and Mainspring Repairs</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_symptoms_platen_failure.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Symptoms of Platen Failure</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_diagnosis_platen_conditions.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Diagnosis for Platen Conditions</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="concept" href="concepts/c_materials_required_platen_repair.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>List of Materials Required for Platen Repair and Maintenance</navtitle>
+    </topicmeta>
+  </topicref>
+
+<!-- Task Topics-->
+
+  <topicref type="task" href="tasks/t_prepare_area.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Prepare the Work Area</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_remove_case.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Remove Typewriter From Case</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_remove_cover.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Lift the Ribbon Cover</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_remove_ribbon.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Remove Existing Typewriter Ribbon</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_place_ribbonspools.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Place Ribbon Spools on Spool Shafts</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_thread_ribbon.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Thread the Ribbon</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_dust_typewriter.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Dust Typewriter</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_clean_interior.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Clean the Interior</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_remove_drawband.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Remove The Drawband</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_repair_mainspring.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Repair The Mainspring</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_reattach_drawband.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Reattach The Drawband</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_clean_platen.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Clean The Platen Roller</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_remove_platen.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Remove The Platen Roller</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_sand_platen.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Sand The Platen Roller</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_refinish_platen.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Refinish The Platen Roller</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_insert_platen.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Insert The Platen Roller</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="task" href="tasks/t_place_typewriter.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Place Typewriter Back Into Case</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <!-- Reference Topics-->
+
+  <topicref type="reference" href="references/r_typewriter_anatomy_definitions" format="ditamap">
+    <topicmeta>
+      <navtitle>Typewriter Anatomy Definitions</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="reference" href="references/r_typewriter_maintenance_materials.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Typewriter Maintenance Materials</navtitle>
+    </topicmeta>
+  </topicref>
+
+  <topicref type="reference" href="references/r_typewriter_holiday_case_terms.dita" format="ditamap">
+    <topicmeta>
+      <navtitle>Components of a Smith Corona Holiday Case</navtitle>
+    </topicmeta>
+  </topicref>
+  
+</map>
