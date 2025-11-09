@@ -219,21 +219,21 @@
 
   <!-- Reference Topics-->
 
-  <topicref type="reference" href="" format="ditamap">
+  <topicref type="reference" href="references/r_typewriter_maintenance_materials.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Typewriter Anatomy Definitions</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="reference" href="" format="ditamap">
+  <topicref type="reference" href="references/r_typewriter_maintenance_materials.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Typewriter Maintenance Materials</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="reference" href="" format="ditamap">
+  <topicref type="reference" href="references/r_typewriter_holiday_case_terms.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Components of a Smith Corona Holiday Case</navtitle>
     </topicmeta>
   </topicref>
   
