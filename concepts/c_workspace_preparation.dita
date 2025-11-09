@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_workspace_preparation">
-  <title>Preparation of Workspace for Typewriter Usage</title>
+  <title>Preparation of Workspace for Typewriter Maintenance</title>
   <shortdesc>
   A clean and well-ventilated work area ensures safe and effective cleaning and maintenance of the typewriter.
   </shortdesc>
@@ -19,7 +19,7 @@
     </ul>
 
     <note>
-     Working in a proper ventilates space ensures safety when using cleaning agents and allows for faster drying times when rinsing components.
+     Working in a proper ventilated space ensures safety when using cleaning agents and allows for faster drying times when rinsing components.
     </note>
   </conbody>
 </concept>
