@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_margin-typing-tips">
-  <title>Additional Tips for Typing Past Margins</title>
+  <title>Additional Margin Formatting Tips</title>
   <shortdesc>
   Typewriters include margin release mechanisms and bell indicators that assist in maintaining line structure and typing awareness.
   </shortdesc>
@@ -18,7 +18,7 @@
     <section>
       <title>Bell Indicator</title>
       <p>
-        A small bell mechanism alerts the typist when the carriage is a few character spaces away from the right margin. 
+        A small bell mechanism alerts the typist when the carriage is a five character spaces away from the end margin. 
         The sound serves as an auditory cue to prepare for a line break or word hyphenation, 
         helping maintain rhythm and alignment during typing.
       </p>
