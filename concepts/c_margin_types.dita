@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_margin_types">
+  <title>Types of Margins on a Typewriter</title>
+  <shortdesc>
+  A typewriter uses two types of margins, visible and non-visible or magic margins. In this model, however, magic margins are not used. 
+  </shortdesc>
+  <conbody>
+<section>
+      <title>The Functionality of Visible Margins</title>
+      <p>
+        Visible margins use physical margin stops that restrict carriage movement. 
+        They appear on older machines and provide a clear, manual way to define left and right boundaries.
+      </p>
+</section>
+  </conbody>
+</concept>
