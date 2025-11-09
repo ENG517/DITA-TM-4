@@ -15,10 +15,20 @@ This repo contains a DITA topic model (TM) related to the necessary steps to use
 A first-time typewriter user, Genesis, has just purchased her very first typewriter. She wants to start using her typewriter for creative writing, but she has never set up a typewriter for use before, and doesn’t know where to begin. She needs to learn how to load paper into her machine, and how to format the paper before she begins typing.
 
 Map Outline:
-- c_filename.dita (File title)
-- c_filename.dita (File title)
-- t_filename.dita (File title)
-  - t_filename.dita (File title)
+- c_basic_typewriter_mechanisms.dita (Basic Typewriter Mechanisms)
+- c_significance_of_formatting.dita (Significance of Typewriter Formatting)
+- c_margin_typing_tips.dita (Additional Tips for Typing Past Margins)
+- c_line_spacing_options.dita (Line Spacing Options Available in Typewriters)
+- c_determining_paper_type.dita (Determining the Right Type of Paper for your Typewriter)
+- c_loading-paper-issues.dita (Issues in Loading Paper)
+- t_remove_case.dita (Remove Typewriter From Case)
+- t_remove_paper.dita (Remove Typewriter Paper)
+- t_insert_paper.dita (Insert New Paper)
+- t_set_visiblemargins.dita (Set Visible Margins)
+- t_set_linespacing.dita (Set Line Spacing)
+- r_typewriter_anatomy_definitions.dita (Typewriter Anatomy)
+- r_typewriter_common_formatting.dita (Common Formatting Types Used on a Typewriter)
+- r_typewriter_paper_types.dita (Types of Paper You Should and Should Not Use In A Manual Typewriter)
 
 ### User Scenario 2: Intermediate User
 
