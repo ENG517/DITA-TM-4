@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="_map_formattingpaper">
+<map id="_map_genesis">
  
  <title>Loading Paper and Setting Formatting for the Portable Smith Corona Sterling Manual Typewriter</title>
 
@@ -90,15 +90,15 @@
     </topicmeta>
   </topicref>
 
-   <topicref type="reference" href="references/__" format="ditamap">
+   <topicref type="reference" href="references/r_typewriter_case_types.dita" format="ditamap">
         <topicmeta>
       <navtitle>Formatting Styles</navtitle>
     </topicmeta>
   </topicref>
 
-     <topicref type="reference" href="references/__" format="ditamap">
+     <topicref type="reference" href="references/r_typewriter_paper_types.dita" format="ditamap">
         <topicmeta>
-      <navtitle>Types of Papers</navtitle>
+      <navtitle>Types of Paper You Should and Should Not Use In A Manual Typewriter</navtitle>
     </topicmeta>
   </topicref>
 
