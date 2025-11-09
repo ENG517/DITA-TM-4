@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_loading-paper-issues">
-  <title>Issues in Loading Paper</title>
+  <title>Common Issues When Loading Paper</title>
   <shortdesc>
   Common issues encountered when loading paper into a typewriter
   </shortdesc>
@@ -9,13 +9,13 @@
     <section>
       <title>Paper Release Lever Activation</title>
       <p>
-        Unintended activation of the paper release lever prevents the platen from holding the paper securely, resulting in excessive movement.
+        Unintended activation of the paper release lever prevents the platen from holding the paper securely, resulting in excessive movement. In such cases, the lever must be double-checked and closed.
       </p>
     </section>
     <section>
       <title>Damaged or Worn Platen</title>
       <p>
-        Over time, platen rollers can harden and lose friction, reducing their grip on paper. Cleaning may temporarily restore texture, but long-term deterioration requires resurfacing or replacement.
+        Over time, platen rollers can harden and lose friction, reducing their grip on paper. Cleaning may temporarily restore texture, but long-term deterioration requires resurfacing or replacement. In this case, cleaning the rollers with a rubber cleaner may help.
       </p>
     </section>
     <section>
@@ -27,7 +27,7 @@
     <section>
       <title>Thin Paper</title>
       <p>
-        Paper that is too thin may slip between the platen and rollers, while overly thick paper can overload the feeding mechanism. Optimal performance depends on using paper stock suited to the machine’s design.
+        Paper that is too thin may slip between the platen and rollers, while overly thick paper can overload the feeding mechanism. Optimal performance depends on using paper stock suited to the machine’s design. Getting a thicker stock paper resolves this issue.
       </p>
     </section>
   </conbody>
