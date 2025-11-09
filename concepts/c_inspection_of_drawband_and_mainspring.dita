@@ -6,11 +6,14 @@
   Visual and manual inspection of the drawband and mainspring helps identify loosened connections and reduced tension that affect carriage performance.
   </shortdesc>
   <conbody>
-<p>
-      Inspection begins by moving the carriage to the right side of the machine. 
-      A visual check of the drawband helps determine whether it has loosened or disconnected from the spring barrel. 
-      Manually rotating the spring barrel reveals whether it maintains tension or moves freely. 
-      Lack of resistance indicates loss of spring tension and potential need for repair.
-    </p>
+<section>
+  <title>Inspection Procedure</title>
+   <ul>
+    <li>Inspection begins by moving the carriage to the right side of the machine.</li> 
+    <li>A visual check of the drawband helps determine whether it has loosened or disconnected from the spring barrel.</li>
+    <li> Manually rotating the spring barrel reveals whether it maintains tension or moves freely. </li>
+    <li>Lack of resistance indicates loss of spring tension and potential need for repair. </li>
+  </ul>
+</section>
   </conbody>
 </concept>
