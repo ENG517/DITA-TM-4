@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_materials_required_platen_repair">
+  <title>List of Materials Required for Platen Repair and Maintenance</title>
+  <conbody>
+    <section>
+      <title>General Materials</title>
+      <p>
+        For the typewriter platen repais, you will need the following materials:
+      </p>
+      <ul>
+        <li>A portable Smith Corona Manual typewriter</li>
+        <li>Gloves</li>
+        <li>Well-ventilated room</li>
+        <li>Multiple lint-free cloths (3+)</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Platen Cleaning Materials</title>
+      <ul>
+        <li>Lacquer thinner</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Platen Sanding Materials</title>
+      <ul>
+        <li>Fine-grit sandpaper</li>
+        <li>Rinse water</li>
+        <li>Fan</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Platen Refinishing Materials</title>
+      <ul>
+        <li>Heat gun</li>
+        <li>Black rubber heat shrink tubing</li>
+        <li>
+          The diameter will depend on your platen roller size, but 2 inches is generally acceptable.
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Platen Replacement Materials</title>
+      <ul>
+        <li>New platen roller</li>
+        <li>Small screwdriver set</li>
+        <li>Small hook-ended tool</li>
+      </ul>
+    </section>
+  </conbody>
+</concept>
