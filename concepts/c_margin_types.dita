@@ -3,21 +3,14 @@
 <concept id="c_margin_types">
   <title>Types of Margins on a Typewriter</title>
   <shortdesc>
-  A typewriter uses two types of margins, visible and non-visivle or magic margins
+  A typewriter uses two types of margins, visible and non-visible or magic margins. In this model, however, magic margins are not used. 
   </shortdesc>
   <conbody>
 <section>
-      <title>Visible Margins</title>
+      <title>The Functionality of Visible Margins</title>
       <p>
         Visible margins use physical margin stops that restrict carriage movement. 
         They appear on older machines and provide a clear, manual way to define left and right boundaries.
-      </p>
-</section>
-<section>
-      <title>Nonvisible Margins</title>
-      <p>
-        Nonvisible margins, or “Magic Margins,” use internal mechanisms activated by buttons. 
-        They store margin positions automatically and remove the need for visible stops.
       </p>
 </section>
   </conbody>
