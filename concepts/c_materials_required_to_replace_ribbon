@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_materials_required_to_replace_ribbon">
+  <title>Materials for Typewriter Ribbon Replacement</title>
+  <shortdesc>
+  Replacing a typewriter ribbon involves a small set of materials that ensure proper installation, cleanliness, and ease of handling.
+  </shortdesc>
+  <conbody>
+   <p>
+    The process of changing a typewriter ribbon is supported by a few essential and optional materials. 
+    These materials contribute to effective ribbon replacement and help maintain the cleanliness of the workspace and typewriter.
+    </p>
+    <section>
+      <title>Essential Materials</title>
+      <p>
+        Certain items are fundamental to the ribbon replacement process. 
+        They enable the functioning of the typewriter and the installation of a fresh ink supply.
+      </p>
+      <ul>
+        <li>
+          <b>Typewriter</b> – The mechanical device that uses an inked ribbon to transfer characters onto paper.
+        </li>
+        <li>
+          <b>New ink ribbon</b> – The source of ink used for producing visible text on paper.
+          <note>
+            Most typewriters are compatible with universal ribbons. However, model-specific requirements such as ribbon size, spool diameter, or cassette format may apply, especially for older or electric typewriters.
+          </note>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Optional Materials</title>
+      <p>
+        Additional materials are often used to maintain hygiene and protect the typewriter from ink stains during ribbon handling.
+      </p>
+      <ul>
+        <li>
+          <b>Gloves</b> – Protective coverings such as nitrile, latex, or plastic gloves that prevent ink stains during contact with saturated ribbon surfaces.
+        </li>
+        <li>
+          <b>Paper towels or cleaning cloth</b> – Absorbent materials used to remove residual ink from the typewriter interior or surrounding surfaces.
+        </li>
+      </ul>
+    </section>
+
+  </conbody>
+</concept>
