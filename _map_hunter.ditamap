@@ -5,117 +5,111 @@
 
 <!-- Concept Topics-->
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_workspace_preparation.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Preparation of Workspace for Typewriter Maintenance</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_materials_required_clean_typewriter.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Materials Required to Clean Typewriter</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_cleaning_material_types.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Cleaning Materials for Typewriters</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_cleaning_warnings.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Warnings and Precautions for Cleaning Materials</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_typewriter_case_considerations.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Smith-Corona Typewriter Cases and Care Considerations</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_risks_precautions_lubrication.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Risks and Precautions in Typewriter Lubrication</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_lubrication_guidelines.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Lubrication Guidelines for Typewriters</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_whentochange_ribbon.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>When to Change Ribbon</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_materials_required_to_replace_ribbon" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Materials for Typewriter Ribbon Replacement</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_preparation_to_change_ribbondita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Preparation for Replacing the Typewriter Ribbon</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_ribbon_issues_post_replacement.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Potential Issues After Replacing Ribbon</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_inspection_of_drawband_and_mainspring.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Manual Inspection of Drawband and Mainspring</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_diagnosis_for_drawband_and_mainspring_conditions.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Diagnosis of Drawband and Mainspring Conditions</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_materials_required_mainspring_drawband_repair.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Materials Required for Drawband and Mainspring Repairs</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_Safety_Precautions_Considerations_Mainspring_Repair.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Key Considerations and Safety Precautions During Drawband and Mainspring Repairs</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_symptoms_platen_failure.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Symptoms of Platen Failure</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_diagnosis_platen_conditions.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Diagnosis for Platen Conditions</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="concept" href="" format="ditamap">
+  <topicref type="concept" href="concepts/c_materials_required_platen_repair.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
-    </topicmeta>
-  </topicref>
-
-  <topicref type="concept" href="" format="ditamap">
-    <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>List of Materials Required for Platen Repair and Maintenance</navtitle>
     </topicmeta>
   </topicref>
 
@@ -249,27 +243,27 @@
 
 <!-- Reference Topics-->
 
-  <topicref type="reference" href="" format="ditamap">
+  <topicref type="reference" href="references/r_typewriter_maintenance_materials.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Typewriter Anatomy Definitions</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="reference" href="" format="ditamap">
+  <topicref type="reference" href="references/r_typewriter_maintenance_materials.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Typewriter Maintenance Materials</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="reference" href="" format="ditamap">
+  <topicref type="reference" href="references/r_typewriter_case_types.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Types of Smith Corona Portable Manual Typewriter Cases</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="reference" href="" format="ditamap">
+  <topicref type="reference" href="references/r_typewriter_holiday_case_terms.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Components of a Smith Corona Holiday Case</navtitle>
     </topicmeta>
   </topicref>
 
