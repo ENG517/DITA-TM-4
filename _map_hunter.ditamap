@@ -115,129 +115,123 @@
 
 <!-- Task Topics-->
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_prepare_area.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Prepare the Work Area</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_remove_case.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Remove Typewriter From Case</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_remove_panels.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Remove Typewriter Panels</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_remove_cover.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Lift the Ribbon Cover</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_remove_ribbon.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Remove Existing Typewriter Ribbon</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_dust_typewriter.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Dust Typewriter</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_clean_interior.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Clean the Interior</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_lubricate_mechanics.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Lubricate the Mechanics</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_place_ribbonspools.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Place Ribbon Spools on Spool Shafts</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_thread_ribbon.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Thread the Ribbon</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_remove_platen.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Remove The Platen Roller</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_replace_platen.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Replace The Platen Roller</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_insert_platen.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Insert The Platen Roller</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_remove_drawband.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Remove The Drawband</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_replace_mainspring.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Replace The Mainspring</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_reattach_drawband.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Reattach The Drawband</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_clean_exterior.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Clean the Exterior</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_assemble_typewriter.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Assemble the Typewriter</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_clean_case.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Clean the Case</navtitle>
     </topicmeta>
   </topicref>
 
-  <topicref type="task" href="" format="ditamap">
+  <topicref type="task" href="tasks/t_place_typewriter.dita" format="ditamap">
     <topicmeta>
-      <navtitle></navtitle>
-    </topicmeta>
-  </topicref>
-
-  <topicref type="task" href="" format="ditamap">
-    <topicmeta>
-      <navtitle></navtitle>
+      <navtitle>Place Typewriter Back Into Case</navtitle>
     </topicmeta>
   </topicref>
 
