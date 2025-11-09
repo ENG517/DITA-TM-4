@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_margin-typing-tips">
+  <title>Additional Margin Formatting Tips</title>
+  <shortdesc>
+  Typewriters include margin release mechanisms and bell indicators that assist in maintaining line structure and typing awareness.
+  </shortdesc>
+  <conbody>
+<section>
+      <title>Margin Release Function</title>
+      <p>
+        The margin release function allows the carriage to move beyond the preset right margin. 
+        It temporarily disables the margin stop, enabling continued typing on the same line. 
+        This feature appears on both visible and nonvisible margin systems and is often labeled with arrows, “M-R,” or “MAR REL.”
+      </p>
+    </section>
+
+    <section>
+      <title>Bell Indicator</title>
+      <p>
+        A small bell mechanism alerts the typist when the carriage is a five character spaces away from the end margin. 
+        The sound serves as an auditory cue to prepare for a line break or word hyphenation, 
+        helping maintain rhythm and alignment during typing.
+      </p>
+    </section>
+  </conbody>
+</concept>
