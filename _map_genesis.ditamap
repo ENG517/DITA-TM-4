@@ -6,101 +6,45 @@
 
 
 <!--Concepts in order-->
-    <topicref type="concept" href="concepts/c_basic_typewriter_mechanisms.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Basic Typewriter Mechanisms</navtitle>
-      </topicmeta>
-    </topicref>
+    <topicref type="concept" href="concepts/c_basic_typewriter_mechanisms.dita"></topicref>
 
-    <topicref type="concept" href="concepts/c_significance_of_formatting.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Significance of Typewriter Formatting</navtitle>
-      </topicmeta>
-    </topicref>
+    <topicref type="concept" href="concepts/c_significance_of_formatting.dita"></topicref>
 
-      <topicref type="concept" href="concepts/c_margin_typing_tips.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Additional Tips for Typing Past Margins</navtitle>
-      </topicmeta>
-    </topicref>
+      <topicref type="concept" href="concepts/c_margin_typing_tips.dita"></topicref>
 
-      <topicref type="concept" href="concepts/c_line_spacing_options.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Line Spacing Options Available in Typewriters</navtitle>
-      </topicmeta>
-    </topicref>
+      <topicref type="concept" href="concepts/c_line_spacing_options.dita"></topicref>
 
-        <topicref type="concept" href="concepts/c_determining_paper_type.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Determining the Right Type of Paper for your Typewriter</navtitle>
-      </topicmeta>
-    </topicref>
+        <topicref type="concept" href="concepts/c_determining_paper_type.dita"></topicref>
 
-        <topicref type="concept" href="concepts/c_loading-paper-issues.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Issues in Loading Paper</navtitle>
-      </topicmeta>
-    </topicref>
+        <topicref type="concept" href="concepts/c_loading-paper-issues.dita"></topicref>
 
 
 <!--Tasks in order-->
 
-    <topicref type="task" href="tasks/t_remove_case.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Remove Typewriter From Case</navtitle>
-      </topicmeta>
-    </topicref>
+    <topicref type="task" href="tasks/t_remove_case.dita"></topicref>
 
 
   <!--Task subsection: Loading Paper-->
 
-    <topicref type="task" href="tasks/t_remove_paper.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Remove Typewriter Paper</navtitle>
-      </topicmeta>
-    </topicref>
+    <topicref type="task" href="tasks/t_remove_paper.dita"></topicref>
 
-    <topicref type="task" href="tasks/t_insert_paper.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Insert New Paper</navtitle>
-      </topicmeta>
-    </topicref>
+    <topicref type="task" href="tasks/t_insert_paper.dita"></topicref>
 
 
   <!--Task subsection: Setting Formatting-->
 
-    <topicref type="task" href="tasks/t_set_visiblemargins.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Set Visible Margins</navtitle>
-      </topicmeta>
-    </topicref>
+    <topicref type="task" href="tasks/t_set_visiblemargins.dita"></topicref>
 
-    <topicref type="task" href="tasks/t_set_linespacing.dita" format="ditamap">
-          <topicmeta>
-        <navtitle>Set Line Spacing</navtitle>
-      </topicmeta>
-    </topicref>
+    <topicref type="task" href="tasks/t_set_linespacing.dita"></topicref>
 
 
 <!--References in order-->
 
-  <topicref type="reference" href="references/r_typewriter_anatomy_definitions.dita" format="ditamap">
-        <topicmeta>
-      <navtitle>Typewriter Anatomy</navtitle>
-    </topicmeta>
-  </topicref>
+  <topicref type="reference" href="references/r_typewriter_anatomy_definitions.dita"></topicref>
 
-   <topicref type="reference" href="references/r_typewriter_case_types.dita" format="ditamap">
-        <topicmeta>
-      <navtitle>Formatting Styles</navtitle>
-    </topicmeta>
-  </topicref>
+   <topicref type="reference" href="references/r_typewriter_case_types.dita"></topicref>
 
-     <topicref type="reference" href="references/r_typewriter_paper_types.dita" format="ditamap">
-        <topicmeta>
-      <navtitle>Types of Paper You Should and Should Not Use In A Manual Typewriter</navtitle>
-    </topicmeta>
-  </topicref>
+     <topicref type="reference" href="references/r_typewriter_paper_types.dita"></topicref>
 
 
 </map>
