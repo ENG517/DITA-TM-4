@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_basic_typewriter_mechanisms">
+  <!-- LINDGREN:
+    - Resolve indentation issues throughout your topics to represent the hierarchical relationships appropriately.
+  -->
   <title>Basic Typewriter Mechanisms</title>
   <shortdesc>
    It is important to understand the fundamental mechanisms of a manual typewriter to ensure proper operation and maintenance.

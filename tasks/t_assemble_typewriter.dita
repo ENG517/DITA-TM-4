@@ -2,26 +2,42 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_assemble_typewriter">
   <title>Assemble the Typewriter</title>
+  <!-- LINDGREN:
+    - There should be a shortdesc in all topics. Add them throughout the model.
+    - See the lecture slides for details about them:
+      https://docs.google.com/presentation/d/1nOGs3GOxoeBEqyTLyfAOMfwcjBJSEXYu/edit?slide=id.g30926d03480_0_46#slide=id.g30926d03480_0_46
+  -->
   <taskbody>
-       <steps>
-        <step>
-          <cmd>Line up the metal segment plate with the typewriter feet.</cmd>
-        </step>
-        <step>
-          <cmd>Slide the two prongs on one side of the plate into the two slots on their respective typewriter foot.</cmd>
-        </step>
-        <step>
-          <cmd>Applying gentle pressure in the direction of the inserted prong-slot connection, firmly push down until the prongs on the other side of the plate line up with the slots in the remaining foot, removing pressure from the other side once the prongs are fully inserted into the foot slots.</cmd>
-        </step>
-        <step>
-          <cmd>Line up the panel component screw slots with their corresponding slots on the typewriter frame.</cmd>
-        </step>
-        <step>
-          <cmd>Insert and tighten the panel screws until all panel components are reattached.</cmd>
-        </step>
-        <step>
-          <cmd>If any key caps or knobs were removed in the cleaning process, reattach them now.</cmd>
-        </step>
-       </steps>
+    <!-- LINDGREN:
+      - Note the change in indentation to represent the element hierarchy. Revise for any similar issues throughout the model.
+      - I highly suggest using <stepresult>, <note> or <info>, and <result> elements more in your task topics, since they provide your audience with alerting moves. As of right now, I only see notes in concept topics and a few usages of <info>, wherein you should probably be using <note> instead.
+    -->
+    <steps>
+      <step>
+        <cmd>Line up the metal segment plate with the typewriter feet.</cmd>
+      </step>
+      <step>
+        <cmd>Slide the two prongs on one side of the plate into the two slots on their respective typewriter foot.</cmd>
+      </step>
+      <step>
+        <!-- LINDGREN:
+          1. What's the main goal of this step? Consider how novice audiences would benefit from the broader questions of "what" and "why" here. Specifically, is there a name for the result of this step? For example, based on the context, is it something like: "Insert the prongs on each side"?
+          2. Note how this step gets pretty verbose. I would also consider how to break up such longer steps into a substeps pattern, wherein you can then provide a broader goal/objective  as the main step, wherein the substeps guide the user through that
+        -->
+        <!-- <cmd>Applying gentle pressure in the direction of the inserted prong-slot connection, firmly push down until the prongs on the other side of the plate line up with the slots in the remaining foot, removing pressure from the other side once the prongs are fully inserted into the foot slots.</cmd> -->
+        <cmd>
+          Apply gentle pressure in the direction of the inserted prong-slot connection and firmly push down until the prongs on the opposite side of the plate line up with the slots in the remaining foot, removing pressure from the other side once the prongs are fully inserted into the foot slots.
+        </cmd>
+      </step>
+      <step>
+        <cmd>Line up the panel component screw slots with their corresponding slots on the typewriter frame.</cmd>
+      </step>
+      <step>
+        <cmd>Insert and tighten the panel screws until all panel components are reattached.</cmd>
+      </step>
+      <step>
+        <cmd>If any key caps or knobs were removed in the cleaning process, reattach them now.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>

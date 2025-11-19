@@ -8,3 +8,24 @@ For our intermediate user, Park, we selected common tasks that were needed for l
 
 Lastly, we implemented conditional formatting in the form of audience content flags. This was implemented where significant reuse occurred, as some of the reuse tasks and concepts contained excessive information for some users, and just enough for others.
 
+## Lindgren Comments
+
+Overall, this is a great first draft! Well done taking on such a rather large "mini" topic model. `:-)` Please review my overarching comments below, as well as the comments within particular files. It may be best to review all of the comments in respective files via the PR on Github.
+
+- Regarding your mapping work, I would like to see you consider revising the way you are reassembling the topics in some cases. For example, in the Genesis map, you place all of the concepts, then all of the tasks, then references. But, does it make sense to bury the procedure after 6 concept topics? Remember that concept and reference topics support tasks/procedures overall. Consequently, reconsider how some concepts or references may be better placed more specifically before or after certain tasks topics/topic groups. For example, take the following 2 concept topics:
+  - Example:
+    ```
+    <topicref type="concept" href="concepts/c_determining_paper_type.dita"></topicref>
+    <topicref type="concept" href="concepts/c_loading-paper-issues.dita"></topicref>
+    ```
+  - Can these 2 concept topics be more appropriately placed around the loading paper task topics?
+    ```
+    <topicref type="task" href="tasks/t_remove_paper.dita"></topicref>
+    <topicref type="task" href="tasks/t_insert_paper.dita"></topicref>
+    ```
+  - Consider the same question regarding linespacing or margins. In sum, reconsider how your files should be sequenced.
+- You must add `<shortdesc>` elements to your topics, so be sure to do so throughout your model.
+- Alerting moves should be implemented more widely across your task topics. See my notes in vivo.
+- Elaborate on and reconsider your rationale for your conditional processsing choices. Right now, there are some cases where I am not sure why you would, for instance, filter out certain reference information in a table based on user levels of expertise. See the `r_typewriter_anatomy_definitions.dita` in particular. For example, why would you choose to filter out "Body Screws" from novices and deem it "expert" level only?
+- See my comments in some other files, which include suggestions for revision to consider throughout the model.
+
