@@ -14,7 +14,7 @@
         </substeps>
       </step>
       <step>
-        <cmd>step 2: Shift the lever to the spacing you prefer</cmd>
+        <cmd>Step 2: Shift the lever to the spacing you prefer</cmd>
         <substeps>
           <substep>
             <cmd>Next to the lever, you will notice some numbering. This numbering corresponds to the pre-set spacing options your machine will have. Typically, a number "1" will correspond to single spacing, "2" will correspond to double spacing, and "3" will correspond to triple spacing.</cmd>
