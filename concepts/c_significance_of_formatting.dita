@@ -7,7 +7,12 @@
   </shortdesc>
   <conbody>
       <section>
+        <!-- LINDGREN: Note the spelling error here. -->
       <title>Key Reasons to Fomat a Typewriter</title>
+      <!-- LINDGREN:
+        - I suggest using a simpletable with a keycol attribute: https://docs.oasis-open.org/dita/v1.2/os/spec/langref/simpletable.html#simpletable__example2
+          This would element the need to include stylistic elements like <b> and present the information in a more scannable format.
+      -->
       <ul>
         <li>
           <b>Readability</b>: Formatting creates consistent margins and spacing for clear, easy-to-read text.

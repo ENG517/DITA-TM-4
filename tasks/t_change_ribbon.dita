@@ -9,7 +9,11 @@
 
     <steps>
       <step>
-        <cmd>Step 1: Lift the ribbon cover</cmd>
+        <!-- LINDGREN:
+          - Review your outputs and you'all see how numbers are auto-generated for you. If you need to track the step number, use comments like my revision below. Revise for this issue throughout.
+        -->
+        <!-- STEP 1 -->
+        <cmd>Lift the ribbon cover</cmd>
           <substeps audience="novice">
             <substep>
               <cmd>Gently lift the front edge of the ribbon cover until it is fully opened.</cmd>
@@ -68,6 +72,13 @@
         <cmd>Step 5: Clean typewriter interior and hands</cmd>
           <substeps>
             <substep>
+              <!-- LINDGREN:
+                - Consider your available means of notes that can alert your audience to be careful. If you have any other steps that are akin to this level of awareness, be sure to use alerting moves.
+                - Revise for this matter throughout.
+              -->
+              <note type="caution">
+                Enter cautionary note about this step here.
+              </note>
               <cmd>Carefully wipe any excess ink off of the interior of the typewriter.</cmd>
             </substep>
             <substep>
@@ -86,9 +97,17 @@
       <step>
         <cmd>Step 7: Test the new ribbon</cmd>
         <substeps>
+          <!-- LINDGREN:
+            - The <note> element will automatically prepend the type of note, based on the attribute.
+            - You'll need to revise the note, since it will be read before the guiding action, but that's the goal with alerting moves anyway; namely, be sure your audience is aware of any potential tips or warnings prior to completing the step, rather than producing issues after the fact.
+            - Revise all other cases throughout the model.
+          -->
           <substep>
+            <note type="note">
+              The letters may look smudgy at first, this is normal and likely due to excessive ink coming off of the ribbon during the installation process. It should resolve after typing a sentence or two.
+            </note>
             <cmd>Type out a few words to ensure the ribbon ink is installed and working as desired.</cmd>
-            <info>Note: The letters may look smudgy at first, this is normal and likely due to excessive ink coming off of the ribbon during the installation process. It should resolve after typing a sentence or two.</info>
+            <!-- <info>Note: The letters may look smudgy at first, this is normal and likely due to excessive ink coming off of the ribbon during the installation process. It should resolve after typing a sentence or two.</info> -->
           </substep>
         </substeps>
       </step>

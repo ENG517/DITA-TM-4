@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!-- LINDGREN:
+  - This file's filename doesn't have a .dita file format
+  - Check the model for other instances like this to resolve.
+  - Indentation issues are throughout this file as well. Be sure to resolve them.
+-->
 <concept id="c_materials_required_to_replace_ribbon">
   <title>Materials for Typewriter Ribbon Replacement</title>
   <shortdesc>

@@ -4,19 +4,17 @@
  
  <title>Loading Paper and Setting Formatting for the Portable Smith Corona Sterling Manual Typewriter</title>
 
-
-<!--Concepts in order-->
-    <topicref type="concept" href="concepts/c_basic_typewriter_mechanisms.dita"></topicref>
-
-    <topicref type="concept" href="concepts/c_significance_of_formatting.dita"></topicref>
-
-      <topicref type="concept" href="concepts/c_margin_typing_tips.dita"></topicref>
-
-      <topicref type="concept" href="concepts/c_line_spacing_options.dita"></topicref>
-
-        <topicref type="concept" href="concepts/c_determining_paper_type.dita"></topicref>
-
-        <topicref type="concept" href="concepts/c_loading-paper-issues.dita"></topicref>
+  <!-- LINDGREN:
+    - Be sure to resolve all of the indentation issues with the topicref elements throughout your maps. I'll revise the below topicrefs to help in this matter.
+    - Also, do any of these need to be nested?
+  -->
+  <!--Concepts in order-->
+  <topicref type="concept" href="concepts/c_basic_typewriter_mechanisms.dita"></topicref>
+  <topicref type="concept" href="concepts/c_significance_of_formatting.dita"></topicref>
+  <topicref type="concept" href="concepts/c_margin_typing_tips.dita"></topicref>
+  <topicref type="concept" href="concepts/c_line_spacing_options.dita"></topicref>
+  <topicref type="concept" href="concepts/c_determining_paper_type.dita"></topicref>
+  <topicref type="concept" href="concepts/c_loading-paper-issues.dita"></topicref>
 
 
 <!--Tasks in order-->
