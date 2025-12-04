@@ -1,57 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_materials_required_clean_typewriter">
-  <title>Materials Required to Clean Typewriter</title>
+  <title>Materials Required to Clean the Typewriter</title>
   <conbody>
-   <p>
-      You will need the following items to successfully clean and maintain your Smith-Corona typewriter:
-    </p>
- <section>
-    <title>Typewriter and Workspace</title>
-    <ul>
-      <li>A portable manual <b>Smith Corona Sterling typewriter</b></li>
-      <li>A well-ventilated workspace</li>
-      <li>Access to direct sunlight for drying purposes, or a fan</li>
-      <li>Plastic sheeting or paper towels for work-surface protection</li>
-    </ul>
-  </section>
+    <section>
+        <title>Typewriter and Workspace</title>
+        <ul>
+          <li>A portable manual</li>
+          <li>A well-ventilated workspace</li>
+          <li>Access to direct sunlight or a fan for drying purposes</li>
+          <li>Plastic sheeting or paper towels for work-surface protection</li>
+        </ul>
+    </section>
 
-  <section>
-    <title>Protective Gear</title>
-    <ul>
-      <li>Nitrile gloves to protect your hands from ink and cleaning agents</li>
-    </ul>
-  </section>
+    <section>
+      <title>Protective Gear</title>
+      <ul>
+        <li>Nitrile gloves to protect your hands from ink and cleaning agents</li>
+      </ul>
+    </section>
 
-  <section>
-    <title>Cleaning Tools</title>
-    <ul>
-      <li>Compressed air with thin nozzle attachments. This can be an air can or machine air compressor</li>
-      <li>Soft-bristle brush (a car detailing brush or toothbrush can be used)</li>
-      <li>Cleaning picks or toothpicks</li>
-      <li>Cotton swabs</li>
-      <li>Multiple lint-free rags (three or more), such as microfiber towels</li>
-      <li>Spray bottle with nozzle head or droppr bottle</li>
-    </ul>
-  </section>
+    <section>
+      <title>Cleaning Tools</title>
+      <ul>
+        <li>Compressed air with thin nozzle attachments. This can be an air can or machine air compressor</li>
+        <li>Soft-bristle brush (a car detailing brush or toothbrush can be used)</li>
+        <li>Cleaning picks or toothpicks</li>
+        <li>Cotton swabs</li>
+        <li>Multiple lint-free rags (three or more), such as microfiber towels</li>
+        <li>Spray bottle with nozzle head or a droppr bottle</li>
+      </ul>
+    </section>
 
-  <section>
-    <title>Cleaning Solutions</title>
-    <ul>
-      <li>Clean rinse water</li>
-      <li>Mineral spirits, gentle degreaser, or rubbing alcohol</li>
-      <li>Cleaning solution (mild soap and water is ideal; all-purpose cleaners or detergents can also be used)</li>
-      <li>Optional: hydrogen peroxide for stubborn stains or discoloration</li>
-    </ul>
-  </section>
+    <section>
+      <title>Cleaning Solutions</title>
+      <ul>
+        <li>Clean rinse water</li>
+        <li>Mineral spirits, gentle degreaser, or rubbing alcohol</li>
+        <li>Cleaning solution (mild soap and water is ideal; all-purpose cleaners or detergents can also be used)</li>
+        <li>Optional: hydrogen peroxide for stubborn stains or discoloration</li>
+      </ul>
+    </section>
 
-  <section>
-    <title>Maintenance Tools</title>
-    <ul>
-      <li>Light-weight oil (sewing machine oil, gun oil, or specialized typewriter oil)</li>
-      <li>Precision oil applicator</li>
-      <li>Mini screwdriver set</li>
-    </ul>
-  </section>
+    <section>
+      <title>Maintenance Tools</title>
+      <ul>
+        <li>Light-weight oil (sewing machine oil, gun oil, or specialized typewriter oil)</li>
+        <li>Precision oil applicator</li>
+        <li>Mini screwdriver set</li>
+      </ul>
+    </section>
   </conbody>
 </concept>

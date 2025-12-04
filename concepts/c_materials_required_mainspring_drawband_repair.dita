@@ -6,7 +6,7 @@
     <section>
       <title>General Repair Materials</title>
       <p>
-        For all of the repairs listed below, the following materials are required:
+        For all repairs, the following materials are required:
       </p>
       <ul>
         <li>Small screwdriver set</li>
@@ -22,10 +22,8 @@
       <ul>
         <li>New mainspring</li>
         <li>Small Allen wrench</li>
-        <li>
-          The exact size of the wrench depends on the existing hex nut in the mainspring housing.
-        </li>
       </ul>
+      <note type="important">The exact size of the wrench depends on the existing hex nut in the mainspring housing.</note>
     </section>
 
     <section audience="intermediate">
