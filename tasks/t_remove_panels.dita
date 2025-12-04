@@ -2,6 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_remove_panels">
   <title>Remove Typewriter Panels</title>
+  <shortdesc>Removing the panels allows access to the inner mechanisms that you otherwise wouldn't be able to reach for a deep clean.</shortdesc>
   <taskbody>
       <steps>
         <step>
