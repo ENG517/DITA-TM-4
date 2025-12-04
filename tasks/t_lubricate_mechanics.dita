@@ -7,9 +7,9 @@
      <steps>
       <step>
         <cmd>Identify metal-on-metal connections, gears, and pivot points that seem to be hesitant in movement or completely stiff.</cmd>
-        <info>Common areas that will need lubrication include the carriage rails, and internal pivot points, levers, and gears.</info>
       </step>
       <step>
+        <note type="important">Common areas that will need lubrication include the carriage rails, and internal pivot points, levers, and gears.</note>
         <cmd>Using a precision applicator, such as a small pipet or medicine dropper, apply one to two drops of oil where needed, immediately wiping away the excess with a rag or cotton swab.</cmd>
       </step>
     </steps>
