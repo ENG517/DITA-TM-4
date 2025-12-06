@@ -2,9 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_typewriter_paper_types">
   <title>Types of Paper You Should and Should Not Use In A Manual Typewriter</title>
-  <shortdesc>
-    There are many types of paper with various uses. It is important to know what is appropriate to use in a typewriter, and what should be avoided.
-  </shortdesc>
+  <shortdesc>Typing paper is paper specifically used to hold ink from a printer or typewriter. Some typing paper is appropriate for typewriter use, while others should be avoided.</shortdesc>
   <refbody>
     <!--Papers you SHOULD use-->
     <section>
@@ -12,23 +10,23 @@
       <dl>
         <dlentry>
           <dt>Standard Printing Paper</dt>
-          <dd>20 lb bond paper, feeds easily, rarely jams, absorbs ink, works best with a backing sheet.</dd>
+          <dd>20 lb bond paper. This paper feeds easily, rarely jams, absorbs ink, and works best with a backing sheet.</dd>
         </dlentry>
         <dlentry>
           <dt>Heavy-Weight Paper</dt>
-          <dd>24-28 lb bond paper, resists ink bleed-through. Typically used for letterhead, stationery, and manuscripts. </dd>
+          <dd>24-28 lb bond paper. This paper resists ink bleed-through, and is typically used for letterhead, stationery, and manuscripts. </dd>
         </dlentry>
         <dlentry>
           <dt>Textured Paper</dt>
-          <dd>Papers such as vellum, linen, kraft, and embossed, typically used for crafting and elaborate stationery. They hold ink well, and are thick enough to not require a backing sheet.</dd>
+          <dd>Papers such as vellum, linen, kraft, and embossed. Typically used for crafting and elaborate stationery. They hold ink well, and are thick enough to not require a backing sheet.</dd>
         </dlentry>
         <dlentry>
           <dt>Cotton Paper</dt>
-          <dd>25%-100% cotton paper, more durable than typical paper materials, typewriter printing is most crisp on cotton materials.</dd>
+          <dd>25%-100% cotton paper. This paper is highly durable and allows for crisp ink transfer.</dd>
         </dlentry>
         <dlentry>
           <dt>Backing Sheets</dt>
-          <dd>A protective sheet, made of thick paper, placed behind the typing paper in order to protect the rubber platen roller.</dd>
+          <dd>A sheet of thick paper placed behind the typing paper, protecting the platen roller.</dd>
         </dlentry>
       </dl>
     </section>
@@ -38,15 +36,15 @@
       <dl>
         <dlentry>
           <dt>Carbon Paper</dt>
-          <dd>Printing on carbon paper required 3 to 4 sheets of paper to be inserted at once, which often leads to jamming or will excessively stress the typewriter platen.</dd>
+          <dd>Printing on carbon paper requires 3 to 4 sheets of paper to be inserted at once, leading to jamming or stressing of the typewriter platen.</dd>
         </dlentry>
         <dlentry>
           <dt>Coated Paper</dt>
-          <dd>Papers with additional coatings to increase smoothness or weight should be avoided as they do not absorb ink well and can lead to smudging.</dd>
+          <dd>Papers with additional coatings to increase smoothness or weight do not absorb ink well, leading to smudging.</dd>
         </dlentry>
         <dlentry>
           <dt>Glossed/Picture Paper</dt>
-          <dd>Glossed paper may have difficulty being grabbed by the platen and feed rollers, and will not absorb ink well, leading to smudging.</dd>
+          <dd>Glossed paper will be difficult for the platen and feed rollers to grip, and will not absorb ink well, leading to smudging.</dd>
         </dlentry>
       </dl>
     </section>
