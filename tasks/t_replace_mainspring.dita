@@ -2,43 +2,47 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_replace_mainspring">
   <title>Replace The Mainspring</title>
+  <shortdesc>You can replace a typewriter mainspring by disassembling the mainspring housing, inserting a new spring, and reassembling and reattaching the mainspring housing to the typewriter.</shortdesc>
   <taskbody>
-     <steps>
+    <steps>
       <step>
         <cmd>Remove the mainspring housing from the typewriter by unscrewing the two housing attachment screws.</cmd>
       </step>
       <step>
-        <cmd>Unscrew the back of the mainspring barrel using a small allen wrench.</cmd>
+        <note type="warning">The mainspring is wound tightly inside of the mainspring housing. Disassembly of the mainspring housing may cause the mainspring to snap or forcefully pop out, and can cut or impale exposed skin.</note>
+        <cmd>Put on gloves and eye protection.</cmd>
       </step>
       <step>
-        <cmd>Put on gloves and eye protection.</cmd>
+        <cmd>Use an allen wrench to unscrew the hex nut on the back of the mainspring barrel.</cmd>
       </step>
        <step>
         <cmd>Disassemble the mainspring housing by sliding each gear layer off of the center shaft.</cmd>
       </step>
        <step>
-        <cmd>Using a pair of needle nosed pliers, gently remove the broken spring pieces from the spring barrel. Ensure that all pieces of the spring are fully removed before continuing.</cmd>
+        <cmd>Use a pair of needle nosed pliers to gently remove the mainspring from the spring barrel.</cmd>
       </step>
        <step>
         <cmd>Set all broken spring pieces aside, away from your work area, to avoid accidentally cutting yourself or damaging fragile components of the typewriter.</cmd>
       </step>
        <step>
-        <cmd>Line up the end of your new mainspring with the notch inside the barrel.</cmd>
+        <note type="caution">Ensure that all pieces of the mainspring are fully removed before continuing.</note>
+        <cmd>Line up the end of the new mainspring with the notch inside the barrel.</cmd>
       </step>
        <step>
+        <note type="warning">Maintain a firm grip on the mainspring to ensure it does not unwind. If the mainspring unwinds quickly, it can cut or impale exposed skin.</note>
         <cmd>Wind the spring up, moving inwards toward the center of the barrel, so that the spring is coiled tightly.</cmd>
       </step>
        <step>
-        <cmd>Reassemble the spring barrel with the rest of the housing components by sliding them together along their connecting center shafts.</cmd>
+        <cmd>Reassemble the mainspring housing components by sliding all of the housing components together along their connecting center shafts.</cmd>
       </step>
       <step>
-        <cmd>Complete the reassembly by tightening the hex nut with an allen wrench.</cmd>
+        <cmd>Use an allen wrench to tighten the hex nut on the back of the mainspring barrel.</cmd>
       </step>
       <step>
-        <cmd>Reattach the spring housing to the typewriter undercarriage using the two attachment screws.</cmd>
+        <cmd>Reattach the mainspring housing to the typewriter undercarriage by screwing in the two attachment screws.</cmd>
       </step>
       <step>
-        <cmd>Reattach the drawband to the spring barrel using the steps outlined in the section titled "Reattach the drawband."</cmd>
+        <cmd>Follow the steps in the section section titled "Reattach the drawband" to reattach the drawband to the mainspring housing.</cmd>
       </step>
     </steps>
   </taskbody>
