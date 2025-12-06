@@ -7,27 +7,25 @@
   </shortdesc>
   <conbody>
       <section>
-      <title>Key Reasons to Fomat a Typewriter</title>
-      <ul>
-        <li>
-          <b>Readability</b>: Formatting creates consistent margins and spacing for clear, easy-to-read text.
-        </li>
-        <li>
-          <b>Visual balance</b>: Even alignment prevents crowded or uneven lines on the page.
-        </li>
-        <li>
-          <b>Professional appearance</b>: Structured layout gives documents a neat and organized presentation.
-        </li>
-        <li>
-          <b>Mechanical consistency</b>: Formatting replaces digital alignment tools by defining physical typing boundaries.
-        </li>
-        <li>
-          <b>Efficient page use</b>: Proper margins and spacing optimize the available writing area.
-        </li>
-        <li>
-          <b>Error prevention</b>: Margin stops and bell indicators guide the typist and maintain structure.
-        </li>
-      </ul>
-    </section>
+      <title>Key Reasons to Format a Typewriter</title>
+      <simpletable keycol="1">
+        <sthead>
+         <stentry>Readability</stentry>
+          <stentry>Visual Balance</stentry>
+          <stentry>Professional Appearance</stentry>
+          <stentry>Mechanical Consistency</stentry>
+          <stentry>Efficient Page Use</stentry>
+          <stentry>Error Prevention</stentry>
+         </sthead>
+        <strow>
+          <stentry>Consistent margins and spacing create clear, easy-to-read text.</stentry>
+          <stentry>Even alignment prevents crowded or uneven lines on the page.</stentry>
+          <stentry>Structured layout gives documents a neat and organized presentation.</stentry>
+          <stentry>Formatting replaces digital alignment tools by defining physical typing boundaries.</stentry>
+          <stentry>Proper margins and spacing optimize the available writing area.</stentry>
+          <stentry>Margin stops and bell indicators guide the typist and maintain structure.</stentry>
+        </strow>
+      </simpletable>
+      </section>
   </conbody>
 </concept>
