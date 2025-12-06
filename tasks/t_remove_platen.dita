@@ -2,13 +2,14 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_remove_platen">
   <title>Remove The Platen Roller</title>
+  <shortdesc>You can remove a typewriter platen by activating the platen detent arm and platen release lever.</shortdesc>
   <taskbody>
        <steps>
         <step>
-          <cmd>Raise the paper support and paper bail so that they are not resting on the platen.</cmd>
+          <cmd>Raise the paper support and paper bail so they are not resting on the platen.</cmd>
         </step>
         <step>
-          <cmd>Activate the carriage centering lever to center the carriage.</cmd>
+          <cmd>Activate the carriage centering lever.</cmd>
         </step>
         <step>
           <cmd>Pull the platen detent arm outwards.</cmd>
@@ -17,7 +18,7 @@
           <cmd>Press the platen release lever.</cmd>
         </step>
         <step>
-          <cmd>Lift the platen roller up and to the right to remove from the typewriter.</cmd>
+          <cmd>Lift the platen roller up and to the right until fully removed from the typewriter.</cmd>
         </step>
        </steps>
   </taskbody>
