@@ -2,17 +2,20 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_insert_platen">
   <title>Insert The Platen Roller</title>
-  <shortdesc>After all necessary repairs and replacements have been made, follow these steps to insert the platen roller back into the typewriter.</shortdesc>
+  <shortdesc>You can insert a platen roller into a typewriter by attaching the platen to the typewriter's platen detent shaft and locking the platen into place.</shortdesc>
   <taskbody>
        <steps>
         <step>
-          <cmd>Line the left end of the platen roller up with the platen detent shaft.</cmd>
+          <cmd>Line up the left end of the platen roller with the platen detent shaft.</cmd>
         </step>
         <step>
-          <cmd>Slide the platen roller onto the detent shaft while pushing the platen roller down until it is set in place.</cmd>
+          <cmd>Slide the platen roller onto the detent shaft.</cmd>
         </step>
         <step>
-          <cmd>Push the platen detent arm inwards, towards the platen to lock it into place.</cmd>
+          <cmd>Push the platen roller downwards until it is parallel with the typewriter carriage.</cmd>
+        </step>
+        <step>
+          <cmd>Push the platen detent arm inwards, towards the platen, to lock the platen roller into place.</cmd>
         </step>
        </steps>
   </taskbody>
