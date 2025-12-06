@@ -4,26 +4,26 @@
   <title>Refinish The Platen Roller</title>
   <shortdesc>You can refinish a typewriter platen by wrapping the platen roller in heat-shrink tubing.</shortdesc>
   <taskbody>
-       <steps>
-        <step>
-          <cmd>Unwrap and open your heat shrink tubing.</cmd>
-        </step>
-        <step>
-          <cmd>Measure the length of the platen roller and add 1 inch to the obtained measurement.</cmd>
-        </step>
-        <step>
-          <cmd>Cut a piece of heat shrink tubing to your desired length.</cmd>
-        </step>
-        <step>
-          <note type="important">Ensure the platen is centered in the heat-shrink tubing length-wise.</note>
-          <cmd>Insert the platen roller into the heat shrink tubing.</cmd>
-        </step>
-        <step>
-          <cmd>Use a heat gun to apply heat to the heat shrink tubing surface until it has fully adhered to the platen roller.</cmd>
-        </step>
-        <step>
-          <cmd>Follow the steps in the section titled "Insert the Platen Roller" to insert the newly refinished platen roller into your typewriter.</cmd>
-        </step>
-       </steps>
+    <steps>
+      <step>
+        <cmd>Unwrap and open your heat shrink tubing.</cmd>
+      </step>
+      <step>
+        <cmd>Measure the length of the platen roller and add 1 inch to the obtained measurement.</cmd>
+      </step>
+      <step>
+        <cmd>Cut a piece of heat shrink tubing to your desired length.</cmd>
+      </step>
+      <step>
+        <note type="important">Ensure the platen is centered in the heat-shrink tubing length-wise.</note>
+        <cmd>Insert the platen roller into the heat shrink tubing.</cmd>
+      </step>
+      <step>
+        <cmd>Use a heat gun to apply heat to the heat shrink tubing surface until it has fully adhered to the platen roller.</cmd>
+      </step>
+      <step>
+        <cmd>Follow the steps in the section titled "Insert the Platen Roller" to insert the newly refinished platen roller into your typewriter.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>
