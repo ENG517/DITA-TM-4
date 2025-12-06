@@ -6,13 +6,13 @@
   <conbody>
   <ul>
     <li>
-      <b>Warning:</b> If bubbling, discoloration, or paint stripping occurs, the cleaner should be removed from the panel immediately, and a gentler cleaning solution should be tested on a small area.
+      <note type="warning">If bubbling, discoloration, or paint stripping occurs, remove the cleaner immediately. A gentler cleaning solution should be tested.</note>
     </li>
     <li>
-      <b>Warning:</b> Contact with decals, branding components, or model names should be avoided, as even mild soap and water can remove painted details.
+      <note type="warning">Contact with decals, branding components, and model names should be avoided. Even mild soap and water can remove painted details.</note>
     </li>
     <li>
-      <b>Warning:</b> Mineral spirits should not come into contact with any rubber or soft-plastic components of the typewriter, including the platen, feeder, and paper bail rollers, as prolonged exposure will degrade the rubber over time.
+      <note type="warning">Mineral spirits should not come into contact with rubber or soft-plastic components, including the platen, feeder, and paper bail rollers. Mineral spirits will degrade rubber over time.</note>
     </li>
   </ul>
   <note type="tip" audience="expert">If key caps, knobs, or other high-touch surfaces have tar buildup indicated by severe yellowing, they may be soaked in a 3% hydrogen peroxide solution for 4 to 8 hours to remove discoloration.</note>
