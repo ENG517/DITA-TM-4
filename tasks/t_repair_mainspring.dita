@@ -4,7 +4,7 @@
   <title>Repair The Mainspring</title>
   <shortdesc>You can repair a typewriter mainspring by removing the mainspring housing and applying degreaser to clean the mainspring before reattaching the mainspring housing to your typewriter.</shortdesc>
   <taskbody>
-     <steps>
+    <steps>
       <step>
         <cmd>Remove the mainspring housing from the typewriter by unscrewing the two barrel attachment screws.</cmd>
       </step>
@@ -15,22 +15,22 @@
         <note type="warning">Once degreaser reaches the mainspring, the barrel may jump or pop.</note>
         <cmd>Using the pipette or dropper, apply two to three drops of degreaser on the center screw slot.</cmd>
       </step>
-       <step>
+      <step>
         <cmd>Use a stiff-bristle brush and a soft-bristle brush as needed to clean debris from the center screw.</cmd>
       </step>
-       <step>
+      <step>
         <cmd>Spray the barrel with compressed air to remove loosened debris.</cmd>
       </step>
-       <step>
+      <step>
         <cmd>Repeat steps 4 through 6 until the spring barrel rotates with ease.</cmd>
       </step>
-       <step>
+      <step>
         <cmd>Dry the barrel using a lint free cloth and compressed air.</cmd>
       </step>
-       <step>
+      <step>
         <cmd>Reattach the mainspring housing to the typewriter undercarriage by screwing in the two attachment screws.</cmd>
       </step>
-       <step>
+      <step>
         <cmd>Follow the steps in the section titled "Reattach the drawband" to reattach the drawband to the mainspring housing.</cmd>
       </step>
     </steps>
