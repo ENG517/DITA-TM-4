@@ -4,7 +4,7 @@
   <title>Reattach The Drawband</title>
   <shortdesc>You can reattach a typewriter drawband by building tension in the mainspring barrel and inserting the drawband into the barrel slot.</shortdesc>
   <taskbody>
-     <steps>
+    <steps>
       <step>
         <cmd>Slide the typewriter carriage to the right hand side.</cmd>
       </step>
@@ -19,17 +19,17 @@
       <step>
         <cmd>Locate the drawband hole and drawband slot in the mainspring barrel.</cmd>
       </step>
-       <step>
+      <step>
         <cmd>Insert the end of the drawband into the drawband hole.</cmd>
       </step>
-       <step>
+      <step>
         <cmd>Slide the drawband into the thin barrel slot.</cmd>
       </step>
-       <step>
+      <step>
         <note type="caution">Releasing the mainspring barrel too quickly could snap or loosen the drawband.</note>
         <cmd>Release the mainspring barrel slowly while holding the drawband parallel to the barrel until tension in the barrel is fully released.</cmd>
       </step>
-       <step>
+      <step>
         <note type="note">If there is slack in the drawband, the mainspring barrel did not have enough tension when inserting the drawband. Remove the drawband and try again.</note>
         <cmd>Visually inspect the drawband to check for adequate tension.</cmd>
       </step>
