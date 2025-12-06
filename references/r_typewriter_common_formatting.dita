@@ -2,9 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_typewriter_common_formatting">
   <title>Common Formatting Types Used on a Typewriter</title>
-  <shortdesc>
-    Typewriters are often used today for addressing formal documents, filling out pre-printed forms, or maintaining security in the production of highly confidential, sensitive materials. All of these options have different formatting.
-  </shortdesc>
+  <shortdesc>Formatting styles are established guidelines that dictate the layout of a written document. Common types of documentation written with typewriters require different formatting styles.</shortdesc>
   <refbody>
     <section>
       <title>Common Typewriter Formatting Types</title>
@@ -28,7 +26,7 @@
                 <p>Letters</p>
               </entry>
               <entry>
-                <p>Papers have 1 inch margins, text is left justified with no first line indentation, single spaced with an extra space between paragraphs.</p>
+                <p>1 inch margins, text is left justified with no first line indentation, single spaced with an extra space between paragraphs.</p>
               </entry>
             </row>
             <row>
@@ -44,7 +42,7 @@
                 <p>Academic Documents (APA, MLA, CMS)</p>
               </entry>
               <entry>
-                <p>Papers have 1 inch margins. Body text is double spaced and left justified with the first line indented. Titles are centered and references contain hanging indentation.</p>
+                <p>1 inch margins, body text is double spaced and left justified with the first line indented. Titles are centered and references contain hanging indentation.</p>
               </entry>
             </row>
             <row>
@@ -52,7 +50,7 @@
                 <p>Resumes and CVs</p>
               </entry>
               <entry>
-                <p>Papers have 1 inch margins with varied line spacing.</p>
+                <p>1 inch margins with varied line spacing.</p>
               </entry>
             </row>
             <row>
