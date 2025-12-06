@@ -4,23 +4,23 @@
   <title>Sand The Platen Roller</title>
   <shortdesc>You can sand a typewriter platen by gently rubbing the platen surface with fine grit sandpaper.</shortdesc>
   <taskbody>
-       <steps>
-        <step>
-          <cmd>Wrap a sheet of fine-grit sandpaper around the platen roller.</cmd>
-        </step>
-        <step>
-          <cmd>Apply gentle pressure with the sandpaper while rotating the platen roller by hand.</cmd>
-        </step>
-        <step>
-          <cmd>Gently work the sandpaper up and down the length of the platen roller until all hardened rubber is removed.</cmd>
-        </step>
-        <step>
-          <cmd>Use a damp cloth to remove sand debris from the platen roller.</cmd>
-        </step>
-        <step>
-          <note type="important">Dry the platen roller quickly to avoid moisture damage.</note>
-          <cmd>Place the platen roller in front of a fan to air dry.</cmd>
-        </step>
-       </steps>
+    <steps>
+      <step>
+        <cmd>Wrap a sheet of fine-grit sandpaper around the platen roller.</cmd>
+      </step>
+      <step>
+        <cmd>Apply gentle pressure with the sandpaper while rotating the platen roller by hand.</cmd>
+      </step>
+      <step>
+        <cmd>Gently work the sandpaper up and down the length of the platen roller until all hardened rubber is removed.</cmd>
+      </step>
+      <step>
+        <cmd>Use a damp cloth to remove sand debris from the platen roller.</cmd>
+      </step>
+      <step>
+        <note type="important">Dry the platen roller quickly to avoid moisture damage.</note>
+        <cmd>Place the platen roller in front of a fan to air dry.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>
