@@ -2,14 +2,14 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_risks_preacutions_lubrication">
   <title>Risks and Precautions in Typewriter Lubrication</title>
-  <shortdesc>There are important precautions for lubricating a typewriter, as improper lubrication can cause mechanical damage, attract debris, or create safety hazards during typewriter maintenance.</shortdesc>
+  <shortdesc>Improper lubrication can cause mechanical damage, attract debris, or create safety hazards during typewriter maintenance.</shortdesc>
   <conbody>
     <ul>
       <li>Excessive lubrication attracts debris, forming thick residue and restricting movement of mechanics.</li>
       <li>Heavy oils such as motor oil, WD-40, or household lubricants are too viscous for delicate mechanisms.</li>
-      <li>Rubber components such as the platen, rollers, or feeders will degrade when exposed to oil. This results in cracking and residue transfer to the ribbon and paper.</li>
-      <li>Exposed mechanisms, including the segment, vibrator, and line-spacing assemblies, collect dust when oiled. This reduces performance and increases maintenance needs.</li>
-      <li>Aerosol lubricants and solvent-based sprays may dissolve paint and lead to residue buildup.</li>
+      <li>Rubber components such as the platen, rollers, or feeders will degrade when exposed to oil. Improper exposure to oil will cause cracking and residue transfer to the ribbon and paper.</li>
+      <li>Exposed mechanisms, including the segment, vibrator, and line-spacing assemblies, collect dust when oiled. Dust build-up will reduce typewriter performance and increase maintenance needs.</li>
+      <li>Aerosol lubricants and solvent-based sprays may dissolve paint or lead to residue buildup.</li>
       <li>Oils and cleaning agents emit fumes that can irritate the skin, eyes, and lungs. Fumes may be flammable in enclosed spaces.</li>
     </ul>
     <note type="attention">Using small amounts of light oil only on essential metal connections minimizes wear without attracting debris or causing damage to exposed or rubber components.</note>

@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_cleaning_warnings">
   <title>Warnings and Precautions for Cleaning Materials</title>
-  <shortdesc>Cleaning materials and solvents may have adverse effects on typewriter materials. It is important to test cleaning agents and tools before applying them to a typewriter.</shortdesc>
+  <shortdesc>Cleaning materials and solvents may have adverse effects on typewriter materials. It is important to test cleaning agents and tools before you apply them to a typewriter.</shortdesc>
   <conbody>
   <ul>
     <li>
@@ -15,7 +15,7 @@
       <note type="warning">Mineral spirits should not come into contact with rubber or soft-plastic components, including the platen, feeder, and paper bail rollers. Mineral spirits will degrade rubber over time.</note>
     </li>
   </ul>
-  <note type="tip" audience="expert">If key caps, knobs, or other high-touch surfaces have tar buildup indicated by severe yellowing, they may be soaked in a 3% hydrogen peroxide solution for 4 to 8 hours to remove discoloration.</note>
+  <note type="tip" audience="expert">If key caps, knobs, or other high-touch surfaces have tar buildup, they may be soaked in a 3% hydrogen peroxide solution for 4 to 8 hours to remove discoloration.</note>
   <note type="tip" audience="expert">If the typewriter has steel or aluminum panels, car wax may be applied according to the product directions to create a glossy finish and prevent rusting.</note>
   </conbody>
 </concept>
