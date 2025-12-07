@@ -2,18 +2,18 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_repair_mainspring">
   <title>Repair The Mainspring</title>
-  <shortdesc>You can repair a typewriter mainspring by removing the mainspring housing and applying degreaser to clean the mainspring before reattaching the mainspring housing to your typewriter.</shortdesc>
+  <shortdesc>You can repair a typewriter mainspring by removing the mainspring housing and applying degreaser to clean the mainspring.</shortdesc>
   <taskbody>
     <steps>
       <step>
-        <cmd>Remove the mainspring housing from the typewriter by unscrewing the two barrel attachment screws.</cmd>
+        <cmd>Remove the mainspring housing from the typewriter by unscrewing the housing attachment screws.</cmd>
       </step>
       <step>
         <cmd>Set the mainspring housing on a rag, with the metal side of the barrel facing up.</cmd>
       </step>
       <step>
-        <note type="warning">Once degreaser reaches the mainspring, the barrel may jump or pop.</note>
-        <cmd>Using the pipette or dropper, apply two to three drops of degreaser on the center screw slot.</cmd>
+        <note type="warning">Once your degreaser reaches the mainspring, the barrel may jump or pop.</note>
+        <cmd>Use a pipette or dropper to apply two to three drops of degreaser to the center screw slot.</cmd>
       </step>
       <step>
         <cmd>Use a stiff-bristle brush and a soft-bristle brush as needed to clean debris from the center screw.</cmd>
@@ -22,13 +22,13 @@
         <cmd>Spray the barrel with compressed air to remove loosened debris.</cmd>
       </step>
       <step>
-        <cmd>Repeat steps 4 through 6 until the spring barrel rotates with ease.</cmd>
+        <cmd>Repeat steps 4 through 6 until the mainspring barrel rotates with ease.</cmd>
       </step>
       <step>
-        <cmd>Dry the barrel using a lint free cloth and compressed air.</cmd>
+        <cmd>Dry the mainspring barrel using a lint free cloth and compressed air.</cmd>
       </step>
       <step>
-        <cmd>Reattach the mainspring housing to the typewriter undercarriage by screwing in the two attachment screws.</cmd>
+        <cmd>Reattach the mainspring housing to the typewriter undercarriage by screwing in the housing attachment screws.</cmd>
       </step>
       <step>
         <cmd>Follow the steps in the section titled "Reattach the drawband" to reattach the drawband to the mainspring housing.</cmd>

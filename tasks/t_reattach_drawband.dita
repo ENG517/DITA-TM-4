@@ -2,35 +2,35 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_reattach_drawband">
   <title>Reattach The Drawband</title>
-  <shortdesc>You can reattach a typewriter drawband by building tension in the mainspring barrel and inserting the drawband into the barrel slot.</shortdesc>
+  <shortdesc>You can reattach your typewriter drawband by building tension in the mainspring barrel and inserting the end of the drawband into the mainspring barrel slot.</shortdesc>
   <taskbody>
     <steps>
       <step>
-        <cmd>Slide the typewriter carriage to the right hand side.</cmd>
+        <cmd>Slide the typewriter carriage to the right hand side of the typewriter.</cmd>
       </step>
       <step>
-        <note type="important">Ensure that the end of the drawband is still knotted or has a hooked end.</note>
+        <note type="important">Ensure that the end of the drawband is still knotted, or has a hooked end.</note>
         <cmd>Locate the end of the drawband.</cmd>
       </step>
       <step>
         <note type="note">Three to four full rotations should suffice.</note>
-        <cmd>Build tension in the mainspring by rotating the mainspring barrel towards the right side of the carriage.</cmd>
+        <cmd>Build tension in the mainspring by rotating the mainspring barrel towards the right-hand side of the typewriter carriage.</cmd>
       </step>
       <step>
         <cmd>Locate the drawband hole and drawband slot in the mainspring barrel.</cmd>
       </step>
       <step>
-        <cmd>Insert the end of the drawband into the drawband hole.</cmd>
+        <cmd>Insert the end of the drawband into the drawband hole on the mainspring barrel.</cmd>
       </step>
       <step>
-        <cmd>Slide the drawband into the thin barrel slot.</cmd>
+        <cmd>Slide the drawband into the thin drawband slot on the mainspring barrel.</cmd>
       </step>
       <step>
         <note type="caution">Releasing the mainspring barrel too quickly could snap or loosen the drawband.</note>
-        <cmd>Release the mainspring barrel slowly while holding the drawband parallel to the barrel until tension in the barrel is fully released.</cmd>
+        <cmd>Release the mainspring barrel slowly while holding the drawband parallel to the mainspringbarrel, until tension in the barrel is fully released.</cmd>
       </step>
       <step>
-        <note type="note">If there is slack in the drawband, the mainspring barrel did not have enough tension when inserting the drawband. Remove the drawband and try again.</note>
+        <note type="note">If there is slack in the drawband, the mainspring barrel did not have enough tension when the drawband was inserted. Remove the drawband and try again.</note>
         <cmd>Visually inspect the drawband to check for adequate tension.</cmd>
       </step>
     </steps>

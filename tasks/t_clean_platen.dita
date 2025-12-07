@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_clean_platen">
   <title>Clean The Platen Roller</title>
-  <shortdesc>You can clean a typewriter platen by using a lint free cloth to apply lacquer thinner to the platen until residue and debris is fully removed.</shortdesc>
+  <shortdesc>You can clean your typewriter platen by using a lint free cloth to apply lacquer thinner to the platen until residue and debris is fully removed.</shortdesc>
   <taskbody>
     <steps>
       <step>
@@ -22,7 +22,7 @@
         <cmd>Repeat steps 1 through 3 until little to no residue can be seen on the cloth.</cmd>
       </step>
       <step>
-        <cmd>If you notice your feed rollers or paper bail rollers are a bit dirty, clean them using steps 1 through 3.</cmd>
+        <cmd>If you notice your feed rollers or paper bail rollers are dirty, clean them using steps 1 through 3.</cmd>
       </step>
       <step>
         <cmd>Deactivate the paper release lever.</cmd>
