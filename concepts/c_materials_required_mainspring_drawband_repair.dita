@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_materials_required_drawsping_repair">
-  <title>Materials Required for Drawband and Mainspring Repairs</title>
+  <title>Materials Required for Mainspring Repairs</title>
   <shortdesc>A few materials are required for the successful repair of your typewriter mainspring.</shortdesc>
   <conbody>
     <section>
@@ -19,7 +19,7 @@
     </section>
 
     <section audience="expert">
-      <title>Replacing Mainspring Materials</title>
+      <title>Mainspring Replacement Materials</title>
       <ul>
         <li>New mainspring</li>
         <li>Small Allen wrench</li>
@@ -28,7 +28,7 @@
     </section>
 
     <section audience="intermediate">
-      <title>Repairing Mainspring Materials</title>
+      <title>Mainspring Repair Materials</title>
       <ul>
         <li>Strong degreaser</li>
         <li>Lacquer thinner or rubbing alcohol</li>
