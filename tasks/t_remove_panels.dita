@@ -2,11 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_remove_panels">
   <title>Remove Typewriter Panels</title>
-  <shortdesc>Removing the panels allows access to the inner mechanisms that you otherwise wouldn't be able to reach for a deep clean.</shortdesc>
+  <shortdesc>You can remove your typewriter panels to access your typewriters' inner mechanisms</shortdesc>
   <taskbody>
       <steps>
         <step>
-          <cmd>Locate the body screws, typically found on the underside of the typewriter, along the edges of the body panels.</cmd>
+          <cmd>Locate the typewriter body screws.</cmd>
         </step>
         <step>
           <cmd>Unscrew the body screws and set them off to the side, making sure you keep track of which ones go where, as they each have different lengths and threads.</cmd>

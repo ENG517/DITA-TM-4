@@ -3,15 +3,15 @@
 <task id="t_remove_paper">
   <title>Remove Typewriter Paper</title>
   <shortdesc>
-    As you use your typewriter, you will need to know how to remove the paper that is already in the machine.
+    You can remove typing paper from your typewriter by opening your paper bail and activating your paper release lever.
   </shortdesc>
   <taskbody>
     <steps>
       <step>
-        <cmd>Pull back the paper bail to an open position to release its hold on the paper.</cmd>
+        <cmd>Pull back your paper bail to an open position, so that the paper bail's pressure is released from the paper.</cmd>
       </step>
       <step>
-        <note type="caution">While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.</note>
+        <note type="caution">Over time, removing typing paper from your typewriter without activating the paper release lever will damage the internal mechanisms.</note>
         <cmd>Pull back the paper release lever.</cmd>
       </step>
       <step>

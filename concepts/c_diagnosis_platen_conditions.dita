@@ -3,7 +3,7 @@
 <concept id="c_diagnosis_platen_conditions">
   <title>Diagnosis for Platen Conditions</title>
   <shortdesc>
-   The condition of the platen post-cleaning helps to deteremine whether the platen needs to be replaced, refinished, or sanded.
+   The condition of the platen post-cleaning helps to determine whether the platen needs to be replaced, refinished, or sanded.
   </shortdesc>
   <conbody>
     <simpletable keycol="1">
@@ -12,19 +12,19 @@
       <stentry>Solution</stentry>
     </sthead>
     <strow>
-      <stentry>Hardened or has micro cracks throughout the roller.</stentry>
+      <stentry>Rubber is hardened. Rubber has micro-cracks.</stentry>
       <stentry>The platen roller needs to be refinished.</stentry>
     </strow>
     <strow>
-      <stentry>Severe indentation markings from type slugs or extensive cracking throughout the roller.</stentry>
+      <stentry>Severe indentation markings from type slugs. Extensive cracking throughout the roller.</stentry>
       <stentry>The platen roller needs to be replaced.</stentry>
     </strow>
       <strow>
-      <stentry>Minimal indents or cracks and feels glazed over or mildly hardened.</stentry>
+      <stentry>Minimal indents or cracks. Feels glazed over or mildly hardened.</stentry>
       <stentry>The platen roller needs to be sanded.</stentry>
     </strow>
       <strow audience="intermediate">
-      <stentry>No cracks, indents, or hardened spots and still feels rubbery to the touch.</stentry>
+      <stentry>No cracks, indents, or hardened spots. Still feels rubbery to the touch.</stentry>
       <stentry>No additional steps are needed.</stentry>
     </strow>
     </simpletable>
