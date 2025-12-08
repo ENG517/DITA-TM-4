@@ -3,32 +3,42 @@
 <concept id="c_loading-paper-issues">
   <title>Common Issues When Loading Paper</title>
   <shortdesc>
-  Common issues encountered when loading paper into a typewriter
+  Understanding the common issues encountered when loading paper into a typewriter ensures smooth operation, and prevents damage to the device as well as the paper. 
   </shortdesc>
   <conbody>
-    <section>
-      <title>Paper Release Lever Activation</title>
-      <p>
-        Unintended activation of the paper release lever prevents the platen from holding the paper securely, resulting in excessive movement. In such cases, the lever must be double-checked and closed.
-      </p>
-    </section>
-    <section>
-      <title>Damaged or Worn Platen</title>
-      <p>
-        Over time, platen rollers can harden and lose friction, reducing their grip on paper. Cleaning may temporarily restore texture, but long-term deterioration requires resurfacing or replacement. In this case, cleaning the rollers with a rubber cleaner may help.
-      </p>
-    </section>
-    <section>
-      <title>Damaged Paper Bail</title>
-      <p>
-        A bent or misshapen paper bail bar prevents rollers from maintaining proper contact with the paper. Hardened or cracked bail rollers can also reduce paper stability and may require replacement.
-      </p>
-    </section>
-    <section>
-      <title>Thin Paper</title>
-      <p>
-        Paper that is too thin may slip between the platen and rollers, while overly thick paper can overload the feeding mechanism. Optimal performance depends on using paper stock suited to the machine’s design. Getting a thicker stock paper resolves this issue.
-      </p>
-    </section>
+  <dl>
+    <dlentry>
+      <dt>Paper Release Lever Activated</dt>
+      <dd>
+        When the paper release lever is unintentionally left open, the platen cannot grip the paper securely, causing slipping and misalignment. 
+        Ensuring the lever is fully closed restores proper paper tension.
+      </dd>
+    </dlentry>
+
+    <dlentry>
+      <dt>Damaged or Worn Platen</dt>
+      <dd>
+        Platen rollers may harden or lose friction over time, reducing their ability to pull paper smoothly. 
+        Cleaning can offer temporary improvement, but significant deterioration requires resurfacing or replacement.
+      </dd>
+    </dlentry>
+
+    <dlentry>
+      <dt>Damaged Paper Bail</dt>
+      <dd>
+        A bent bail bar or cracked rollers prevents consistent pressure on the paper, leading to instability during typing. 
+        Replacement of worn or damaged components is often necessary for reliable operation.
+      </dd>
+    </dlentry>
+
+    <dlentry>
+      <dt>Unsuitable Paper Thickness</dt>
+      <dd>
+        Paper that is too thin may slip under the rollers, while thick paper can strain the feeding mechanism. 
+        Selecting a paper weight appropriate for the typewriter prevents jams and feeding errors.
+      </dd>
+    </dlentry>
+
+  </dl>
   </conbody>
 </concept>

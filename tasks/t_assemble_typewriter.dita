@@ -3,7 +3,7 @@
 <task id="t_assemble_typewriter">
   <title>Assemble the Typewriter</title>
   <shortdesc>
-    To reassemble your typewriter after cleaning, ensure the following steps are completed.
+  It is important to carefully reassemble the typewriter after cleaning to ensure all components are securely in place and functioning properly.
   </shortdesc>
   <taskbody>
     <steps>
@@ -12,7 +12,7 @@
       <stepresult>The segment plate must be placed evenly on both feet.</stepresult>
      </step>
     <step>
-     <note>The prongs need not be forced. If aligned properly, they should slide in effortlessly</note>
+     <note type ="tip">The prongs need not be forced. If aligned properly, they should slide in effortlessly</note>
      <cmd>Slide the two prongs on one side of the plate into the two slots on their respective typewriter foot.</cmd>
    </step>
     <step>
@@ -22,12 +22,12 @@
         <cmd>Apply gentle pressure in the direction of the inserted prong-slot while pushing down</cmd>
        </substep>
        <substep>
-        <cmd>Removing pressure from the other side once the prongs are fully inserted into the foot slots.</cmd>
+        <cmd>Remove pressure from the other side once the prongs are fully inserted into the foot slots.</cmd>
          </substep>
       </substeps>
     </step>
      <step>
-      <note>Small misalignment can cause screws to cross-thread, adjust the panel gently</note>
+      <note type = "caution">Small misalignment can cause screws to cross-thread, adjust the panel gently</note>
       <cmd>Line up the panel component screw slots with their corresponding slots on the typewriter frame.</cmd>
      </step>
     <step>

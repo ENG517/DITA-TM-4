@@ -19,8 +19,8 @@
       <title>Bell Indicator</title>
       <p>
         A small bell mechanism alerts the typist when the carriage is a five character spaces away from the end margin. 
-        The sound serves as an auditory cue to prepare for a line break or word hyphenation, 
-        helping maintain rhythm and alignment during typing.
+        The sound gives a clear audio signal that a line break or hyphenation is coming.
+        As a result, it helps you keep a steady typing rhythm and stay aligned on the page.
       </p>
     </section>
   </conbody>

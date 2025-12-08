@@ -1,30 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_prep_to_change_ribbon">
-  <title>Typewriter Ribbon Replacement Preparation</title>
-  <shortdesc>
-   Workspace preparation refers to the arrangement of protective materials and placement areas that reduce ink-related mess and support a clean process during ribbon replacement.
-  </shortdesc>
-  <conbody>
-  <section>
-      <title>Key Considerations</title>
+  <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+  <concept id="c_prep_to_change_ribbon">
+    <title>Typewriter Ribbon Replacement Preparation</title>
+    <shortdesc>
+    It is important to maintain a clean, organized workspace while replacing the ribbon. This involves ensuring materials are arranged properly and surfaces are protected from ink stains. 
+    </shortdesc>
+    <conbody>
+    <section>
+        <title>Key Considerations</title>
+
+      <note type="tip">
+        Preparing your workspace in advance prevents accidental ink stains and reduces cleanup time after the ribbon replacement.
+      </note>
+
       <ul>
         <li>
           <b>Surface protection</b> – The use of plastic coverings, paper towels, or absorbent cloth prevents ink from staining tables and surrounding surfaces.
+          <note type="attention">
+            Ink from typewriter ribbons can transfer quickly, always protect your surface before opening the ribbon spools.
+          </note>
         </li>
+
         <li>
           <b>Ribbon Organization</b> – A designated space for both the new and used ribbons ensures clear separation and minimizes contamination.
+          <note type="tip">
+            Keep the used ribbon away from the new one to prevent accidental mixing or ink transfer.
+          </note>
         </li>
+
         <li>
           <b>Clean handling area</b> – A tidy workspace supports accuracy in positioning and avoids interference from external objects or dust.
+          <note type="note">
+            Remove pens, paper, and dust from the immediate area.
+          </note>
         </li>
+
         <li>
           <b>Ink management awareness</b> – Understanding that ribbons contain high ink saturation helps prevent unintended smudges and residue transfer.
+          <note type="caution">
+            Avoid touching the ribbon fabric directly, as ink may stain your fingers and transfer to other components.
+          </note>
         </li>
+
         <li>
           <b>Preventive preparation</b> – Workspace setup functions as a precautionary measure that reflects attention to maintenance efficiency and cleanliness.
+          <note type="tip">
+            A well-prepared workspace can significantly speed up the ribbon replacement process, especially for beginners.
+          </note>
         </li>
       </ul>
     </section>
-  </conbody>
-</concept>
+    </conbody>
+  </concept>

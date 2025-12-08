@@ -2,8 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_clean_interior">
   <title>Clean the Interior</title>
+  <shortdesc>Cleaning the interior of the typwriter is essential to prevent jamming and keep the mechanical components working smoothly </shortdesc>
   <taskbody>
-    <context>Warning: Keep mineral spirits off all rubber and plastic parts of the typewriter such as the platen, feeder, or paper-bail rollers to prevent damage</context>
+    <context>
+      <p> Warning: Keep mineral spirits off all rubber and plastic parts of the typewriter such as the platen, feeder, or paper-bail rollers to prevent damage.</p>
+    </context>
         <steps>
         <step>
           <cmd>Lift the ribbon cover into an open position.</cmd>
