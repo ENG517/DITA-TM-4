@@ -3,97 +3,47 @@
 <map id="m_restoring_typewriter">
   <title>Restoring a Portable Smith Corona Sterling Manual Typewriter</title>
   <topicgroup collection-type="sequence">
-
+    <topicref type="reference" href="references/r_typewriter_maintenance_materials.dita"></topicref>
+    <topicref type="concept" href="concepts/c_workspace_preparation.dita"></topicref>
+    <topicref type="task" href="tasks/t_prepare_area.dita"></topicref>
+    <topicref type="reference" href="references/r_typewriter_case_types.dita"></topicref>
+    <topicref type="task" href="tasks/t_remove_case.dita"></topicref>
+      <topicref type="reference" href="references/r_typewriter_holiday_case_terms.dita"></topicref>
+    <topicref type="reference" href="references/r_typewriter_anatomy_definitions.dita"></topicref>
+    <topicref type="task" href="tasks/t_remove_panels.dita"></topicref>
+    <topicref type="concept" href="concepts/c_whentochange_ribbon.dita"></topicref>
+    <topicref type="concept" href="concepts/c_materials_required_to_replace_ribbon.dita"></topicref>
+    <topicref type="concept" href="concepts/c_preparation_to_change_ribbondita.dita"></topicref>
+    <topicref type="task" href="tasks/t_remove_cover.dita"></topicref>
+    <topicref type="task" href="tasks/t_remove_ribbon.dita"></topicref>
+    <topicref type="concept" href="concepts/c_materials_required_clean_typewriter.dita"></topicref>
+      <topicref type="concept" href="concepts/c_cleaning_material_types.dita"></topicref>
+      <topicref type="concept" href="concepts/c_cleaning_warnings.dita"></topicref>
+    <topicref type="task" href="tasks/t_dust_typewriter.dita"></topicref>
+    <topicref type="task" href="tasks/t_clean_interior.dita"></topicref>
+    <topicref type="concept" href="concepts/c_risks_precautions_lubrication.dita"></topicref>
+    <topicref type="concept" href="concepts/c_lubrication_guidelines.dita"></topicref>
+    <topicref type="task" href="tasks/t_lubricate_mechanics.dita"></topicref>
+    <topicref type="task" href="tasks/t_place_ribbonspools.dita"></topicref>
+    <topicref type="task" href="tasks/t_thread_ribbon.dita"></topicref>
+      <topicref type="concept" href="concepts/c_ribbon_issues_post_replacement.dita"></topicref>
+    <topicref type="concept" href="concepts/c_inspection_of_drawband_and_mainspring.dita"></topicref>
+      <topicref type="concept" href="concepts/c_diagnosis_for_drawband_and_mainspring_conditions.dita"></topicref>
+      <topicref type="concept" href="concepts/c_materials_required_mainspring_drawband_repair.dita"></topicref>
+      <topicref type="concept" href="concepts/c_Safety_Precautions_Considerations_Mainspring_Repair.dita"></topicref>
+      <topicref type="task" href="tasks/t_remove_drawband.dita"></topicref>
+      <topicref type="task" href="tasks/t_replace_mainspring.dita"></topicref>
+    <topicref type="task" href="tasks/t_reattach_drawband.dita"></topicref>
+    <topicref type="concept" href="concepts/c_symptoms_platen_failure.dita"></topicref>
+      <topicref type="concept" href="concepts/c_diagnosis_platen_conditions.dita"></topicref>
+      <topicref type="concept" href="concepts/c_materials_required_platen_repair.dita"></topicref>
+      <topicref type="task" href="tasks/t_remove_platen.dita"></topicref>
+      <topicref type="task" href="tasks/t_replace_platen.dita"></topicref>
+      <topicref type="task" href="tasks/t_insert_platen.dita"></topicref>
+    <topicref type="task" href="tasks/t_clean_exterior.dita"></topicref>
+    <topicref type="task" href="tasks/t_assemble_typewriter.dita"></topicref>
+    <topicref type="concept" href="concepts/c_typewriter_case_considerations.dita"></topicref>
+    <topicref type="task" href="tasks/t_clean_case.dita"></topicref>
+    <topicref type="task" href="tasks/t_place_typewriter.dita"></topicref>
   </topicgroup>
-
-<!-- Concept Topics-->
-
-  <topicref type="concept" href="concepts/c_workspace_preparation.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_materials_required_clean_typewriter.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_cleaning_material_types.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_cleaning_warnings.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_typewriter_case_considerations.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_risks_precautions_lubrication.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_lubrication_guidelines.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_whentochange_ribbon.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_materials_required_to_replace_ribbon"></topicref>
-
-  <topicref type="concept" href="concepts/c_preparation_to_change_ribbondita"></topicref>
-
-  <topicref type="concept" href="concepts/c_ribbon_issues_post_replacement.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_inspection_of_drawband_and_mainspring.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_diagnosis_for_drawband_and_mainspring_conditions.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_materials_required_mainspring_drawband_repair.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_Safety_Precautions_Considerations_Mainspring_Repair.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_symptoms_platen_failure.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_diagnosis_platen_conditions.dita"></topicref>
-
-  <topicref type="concept" href="concepts/c_materials_required_platen_repair.dita"></topicref>
-
-<!-- Task Topics-->
-
-  <topicref type="task" href="tasks/t_prepare_area.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_remove_case.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_remove_panels.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_remove_cover.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_remove_ribbon.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_dust_typewriter.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_clean_interior.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_lubricate_mechanics.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_place_ribbonspools.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_thread_ribbon.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_remove_platen.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_replace_platen.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_insert_platen.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_remove_drawband.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_replace_mainspring.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_reattach_drawband.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_clean_exterior.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_assemble_typewriter.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_clean_case.dita"></topicref>
-
-  <topicref type="task" href="tasks/t_place_typewriter.dita"></topicref>
-
-<!-- Reference Topics-->
-
-  <topicref type="reference" href="references/r_typewriter_anatomy_definitions.dita"></topicref>
-
-  <topicref type="reference" href="references/r_typewriter_maintenance_materials.dita"></topicref>
-
-  <topicref type="reference" href="references/r_typewriter_case_types.dita"></topicref>
-
-  <topicref type="reference" href="references/r_typewriter_holiday_case_terms.dita"></topicref>
-
 </map>
