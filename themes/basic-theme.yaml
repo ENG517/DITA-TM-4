@@ -18,26 +18,26 @@
 #########
 colors:
   primary: 
-    main: '#005687' #Dark Blue
-    s1: '#e1f5fe'
-    s2: '#b3e5fc'
-    s3: '#4fc3f7'
-    s4: '#0288d1'
-    s5: '#186cb8'
+    main: '#412523' #Dark Magenta
+    s1: '#f5f5f0'
+    s2: '#e4d6cb'
+    s3: '#d3c1b3'
+    s4: '#bda898'
+    s5: '#967f6d'
   secondary: 
-    main: '#f44336' #Dark Red
-    s1: '#ffdde0'
-    s2: '#ffcdd2'
-    s3: '#ef9a9a'
-    s4: '#d32f2f'
-    s5: '#b71c1c'
-  accent1:
-    main: '#f1b211' #Golden rod yellow
-    s1: '#f9f1dc'
-    s2: '#f4dea7'
-    s3: '#f2cb69'
-    s4: '#f0bb34'
-    s5: '#e4a80b'
+    main: '#e35336' #Berry Red
+    s1: '#e07a5f'
+    s2: '#ea9c88'
+    s3: '#e06e57'
+    s4: '#c74228'
+    s5: '#ac371f'
+  accent:
+    main: '#81cdc6' #Light Cyan
+    s1: '#4fb9af'
+    s2: '#28a99e'
+    s3: '#05998c'
+    s4: '#037c6e'
+    s5: '#025043'
   neutrals: # No need to change neutrals
     s1: '#f2f2f2'
     s2: '#e8e9e9'
@@ -53,20 +53,20 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Public Sans, Arial Unicode MS'
-    headings: 'Being Human, Times New Roman'
-    display: 'Monoton'
-    monospaced: 'Fantasque Sans Mono, Courier New, Courier'
+    copy: 'Lucida Sans'
+    headings: 'Special Elite'
+    display: 'Courier New'
+    monospaced: 'IM Fell DW Pica'
   sizing:
     title: 36pt
-    h1: 28pt
+    h1: 29pt
     h2: 23pt
     h3: 23pt
     h4: 18pt
     h5: 18pt
-    h6: 18pt
+    h6: 16pt
     copy: 14pt
-    uicontrol: 14.5pt
+    uicontrol: 14pt
     small: 12pt
 
 #############################
@@ -78,10 +78,10 @@ fonts:
 spacing:
   lines:
     xxlarge: 36pt
-    xlarge: 28pt
-    large: 21pt
+    xlarge: 29pt
+    large: 23pt
     medium: 18pt # ~14x1.3 as base between paragraphs
-    small: 9pt
+    small: 12pt
     xsmall: 4pt
 
 ################
@@ -90,6 +90,11 @@ spacing:
 ################
 page:
   size: Letter
+  orientation: Portrait
+  top: 20mm
+  outside: 20mm
+  bottom: 20mm
+  inside: 20mm
   mirror-margins: true
 
 ##################
@@ -98,6 +103,7 @@ page:
 style:
   # New Defaults for Text in Body Elements
   body:
+    color: $colors-primary-main
     font-family: $fonts-families-copy
     font-size: $fonts-sizing-copy
     line-height: $spacing-lines-medium
@@ -105,42 +111,51 @@ style:
   cover-title:
     color: $colors-primary-main
     font-family: $fonts-families-display
+    font-style: bold
     font-size: $fonts-sizing-title
     # text-transform: uppercase
     letter-spacing: 0.5pt
   # Heading Styles
   h1:
     font-family: $fonts-families-headings
+    font-style: bold
     font-size: $fonts-sizing-h1
     color: $colors-primary-main
     border-after: solid 1pt $colors-secondary-main
-    # Add numbering in toc, headers, footers, when applicable
     title-numbering: true
     break-before: page
   h2:
     font-family: $fonts-families-headings
+    font-style: bold
     font-size: $fonts-sizing-h2
     color: $colors-primary-main
-    # Add numbering in toc, headers, footers, when applicable
     title-numbering: true
   h3:
     font-family: $fonts-families-headings
+    font-style: bold, italic
     font-size: $fonts-sizing-h3
     color: $colors-primary-main
+    title-numbering: true
   h4:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h4
+    color: $colors-primary-main
+    title-numbering: true
   h5:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h5
+    font-style: italic
+    color: $colors-primary-main
+    title-numbering: true
   h6:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h6
+    color: $colors-primary-main
+    title-numbering: true
   p:
     margin-bottom: $spacing-lines-medium
   li:
     margin-bottom: $spacing-lines-medium
-    font-family: $fonts-families-copy
     label:
       color: $colors-primary-main
   step:
@@ -150,7 +165,7 @@ style:
     margin-bottom: $spacing-lines-medium
   link:
     font-family: $fonts-families-copy
-    color: $colors-secondary-s5
+    color: $colors-accent-s2
   shortdesc:
     margin-top: $spacing-lines-xlarge
     margin-bottom: $spacing-lines-xlarge
@@ -159,7 +174,7 @@ style:
     margin-top: $spacing-lines-xlarge
     margin-bottom: $spacing-lines-xlarge
   note:
-    background-color: $colors-accent1-s1
+    background-color: $colors-accent-main
     padding-before: $spacing-lines-small
     padding-after: $spacing-lines-small
     padding-start: $spacing-lines-small
@@ -167,30 +182,30 @@ style:
     margin-bottom: $spacing-lines-medium
     keep-together.within-page: always
     caution:
-      background-color: $colors-secondary-s1
+      background-color: $colors-secondary-s2
     warning:
-      background-color: $colors-secondary-s1
+      background-color: $colors-secondary-s3
   stepresult:
     padding-before: 6pt
     padding-after: 6pt
     margin-bottom: 12pt
     keep-together.within-page: always
   option:
-    color: $colors-secondary-main
+    color: $colors-secondary-s1
     font-family: $fonts-families-monospaced
   table:
     caption:
-      color: $colors-secondary-main
+      color: $colors-accent-s5
     font-family: $fonts-families-copy
-    font-size: $fonts-sizing-small
+    font-size: $fonts-sizing-copy
     header:
-      background-color: $colors-primary-s1
+      background-color: $colors-primary-s2
   menucascade:
     font-style: italic
     font-size: $fonts-sizing-uicontrol
   uicontrol:
     font-family: $fonts-families-monospaced
-    background-color: $colors-secondary-s1
+    background-color: $colors-secondary-main
     color: $colors-primary-main
     font-size: $fonts-sizing-uicontrol
 
