@@ -3,10 +3,10 @@
 <task id="t_remove_ribbon">
   <title>Remove Existing Typewriter Ribbon</title>
   <shortdesc>
-    When you are changing the ribbon of your typewriter, you will need to remove the existing typewriter ribbons.
+    You can easily remove your typewriter ribbon by removing the ribbon cover and gently unthreading your ribbon.
   </shortdesc>
   <taskbody>
-    <prereq>Before removing the ribbons, you will need to remove the ribbon cover on your typewriter.</prereq>
+    <prereq>Before removing the ribbon, you will need to remove the ribbon cover on your typewriter.</prereq>
       <steps>
         <step>
           <cmd>Slowly lift one of the ribbon spools from its metal spool holder.</cmd>

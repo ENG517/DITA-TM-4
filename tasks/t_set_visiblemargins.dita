@@ -2,24 +2,24 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_set_visiblemargins">
   <title>Set Visible Margins</title>
-  <shortdesc>Visible Margins are set with margin stops. These are common on older typewriter models (pre-1950's), Smith-Corona machines, and Brother machines.</shortdesc>
+  <shortdesc>You can set your desired margin size by activating your typewriters' margin stops.</shortdesc>
   <taskbody>
-    <context>Note: It is best to insert your paper before setting your margins, as you may need to use the edge of your paper as a reference.</context>
+    <prereq>t is best to insert your paper before setting your margins, as you may need to use the edge of your paper as a reference.</prereq>
      <steps>
       <step>
-        <cmd>Step 1: Identify the margin stops</cmd>
+        <cmd>Identify the margin stops</cmd>
       </step>
       <step>
-        <cmd>Step 2: Center your carriage</cmd>
+        <cmd>Center your carriage</cmd>
         <substeps>
           <substep>
-            <cmd>Press the Carriage Centering Lever on the right-hand side of the machine to center the carriage.</cmd>
+            <note type="caution">It is best practice to center your carriage to maintain equal margin alignment and prevent difficulty when resetting margins.</note>
+            <cmd>Press the carriage centering lever on the right-hand side of your typewriter.</cmd>
           </substep>
         </substeps>
-        <info>Note: While centering the carriage is not required, it is best practice as some margin stops can be finicky. It may be difficult to reset your margin stops in the desired location as they may not extend all the way to the left or right with an offset carriage.</info>
       </step>
        <step>
-        <cmd>Step 3: Move the margin stops</cmd>
+        <cmd>Move the margin stops</cmd>
         <substeps>
           <substep>
             <cmd>Press down and slide the margin stop left or right, using the measurements on your carriage as a guide.</cmd>
@@ -33,10 +33,10 @@
         </substeps>
       </step>
        <step>
-        <cmd>Step 3: Test the margins</cmd>
+        <cmd>Test the margins</cmd>
         <substeps>
           <substep>
-            <cmd>To test the success of this margin setting, slide the carriage between each margin stop. The carriage should halt in movement at each stop.</cmd>
+            <cmd>Slide the carriage between each margin stop. The carriage should halt in movement at each stop.</cmd>
           </substep>
         </substeps>
       </step>

@@ -2,24 +2,22 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_clean_case">
   <title>Clean the Case</title>
-   <shortdesc>
-     Like their typewriter panels, Smith Corona Holiday Cases are made of a non-porous material in order to resist staining, so most stains can easily be removed with mild soap and water.
-  </shortdesc>
+   <shortdesc>You can clean your typewriter case using various materials, such as mild soap and water with a lint-free cloth.</shortdesc>
   <taskbody>
        <steps>
         <step>
-          <cmd>Remove the fastening frame from the case by pressing the frame release lever to the right, while simultaneously lifting the bottom of the frame upwards and sliding the frame points out of their respective rear retainer slots.</cmd>
+          <cmd>Press the frame release lever and lift the bottom of the frame up. Slide the frame points out of their rear retainer slots to remove the fastening frame from your typewriter case.</cmd>
         </step>
         <step>
-          <cmd>Remove the lid from the case by fully opening the case and pressing both the right and left hinge latches simultaneously and unhooking them.</cmd>
-          <info>Note: If your case is different from the Smith Corona Holiday Case, your hinges may need to be unscrewed for removal rather than being unhooked.</info> 
+          <note type="note">If your case is different from the Smith Corona Holiday Case, your hinges may need to be unscrewed for removal rather than being unhooked.</note>
+          <cmd>Open your typewriter case and press both case hinge latches simultaneously to unhook and remove the lid.</cmd>
         </step>
         <step>
-          <cmd>Dampen a lint-free rag with a mixture of mild soap and water and gently rub the case components, including the frame, in circular motions to remove stains or stuck-on debris. Repeat as necessary to fully remove dirt, staining, and debris.</cmd>
-          <info>Note: If your case is different from the Smith Corona Holiday Case, you may need a different cleaning solution based on the case material. For leather, cloth, or carpet cases, research and patch test all detergents and cleaners before use.</info>
+          <cmd>Dampen a lint-free rag with your cleaning solution and rub the case components in circular motions. Repeat as necessary to fully remove dirt, staining, and debris.</cmd>
         </step>
         <step>
-          <cmd>Use a cotton swab soaked in the cleaning solution to remove stuck on dirt and debris from the case hinges and frame levers and gears.</cmd>
+          <note type="attention">If your case is different from the Smith Corona Holiday Case, you may need a different cleaning solution. Research and patch test all detergents and cleaners before use.</note>
+          <cmd>Soak a cotton swab in your cleaning solution to remove build-up from any hinges, levers, or gears.</cmd>
         </step>
         <step>
           <cmd>Dry the surface of the case with a clean, lint-free cloth and set out in direct sunlight, or in front of a fan, for up to two to three days to fully dry and remove any odors.</cmd>

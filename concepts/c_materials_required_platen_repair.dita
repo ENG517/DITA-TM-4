@@ -2,11 +2,12 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_materials_required_platen_repair">
   <title>List of Materials Required for Platen Repair and Maintenance</title>
+  <shortdesc>Multiple materials are required for the successful repair and maintenance of your typewriters' platen roller.</shortdesc>
   <conbody>
     <section>
       <title>General Materials</title>
       <p>
-        For the typewriter platen repairs, you will need the following materials:
+        You will need the following materials for all typewriter platen repairs.
       </p>
       <ul>
         <li>A portable Smith Corona Manual typewriter</li>
@@ -37,10 +38,8 @@
       <ul>
         <li>Heat gun</li>
         <li>Black rubber heat shrink tubing</li>
-        <li>
-          The diameter will depend on your platen roller size, but 2 inches is generally acceptable.
-        </li>
       </ul>
+      <note type="note">The diameter of the black rubber heat shrink tubing will depend on your platen roller size, but 2 inches is generally acceptable.</note>
     </section>
 
     <section audience="expert">
