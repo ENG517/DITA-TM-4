@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="m_formatting_paper">
+<map id="m_beginner_user">
   <title>Loading Paper and Setting Formatting for the Portable Smith Corona Sterling Manual Typewriter</title>
   <topicgroup collection-type="sequence">
     <topicref type="concept" href="concepts/c_basic_typewriter_mechanisms.dita"></topicref>
