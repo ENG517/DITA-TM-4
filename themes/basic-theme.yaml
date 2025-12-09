@@ -1,0 +1,251 @@
+##########################################################
+# PDF THEME
+# ENG 517 Guide for YAML Theme Files: https://docs.google.com/document/d/17Q0J58WNMtyYEdm_hJsMiTd95fgjTE-O1SMn43xiqoI/edit?usp=sharing
+ 
+# Main Docs: https://www.dita-ot.org/4.2/topics/pdf-themes
+# Styles: https://www.dita-ot.org/4.2/resources/theme/styles
+# Variables: https://www.dita-ot.org/dev/resources/theme/variables
+# Sample: https://www.dita-ot.org/dev/topics/sample-pdf-theme.html
+
+# Full XSL Specifications
+# (eXtensible Stylesheet Language)
+# https://www.w3.org/TR/xsl/
+
+##########################################################
+
+#########
+# COLORS
+#########
+colors:
+  primary: 
+    main: '#412523' #Dark Magenta
+    s1: '#f5f5f0'
+    s2: '#e4d6cb'
+    s3: '#d3c1b3'
+    s4: '#bda898'
+    s5: '#967f6d'
+  secondary: 
+    main: '#e35336' #Berry Red
+    s1: '#e07a5f'
+    s2: '#ea9c88'
+    s3: '#e06e57'
+    s4: '#c74228'
+    s5: '#ac371f'
+  accent:
+    main: '#81cdc6' #Light Cyan
+    s1: '#4fb9af'
+    s2: '#28a99e'
+    s3: '#05998c'
+    s4: '#037c6e'
+    s5: '#025043'
+  neutrals: # No need to change neutrals
+    s1: '#f2f2f2'
+    s2: '#e8e9e9'
+    s3: '#d1d3d4'
+    s4: '#babdbf'
+    s5: '#808488'
+    s6: '#666a6d'
+    s7: '#4d5052'
+    s8: '#212122'
+
+########
+# FONTS
+########
+fonts:
+  families:
+    copy: 'Lucida Sans'
+    headings: 'Special Elite'
+    display: 'Courier New'
+    monospaced: 'IM Fell DW Pica'
+  sizing:
+    title: 36pt
+    h1: 29pt
+    h2: 23pt
+    h3: 23pt
+    h4: 18pt
+    h5: 18pt
+    h6: 16pt
+    copy: 14pt
+    uicontrol: 14pt
+    small: 12pt
+
+#############################
+# LINE SPACING
+# 100%-200% of base font size
+# is an acceptable range
+# 72pts per 1 inch
+#############################
+spacing:
+  lines:
+    xxlarge: 36pt
+    xlarge: 29pt
+    large: 23pt
+    medium: 18pt # ~14x1.3 as base between paragraphs
+    small: 12pt
+    xsmall: 4pt
+
+################
+# PAGE SETTINGS
+# Docs: https://www.dita-ot.org/4.2/resources/theme/page-settings
+################
+page:
+  size: Letter
+  orientation: Portrait
+  top: 20mm
+  outside: 20mm
+  bottom: 20mm
+  inside: 20mm
+  mirror-margins: true
+
+##################
+# MAIN DOC STYLES
+##################
+style:
+  # New Defaults for Text in Body Elements
+  body:
+    color: $colors-primary-main
+    font-family: $fonts-families-copy
+    font-size: $fonts-sizing-copy
+    line-height: $spacing-lines-medium
+  # Cover Page Title
+  cover-title:
+    color: $colors-primary-main
+    font-family: $fonts-families-display
+    font-style: bold
+    font-size: $fonts-sizing-title
+    # text-transform: uppercase
+    letter-spacing: 0.5pt
+  # Heading Styles
+  h1:
+    font-family: $fonts-families-headings
+    font-style: bold
+    font-size: $fonts-sizing-h1
+    color: $colors-primary-main
+    border-after: solid 1pt $colors-secondary-main
+    title-numbering: true
+    break-before: page
+  h2:
+    font-family: $fonts-families-headings
+    font-style: bold
+    font-size: $fonts-sizing-h2
+    color: $colors-primary-main
+    title-numbering: true
+  h3:
+    font-family: $fonts-families-headings
+    font-style: bold, italic
+    font-size: $fonts-sizing-h3
+    color: $colors-primary-main
+    title-numbering: true
+  h4:
+    font-family: $fonts-families-headings
+    font-size: $fonts-sizing-h4
+    color: $colors-primary-main
+    title-numbering: true
+  h5:
+    font-family: $fonts-families-headings
+    font-size: $fonts-sizing-h5
+    font-style: italic
+    color: $colors-primary-main
+    title-numbering: true
+  h6:
+    font-family: $fonts-families-headings
+    font-size: $fonts-sizing-h6
+    color: $colors-primary-main
+    title-numbering: true
+  p:
+    margin-bottom: $spacing-lines-medium
+  li:
+    margin-bottom: $spacing-lines-medium
+    label:
+      color: $colors-primary-main
+  step:
+    keep-together.within-page: always
+  substeps:
+    margin-top: $spacing-lines-small
+    margin-bottom: $spacing-lines-medium
+  link:
+    font-family: $fonts-families-copy
+    color: $colors-accent-s2
+  shortdesc:
+    margin-top: $spacing-lines-xlarge
+    margin-bottom: $spacing-lines-xlarge
+    line-height: $spacing-lines-medium
+  prereq:
+    margin-top: $spacing-lines-xlarge
+    margin-bottom: $spacing-lines-xlarge
+  note:
+    background-color: $colors-accent-main
+    padding-before: $spacing-lines-small
+    padding-after: $spacing-lines-small
+    padding-start: $spacing-lines-small
+    padding-end: $spacing-lines-small
+    margin-bottom: $spacing-lines-medium
+    keep-together.within-page: always
+    caution:
+      background-color: $colors-secondary-s2
+    warning:
+      background-color: $colors-secondary-s3
+  stepresult:
+    padding-before: 6pt
+    padding-after: 6pt
+    margin-bottom: 12pt
+    keep-together.within-page: always
+  option:
+    color: $colors-secondary-s1
+    font-family: $fonts-families-monospaced
+  table:
+    caption:
+      color: $colors-accent-s5
+    font-family: $fonts-families-copy
+    font-size: $fonts-sizing-copy
+    header:
+      background-color: $colors-primary-s2
+  menucascade:
+    font-style: italic
+    font-size: $fonts-sizing-uicontrol
+  uicontrol:
+    font-family: $fonts-families-monospaced
+    background-color: $colors-secondary-main
+    color: $colors-primary-main
+    font-size: $fonts-sizing-uicontrol
+
+
+###################
+# DOC HEADER SETUP
+###################
+header:
+  color: $colors-primary-main
+  display-align: before
+  end-indent: 10mm
+  font-family: $fonts-families-headings
+  font-size: $fonts-sizing-small
+  font-weight: light
+  padding-after: $spacing-lines-small
+  padding-before: $spacing-lines-medium
+  start-indent: 10mm
+  odd:
+    content: '{chapter}'
+    text-align: end
+  even:
+    content: '{title}'
+    text-align: start
+
+###################
+# DOC FOOTER SETUP
+###################
+footer:
+  color: $colors-primary-main
+  end-indent: 10mm
+  font-family: $fonts-families-headings
+  font-size: $fonts-sizing-small
+  padding-after: $spacing-lines-small
+  padding-before: $spacing-lines-medium
+  start-indent: 10mm
+  odd:
+    content: '{folio}'
+    font-weight: light
+    text-align: end
+  even:
+    content: '{folio}'
+    font-weight: light
+    text-align: start
