@@ -6,7 +6,7 @@
   Various cleaning materials are used to maintain and restore typewriters. It is essential to know what materials are best for your typewriter.
   </shortdesc>
   <conbody>
-  <section>
+    <section>
       <title>Recommended Cleaning Materials</title>
       <p>
         Safe cleaning materials remove dust, ink, and residue, without damaging typewriter components. 
@@ -33,9 +33,9 @@
         <li>WD-40, and other heavy oils that leave residue and attract dust.</li>
         <li>High-pressure air compressors without a regulator, which can dislodge delicate parts.</li>
       </ul>
-  </section>
-  <section>
-    <note type="tip">Refer to the Typewriter Maintenance Materials topic for more details on cleaning materias.</note>
-  </section>
+    </section>
+    <section>
+      <note type="tip">Refer to the Typewriter Maintenance Materials topic for more details on cleaning materias.</note>
+    </section>
   </conbody>
-  </concept>
+</concept>

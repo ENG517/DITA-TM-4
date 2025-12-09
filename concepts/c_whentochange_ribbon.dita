@@ -5,7 +5,7 @@
   <shortdesc>
    The clarity and visibility of typed text indicate when a typewriter ribbon requires replacement.
   </shortdesc>
-<conbody>
+  <conbody>
     <p>
      The ink on a typewriter ribbon fades with repeated use, leading to diminished print quality.
      <term>Ribbon Fading</term>
@@ -28,6 +28,6 @@
         Other designs feature simpler spool mechanisms that rely solely on manual tension adjustment.
       </p>
     </section>
-
+    
   </conbody>
 </concept>

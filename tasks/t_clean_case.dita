@@ -2,32 +2,32 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_clean_case">
   <title>Clean the Case</title>
-   <shortdesc>You can clean your typewriter case using various materials, such as mild soap and water with a lint-free cloth.</shortdesc>
+  <shortdesc>You can clean your typewriter case using various materials, such as mild soap and water with a lint-free cloth.</shortdesc>
   <taskbody>
-       <steps>
-        <step>
-          <cmd>Press the frame release lever and lift the bottom of the frame up. Slide the frame points out of their rear retainer slots to remove the fastening frame from your typewriter case.</cmd>
-        </step>
-        <step>
-          <note type="note">If your case is different from the Smith Corona Holiday Case, your hinges may need to be unscrewed for removal rather than being unhooked.</note>
-          <cmd>Open your typewriter case and press both case hinge latches simultaneously to unhook and remove the lid.</cmd>
-        </step>
-        <step>
-          <cmd>Dampen a lint-free rag with your cleaning solution and rub the case components in circular motions. Repeat as necessary to fully remove dirt, staining, and debris.</cmd>
-        </step>
-        <step>
-          <note type="attention">If your case is different from the Smith Corona Holiday Case, you may need a different cleaning solution. Research and patch test all detergents and cleaners before use.</note>
-          <cmd>Soak a cotton swab in your cleaning solution to remove build-up from any hinges, levers, or gears.</cmd>
-        </step>
-        <step>
-          <cmd>Dry the surface of the case with a clean, lint-free cloth and set out in direct sunlight, or in front of a fan, for up to two to three days to fully dry and remove any odors.</cmd>
-        </step>
-        <step>
-          <cmd>Replace the lid onto the case by lining up the two halves of both hinges, rehooking them, and pushing the hinge sections together with mild pressure until they snap into place.</cmd>
-        </step>
-        <step>
-          <cmd>Replace the frame by sliding the frame points back into their respective rear retainer slots and snapping the front of the frame down into a latched position.</cmd>
-        </step>
-      </steps>
+    <steps>
+      <step>
+        <cmd>Press the frame release lever and lift the bottom of the frame up. Slide the frame points out of their rear retainer slots to remove the fastening frame from your typewriter case.</cmd>
+      </step>
+      <step>
+        <note type="note">If your case is different from the Smith Corona Holiday Case, your hinges may need to be unscrewed for removal rather than being unhooked.</note>
+        <cmd>Open your typewriter case and press both case hinge latches simultaneously to unhook and remove the lid.</cmd>
+      </step>
+      <step>
+        <cmd>Dampen a lint-free rag with your cleaning solution and rub the case components in circular motions. Repeat as necessary to fully remove dirt, staining, and debris.</cmd>
+      </step>
+      <step>
+        <note type="attention">If your case is different from the Smith Corona Holiday Case, you may need a different cleaning solution. Research and patch test all detergents and cleaners before use.</note>
+        <cmd>Soak a cotton swab in your cleaning solution to remove build-up from any hinges, levers, or gears.</cmd>
+      </step>
+      <step>
+        <cmd>Dry the surface of the case with a clean, lint-free cloth and set out in direct sunlight, or in front of a fan, for up to two to three days to fully dry and remove any odors.</cmd>
+      </step>
+      <step>
+        <cmd>Replace the lid onto the case by lining up the two halves of both hinges, rehooking them, and pushing the hinge sections together with mild pressure until they snap into place.</cmd>
+      </step>
+      <step>
+        <cmd>Replace the frame by sliding the frame points back into their respective rear retainer slots and snapping the front of the frame down into a latched position.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>

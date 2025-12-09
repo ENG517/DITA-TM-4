@@ -5,44 +5,42 @@
   <shortdesc>
    It is important to understand the fundamental mechanisms of a manual typewriter to ensure proper operation and maintenance.
   </shortdesc>
-  <conbody>  
- <section>
-  <title>Typewriter Components</title>
+  <conbody>
+    <section>
+      <title>Typewriter Components</title>
+      
+      <dl>
+        <dlentry>
+          <dt>Paper Bail</dt>
+          <dd>
+            The paper bail is a metal or plastic bar positioned above the platen. It contains small rollers that press lightly on the paper to keep it flat and steady while typing, ensuring the paper remains aligned as the carriage moves.
+          </dd>
+        </dlentry>
 
-  <dl>
-    <dlentry>
-      <dt>Paper Bail</dt>
-      <dd>
-        The paper bail is a metal or plastic bar positioned above the platen. It contains small rollers that press lightly on the paper to keep it flat and steady while typing, ensuring the paper remains aligned as the carriage moves.
-      </dd>
-    </dlentry>
+        <dlentry>
+          <dt>Paper Release Lever</dt>
+          <dd>
+            The paper release lever controls the grip of the platen on the paper. Releasing it allows the user to adjust or remove the paper without resistance, while engaging it locks the paper in place to maintain consistent spacing.
+          </dd>
+        </dlentry>
 
-    <dlentry>
-      <dt>Paper Release Lever</dt>
-      <dd>
-        The paper release lever controls the grip of the platen on the paper. Releasing it allows the user to adjust or remove the paper without resistance, while engaging it locks the paper in place to maintain consistent spacing.
-      </dd>
-    </dlentry>
+        <dlentry>
+          <dt>Platen</dt>
+          <dd>
+            The platen is the large cylindrical roller behind the paper that provides a firm backing for typebars to strike against. It advances the paper vertically and ensures even ink transfer from the ribbon to the page.
+          </dd>
+        </dlentry>
 
-    <dlentry>
-      <dt>Platen</dt>
-      <dd>
-        The platen is the large cylindrical roller behind the paper that provides a firm backing for typebars to strike against. It advances the paper vertically and ensures even ink transfer from the ribbon to the page.
-      </dd>
-    </dlentry>
-
-    <dlentry>
-      <dt>Platen Knob or Roller Knob</dt>
-      <dd>
-        The platen knob, located on one or both sides of the platen, allows controlled rotation of the roller. It is used to move the paper up or down line by line and assists with precise text alignment.
-      </dd>
-    </dlentry>
-  </dl>
-
-</section>
-    
+        <dlentry>
+          <dt>Platen Knob or Roller Knob</dt>
+          <dd>
+            The platen knob, located on one or both sides of the platen, allows controlled rotation of the roller. It is used to move the paper up or down line by line and assists with precise text alignment.
+          </dd>
+        </dlentry>
+      </dl>
+    </section>
   </conbody>
-  </concept>
+</concept>
     
     
     

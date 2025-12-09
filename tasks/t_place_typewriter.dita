@@ -4,22 +4,22 @@
   <title>Place Typewriter Back Into Case</title>
   <shortdesc>The typewriter must be placed into its case to protect it from dust, physical damage, moisture, and accidental impact while also making it safer and easier to store or transport</shortdesc>
   <taskbody>
-       <steps>
-        <step>
-          <cmd>Center the carriage of the typewriter.</cmd>
-        </step>
-        <step>
-          <cmd>Pick up the typewriter and tilt it's front end upwards approximately 2 to 3 inches.</cmd>
-        </step>
-        <step>
-          <cmd>Slowly insert the typewriter into the case. Ensure the two slots on the back of the typewriter slide into the double-pronged cleat at the back of the case.</cmd>
-        </step>
-        <step>
-          <cmd>Push the front of the typewriter down so that it latches onto the front cleat.</cmd>
-        </step>
-        <step>
-          <cmd>Check to ensure that the typewriter is secure by lifting its front end. If it is secure, it will not lift from the case.</cmd>
-        </step>
-       </steps>
+    <steps>
+      <step>
+        <cmd>Center the carriage of the typewriter.</cmd>
+      </step>
+      <step>
+        <cmd>Pick up the typewriter and tilt it's front end upwards approximately 2 to 3 inches.</cmd>
+      </step>
+      <step>
+        <cmd>Slowly insert the typewriter into the case. Ensure the two slots on the back of the typewriter slide into the double-pronged cleat at the back of the case.</cmd>
+      </step>
+      <step>
+        <cmd>Push the front of the typewriter down so that it latches onto the front cleat.</cmd>
+      </step>
+      <step>
+        <cmd>Check to ensure that the typewriter is secure by lifting its front end. If it is secure, it will not lift from the case.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>

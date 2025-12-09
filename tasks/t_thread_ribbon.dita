@@ -4,7 +4,7 @@
   <title>Thread the Ribbon</title>
   <shortdesc>You can use your typewriter’s ribbon vibrator guides to thread your new ink ribbon.</shortdesc>
   <taskbody>
-    <prereq>Prior to threading the ribbon, your ribbon spools must to be in their respective spool holders.</prereq>
+    <prereq audience="intermediate">Prior to threading the ribbon, your ribbon spools must to be in their respective spool holders.</prereq>
       <steps>
         <step>
           <cmd>Feed the length of ribbon between the two ribbon spools through the small slots on each side of the ribbon guide. Take care to not stretch the ribbon.</cmd>

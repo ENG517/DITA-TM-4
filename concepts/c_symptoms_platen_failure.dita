@@ -2,13 +2,13 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_symptoms_platen_failure">
   <title>Symptoms of Platen Failure</title>
-    <shortdesc>The condition of your platen roller contains indicators that may suggest a malfunction.</shortdesc>
-    <conbody>
-      <note type="note">The conditions below indicate a malfunction in your typewriter platen, and suggests that the platen may need cleaning, repair, or replacement.</note>
-      <ul>
-          <li>The platen begins to lose its grip, causing uneven paper feeding.</li>
-          <li>The typing impression weakens due to reduced friction between the paper and roller surface.</li>
-          <li>Dirty or hardened platen rollers limit the typewriter's performance and make the paper slip during typing.</li>
-        </ul>
-    </conbody>  
+  <shortdesc>The condition of your platen roller contains indicators that may suggest a malfunction.</shortdesc>
+  <conbody>
+    <note type="note">The conditions below indicate a malfunction in your typewriter platen, and suggests that the platen may need cleaning, repair, or replacement.</note>
+    <ul>
+      <li>The platen begins to lose its grip, causing uneven paper feeding.</li>
+      <li>The typing impression weakens due to reduced friction between the paper and roller surface.</li>
+      <li>Dirty or hardened platen rollers limit the typewriter's performance and make the paper slip during typing.</li>
+    </ul>
+  </conbody>  
 </concept>

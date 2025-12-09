@@ -4,22 +4,22 @@
   <title>Remove Typewriter Panels</title>
   <shortdesc>You can remove your typewriter panels to access your typewriters' inner mechanisms</shortdesc>
   <taskbody>
-      <steps>
-        <step>
-          <cmd>Locate the typewriter body screws.</cmd>
-        </step>
-        <step>
-          <cmd>Unscrew the body screws and set them off to the side, making sure you keep track of which ones go where, as they each have different lengths and threads.</cmd>
-        </step>
-        <step>
-          <cmd>Gently lift the body panels off of the typewriter, and set them aside.</cmd>
-        </step>
-        <step>
-          <cmd>Locate the metal segment plate on the underside of the typewriter, directly under the segment. This plate is not screwed in, but held in place by four metal prongs that slide into the feet of the typewriter.</cmd>
-        </step>
-        <step>
-          <cmd>Gently pry the plate outward using a wide, flat-head screwdriver, so the prongs slide out of the slots in one of the feet and the plate falls out.</cmd>
-        </step>
-      </steps>
+    <steps>
+      <step>
+        <cmd>Locate the typewriter body screws.</cmd>
+      </step>
+      <step>
+        <cmd>Unscrew the body screws and set them off to the side, making sure you keep track of which ones go where, as they each have different lengths and threads.</cmd>
+      </step>
+      <step>
+        <cmd>Gently lift the body panels off of the typewriter, and set them aside.</cmd>
+      </step>
+      <step>
+        <cmd>Locate the metal segment plate on the underside of the typewriter, directly under the segment. This plate is not screwed in, but held in place by four metal prongs that slide into the feet of the typewriter.</cmd>
+      </step>
+      <step>
+        <cmd>Gently pry the plate outward using a wide, flat-head screwdriver, so the prongs slide out of the slots in one of the feet and the plate falls out.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>
