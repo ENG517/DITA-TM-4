@@ -4,6 +4,7 @@
   <title>Conducting General Maintenance for the Portable Smith Corona Sterling Manual Typewriter</title>
   <topicgroup collection-type="sequence">
     <topicref type="reference" href="references/r_typewriter_anatomy_definitions"></topicref>
+    <topicref type="reference" href="references/r_typewriter_maintenance_materials.dita"></topicref>
     <topicref type="concept" href="concepts/c_workspace_preparation.dita"></topicref>
     <topicref type="task" href="tasks/t_prepare_area.dita"></topicref>
     <topicref type="task" href="tasks/t_remove_case.dita"></topicref>
@@ -18,7 +19,6 @@
       <topicref type="concept" href="concepts/c_ribbon_issues_post_replacement.dita"></topicref>
     <topicref type="concept" href="concepts/c_materials_required_clean_typewriter.dita"></topicref>
       <topicref type="concept" href="concepts/c_cleaning_material_types.dita"></topicref>
-      <topicref type="reference" href="references/r_typewriter_maintenance_materials.dita"></topicref>
       <topicref type="concept" href="concepts/c_cleaning_warnings.dita"></topicref>
     <topicref type="task" href="tasks/t_dust_typewriter.dita"></topicref>
     <topicref type="task" href="tasks/t_clean_interior.dita"></topicref>

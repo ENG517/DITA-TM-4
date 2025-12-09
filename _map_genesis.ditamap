@@ -13,6 +13,7 @@
     <topicref type="task" href="tasks/t_insert_paper.dita"></topicref>
       <topicref type="concept" href="concepts/c_loading-paper-issues.dita"></topicref>
     <topicref type="concept" href="concepts/c_significance_of_formatting.dita"></topicref>
+      <topicref type="reference" href="references/r_typewriter_common_formatting.dita"></topicref>
     <topicref type="task" href="tasks/t_set_visiblemargins.dita"></topicref>
       <topicref type="concept" href="concepts/c_margin_typing_tips.dita"></topicref>
     <topicref type="task" href="tasks/t_set_linespacing.dita"></topicref>
