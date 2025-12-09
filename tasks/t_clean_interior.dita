@@ -2,8 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_clean_interior">
   <title>Clean the Interior</title>
+  <shortdesc>Cleaning the interior of the typwriter is essential to prevent jamming and keep the mechanical components working smoothly </shortdesc>
   <taskbody>
-    <context>Warning: Avoid getting mineral spirits on any rubber or soft-plastic components of the typewriter, especially the platen, feeder, and paper bail rollers, as it will degrade the rubber over time.</context>
+    <context>
+      <p> Warning: Keep mineral spirits off all rubber and plastic parts of the typewriter such as the platen, feeder, or paper-bail rollers to prevent damage.</p>
+    </context>
         <steps>
         <step>
           <cmd>Lift the ribbon cover into an open position.</cmd>
@@ -12,7 +15,7 @@
           <cmd>Re-package your cleaning solvent into a small bottle with a precision applicator or liquid dropper top.</cmd>
         </step>
         <step>
-          <cmd>Apply your solvent to areas with visible grime and debris, focusing on areas of high movement, such as the type basket and segment, undercarriage, etc.</cmd>
+          <cmd>Apply solvent to any areas of visible grime. Focus on moving components, such as the type basket, segment, and udercarriage</cmd>
         </step>
         <step>
           <cmd>Use a soft-bristled brush, such as a toothbrush, to gently scrub the areas where the mineral spirits have been applied.</cmd>
@@ -31,7 +34,7 @@
         </step>
         <step>
           <cmd>Remove excess mineral spirit and loosened debris using a cotton swab.</cmd>
-          <info>Note: If ink and debris is still not fully removed, use a toothpick or cleaning pick to gently scrape remaining ink and debris off of the type slugs.</info>
+          <info>If ink or debris remains, use a toothpick or cleaning pick to gently scrape the debris off the type slugs.</info>
         </step>
         <step>
           <cmd>Set the typewriter in direct sunlight, or in front of a fan, for a few hours to a couple of days to fully dry.</cmd>

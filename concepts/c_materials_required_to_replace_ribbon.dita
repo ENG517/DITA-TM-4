@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_materials_required_to_replace_ribbon">
+ <title>Materials for Typewriter Ribbon Replacement</title>
+ <shortdesc>
+  There are a few essential and optional materials required to replace your typewriter ribbon and maintain cleanliness.
+ </shortdesc>
+ <conbody>
+  <section>
+   <title>Essential Materials</title>
+   <ul>
+    <li>
+     <b>Typewriter</b> – The mechanical device that uses an inked ribbon to transfer characters onto paper.
+    </li>
+    <li>
+     <b>New ink ribbon</b> – The source of ink used for producing visible text on paper.
+     <note>
+      Most typewriters are compatible with universal ribbons. However, model-specific requirements such as ribbon size, spool diameter, or cassette format may apply, especially for older or electric typewriters.
+     </note>
+    </li>
+   </ul>
+  </section>
+  <section>
+   <title>Optional Materials</title>
+   <ul>
+    <li>
+     <b>Gloves</b> – Protective coverings such as nitrile, latex, or plastic gloves that prevent ink stains during contact with saturated ribbon surfaces.
+    </li>
+    <li>
+     <b>Paper towels or cleaning cloth</b> – Absorbent materials used to remove residual ink from the typewriter interior or surrounding surfaces.
+    </li>
+   </ul>
+  </section>
+ </conbody>
+</concept>

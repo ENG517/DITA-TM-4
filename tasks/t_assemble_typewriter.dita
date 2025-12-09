@@ -2,26 +2,43 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_assemble_typewriter">
   <title>Assemble the Typewriter</title>
+  <shortdesc>
+  You can reassemble your typewriter after conducting maintenance by reattaching all external components. 
+  </shortdesc>
   <taskbody>
-       <steps>
-        <step>
-          <cmd>Line up the metal segment plate with the typewriter feet.</cmd>
-        </step>
-        <step>
-          <cmd>Slide the two prongs on one side of the plate into the two slots on their respective typewriter foot.</cmd>
-        </step>
-        <step>
-          <cmd>Applying gentle pressure in the direction of the inserted prong-slot connection, firmly push down until the prongs on the other side of the plate line up with the slots in the remaining foot, removing pressure from the other side once the prongs are fully inserted into the foot slots.</cmd>
-        </step>
-        <step>
-          <cmd>Line up the panel component screw slots with their corresponding slots on the typewriter frame.</cmd>
-        </step>
-        <step>
-          <cmd>Insert and tighten the panel screws until all panel components are reattached.</cmd>
-        </step>
-        <step>
-          <cmd>If any key caps or knobs were removed in the cleaning process, reattach them now.</cmd>
-        </step>
-       </steps>
+    <steps>
+     <step>
+      <cmd>Line up the metal segment plate with the typewriter feet.</cmd>
+      <stepresult>The segment plate will be evenly placed on both feet.</stepresult>
+     </step>
+    <step>
+     <note type ="tip">The prongs need not be forced. If aligned properly, they should slide in effortlessly</note>
+     <cmd>Slide the two prongs on one side of the plate into the two slots on their respective typewriter foot.</cmd>
+   </step>
+    <step>
+     <cmd>Firmly push down until the prongs on the other side of the plate line up with the slots in the remaining foot.</cmd>
+      <substeps audience ="novice">
+       <substep>
+        <cmd>Apply gentle pressure in the direction of the inserted prong-slot while pushing down</cmd>
+       </substep>
+       <substep>
+        <cmd>Remove pressure from the other side once the prongs are fully inserted into the foot slots.</cmd>
+         </substep>
+      </substeps>
+    </step>
+     <step>
+      <note type = "caution">Small misalignment can cause screws to cross-thread, adjust the panel gently</note>
+      <cmd>Line up the panel component screw slots with their corresponding slots on the typewriter frame.</cmd>
+     </step>
+    <step>
+     <cmd>Insert and tighten the panel screws until all panel components are reattached.</cmd>
+     </step>
+    <step>
+     <cmd>If any key caps or knobs were removed in the cleaning process, reattach them now.</cmd>
+    </step>
+   </steps>
+   <result>
+    Your typewriter should now be fully assembled, with all panels secured and components functioning smoothly.
+    </result>
   </taskbody>
 </task>
