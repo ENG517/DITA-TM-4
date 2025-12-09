@@ -6,17 +6,17 @@
   The most important reason for formatting a manual typewriter is to ensure consistent, legible, and properly aligned text while typing.
   </shortdesc>
   <conbody>
-      <section>
+    <section>
       <title>Key Reasons to Format a Typewriter</title>
       <simpletable keycol="1">
         <sthead>
-         <stentry>Readability</stentry>
+          <stentry>Readability</stentry>
           <stentry>Visual Balance</stentry>
           <stentry>Professional Appearance</stentry>
           <stentry>Mechanical Consistency</stentry>
           <stentry>Efficient Page Use</stentry>
           <stentry>Error Prevention</stentry>
-         </sthead>
+        </sthead>
         <strow>
           <stentry>Consistent margins and spacing create clear, easy-to-read text.</stentry>
           <stentry>Even alignment prevents crowded or uneven lines on the page.</stentry>
@@ -26,6 +26,6 @@
           <stentry>Margin stops and bell indicators guide the typist and maintain structure.</stentry>
         </strow>
       </simpletable>
-      </section>
+    </section>
   </conbody>
 </concept>
