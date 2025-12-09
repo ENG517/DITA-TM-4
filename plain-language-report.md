@@ -1,23 +1,8 @@
-## Plain Language Report
-- The summary report should review the most significant aspects that you edited, revised, and redesigned throughout the model. (See the rubric for criteria.)
-- Provide examples that can either use (1) representative excerpt linked to a particular file in the repo, (2) screenshot images for comparison, and/or (3) links directly to pull requests.
-- At the top of the file, please provide a shareable link to your Google Doc version of your style guide.
+# Plain Language Report
+   A copy of our style guide can be found here: https://docs.google.com/document/d/1-lH8fu-RDxM-tOu6czpX6brQqUP_LS_g-Bt0ldshIdc/edit?tab=t.0#heading=h.t0fjqas8uxxi
 
-### Typography scheme produces appropriate tone, as well as accessible and contrasting headings vs. regular copy font choices:
- - Font Type: headings (serif) vs. regular copy (sans-serif)
- - Font Sizing: well scaled across headings to copy
- - Line Spacing: Uses proximity to establish more perceivable relationships between content chunks.
+## Macro-Level Revisions
 
-### Macro-Level Content Organization:
- - Maps architecture and output produces use well-sequenced procedures.
- - Topic sections follow an appropriate and consistent organizing principle.
+## Plain Language Editing
 
-### Micro-Level: 
- - Written for reuse by removing restrictive references
- - Tasks use thoughtful, active, descriptive verbs in the imperative mood
- - All topics consider word choices carefully in relationship with their target audience.
-    - Terms defined, used consistently throughout the model, and marked up in DITA, when applicable.
-    - Avoid hidden verbs and use active voice.
-    - Avoid lengthy noun strings.
-    - Heading titles and short description writing adhere to prior guidelines (Bellamy et al.)
-    - Examples are germane, support the task, and are consistent throughout
+## Micro-Level Revisions
