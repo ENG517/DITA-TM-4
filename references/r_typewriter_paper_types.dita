@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_typewriter_paper_types">
   <title>Types of Paper You Should and Should Not Use In A Manual Typewriter</title>
-  <shortdesc>Typing paper is paper specifically used to hold ink from a printer or typewriter. Some typing paper is appropriate for typewriter use, while others should be avoided.</shortdesc>
+  <shortdesc>Typing paper is paper specifically used to hold ink from a printer or typewriter. Some typing paper is appropriate for typewriter use, while other typing paper should be avoided.</shortdesc>
   <refbody>
     <!--Papers you SHOULD use-->
     <section>
@@ -18,7 +18,7 @@
         </dlentry>
         <dlentry>
           <dt>Textured Paper</dt>
-          <dd>Papers such as vellum, linen, kraft, and embossed. Typically used for crafting and elaborate stationery. They hold ink well, and are thick enough to not require a backing sheet.</dd>
+          <dd>Papers such as vellum, linen, kraft, and embossed stock are typically used for crafting elaborate stationery. They hold ink well and are thick enough not to require a backing sheet.</dd>
         </dlentry>
         <dlentry>
           <dt>Cotton Paper</dt>
