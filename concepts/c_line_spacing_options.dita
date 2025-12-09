@@ -3,7 +3,7 @@
 <concept id="c_line_spacing_options">
   <title>Typewriter Line Spacing Options</title>
   <shortdesc>
-  The line spacing options in a typewriter determine the platen movement after each line of text.
+  The line spacing options on your typewriter determine the platen movement after each line of text.
   </shortdesc>
   <conbody>
     <section>
@@ -11,25 +11,22 @@
       <ul>
         <li>
           <b>Single spacing</b>: Produces the most compact text layout. 
-          <p>It is often used for drafts, notes, or documents where space efficiency is prioritized. 
-          This spacing provides minimal vertical distance between lines, giving a dense text appearance.</p>
+          <p>Single spacing is often used for drafts, notes, or documents where space efficiency is prioritized. 
+            This spacing provides minimal vertical distance between lines, giving a dense text appearance.</p>
         </li>
         <li>
           <b>Double spacing</b>: Provides balanced spacing between lines, improving legibility and visual clarity. 
-         <p>It is the most common choice for formal documents, academic writing, or any material that may require annotations.</p> 
+          <p>Double spacing is the most common choice for formal documents, academic writing, or any material that may require annotations.</p> 
         </li>
         <li>
           <b>Triple spacing</b>: Creates wide separation between lines. 
-          <p>This setting is typically used for editing, proofreading, or instructional material where additional space is needed for comments or corrections.</p>
+          <p>Triple spacing is typically used for editing, proofreading, or instructional material where additional space is needed for comments or corrections.</p>
         </li>
       </ul>
     </section>
-
     <section>
-      <title>Line Spacing in Smith Corona Manual Typewriters</title>
-      <p>
-      A Smith Corona manual typewriter allows you to adjust line spacing using preset options such as 1, 1.5, or 2.
-      </p>
+      <title>Line Spacing in Manual Typewriters</title>
+      <p>A manual typewriter allows you to adjust line spacing using preset options such as 1, 2, or 3.</p>
     </section>
   </conbody>
 </concept>

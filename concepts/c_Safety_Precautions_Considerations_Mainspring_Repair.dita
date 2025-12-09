@@ -6,16 +6,16 @@
    When performing removal, reattachment, or replacement of the drawband and mainspring, it is important to take certain safety precautions and consider the tension stored in the mainspring.
   </shortdesc>
   <conbody>
-   <ul>
+    <ul>
       <li audience="intermediate">
-        Any repair or replacement involving the drawband or mainspring requires removal of the drawband from the spring barrel before beginning work.
+        Any repair or replacement involving the drawband or mainspring requires removal of the drawband from the mainspring barrel before beginning work.
       </li>
       <li audience="intermediate">
-        Once the degreaser reaches the mainspring and loosens it, the barrel may jump or pop as the internal tension of the spring is released.
+        Once degreaser reaches the mainspring and loosens it, the mainspring barrel may jump or pop as the internal tension of the spring is released.
       </li>
       <li audience="expert">
         Typewriter mainsprings are wound under high tension. Wearing gloves and eye protection is essential to prevent injury from sharp spring edges that can rapidly unwind or pop out during removal.
       </li>
     </ul>
   </conbody>
-</concept>
+</concept> 
