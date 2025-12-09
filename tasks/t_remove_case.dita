@@ -4,19 +4,19 @@
   <title>Remove Typewriter From Case</title>
   <shortdesc>You can remove your typewriter from its case using the case release mechanisms.</shortdesc>
   <taskbody>
-      <steps>
-        <step>
-          <cmd>Place the typewriter case down on a level surface, with the thinner side of the case on the bottom.</cmd>
-        </step>
-        <step>
-          <cmd>Press the double safety lock to open the case.</cmd>
-        </step>
-        <step>
-          <cmd>Push the case release button towards the carriage return to release your typewriter from its case.</cmd>
-        </step>
-        <step>
-          <cmd>Lift the front side of your typewriter 2 to 3 inches. Pull your typewriter towards yourself until it is fully removed from the case.</cmd>
-        </step>
-      </steps>
+    <steps>
+      <step>
+        <cmd>Place the typewriter case down on a level surface, with the thinner side of the case on the bottom.</cmd>
+      </step>
+      <step>
+        <cmd>Press the double safety lock to open the case.</cmd>
+      </step>
+      <step>
+        <cmd>Push the case release button towards the carriage return to release your typewriter from its case.</cmd>
+      </step>
+      <step>
+        <cmd>Lift the front side of your typewriter 2 to 3 inches. Pull your typewriter towards yourself until it is fully removed from the case.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>

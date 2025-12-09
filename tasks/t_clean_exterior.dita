@@ -3,25 +3,25 @@
 <task id="t_clean_exterior">
   <title>Clean the Exterior</title>
   <taskbody>
-       <steps>
-        <step>
-          <cmd>Patch-test cleaners on all panel surfaces by applying a small amount with a cotton swab to the hidden areas of each panel.</cmd>
-        </step>
-        <step>
-          <cmd>Apply the cleaning solution to a lint-free rag, and then rub it onto the typewriter panels in thin, circular motions. Repeat until the panels are as clean as you want</cmd>
-        </step>
-        <step>
-          <cmd>Apply cleaning solution to a cotton swab, and gently clean around any labels, decals, or model/branding names with extra caution to avoid removing the label paint.</cmd>
-        </step>
-        <step>
-          <cmd>Apply cleaning solution to a new cotton swab, and gently clean typewriter keys and knobs, repeating with a fresh cotton swab as needed.</cmd>
-        </step>
-        <step>
-          <cmd>Dampen a lint-free cloth with clean water and wipe down the panels to remove any excess cleaner.</cmd>
-        </step>
-        <step>
-          <cmd>Wipe down the panels with a dry cloth, and set them in direct sunlight, or in front of a fan, for a few hours to a couple of days to fully dry.</cmd>
-        </step>
-      </steps>
+    <steps>
+      <step>
+        <cmd>Patch-test cleaners on all panel surfaces by applying a small amount with a cotton swab to the hidden areas of each panel.</cmd>
+      </step>
+      <step>
+        <cmd>Apply the cleaning solution to a lint-free rag, and then rub it onto the typewriter panels in thin, circular motions. Repeat until the panels are as clean as you want</cmd>
+      </step>
+      <step>
+        <cmd>Apply cleaning solution to a cotton swab, and gently clean around any labels, decals, or model/branding names with extra caution to avoid removing the label paint.</cmd>
+      </step>
+      <step>
+        <cmd>Apply cleaning solution to a new cotton swab, and gently clean typewriter keys and knobs, repeating with a fresh cotton swab as needed.</cmd>
+      </step>
+      <step>
+        <cmd>Dampen a lint-free cloth with clean water and wipe down the panels to remove any excess cleaner.</cmd>
+      </step>
+      <step>
+        <cmd>Wipe down the panels with a dry cloth, and set them in direct sunlight, or in front of a fan, for a few hours to a couple of days to fully dry.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>
