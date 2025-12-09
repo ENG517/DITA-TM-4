@@ -2,42 +2,42 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_replace_platen">
   <title>Replace The Platen Roller</title>
-  <shortdesc>After identifying the need for a full replacement, and after removing the platen roller from the typewriter, follow the next steps.</shortdesc>
+  <shortdesc>You can replace your typewriter platen by removing all platen shaft mechanisms and accessories, and attaching them to a new platen roller</shortdesc>
   <taskbody>
-       <steps>
-        <step>
-          <cmd>Remove the screw that is connecting the right-hand platen knob to the roller.</cmd>
-        </step>
-        <step>
-          <cmd>Slide the platen knob, shaft mechanisms, and washers off the metal platen roller shaft.</cmd>
-        </step>
-        <step>
-          <cmd>Locate the variable mechanism spring on the left hand side of the platen roller.</cmd>
-        </step>
-        <step>
-          <cmd>Using a hook tool, slide the variable mechanism spring prongs out of the slots in the platen roller.</cmd>
-        </step>
-        <step>
-          <cmd>Using the same hook tool, gently slide the spring up and over the collar at the end of the platen roller shaft.</cmd>
-        </step>
-        <step>
-          <cmd>Unwrap your new platen roller.</cmd>
-        </step>
-        <step>
-          <cmd>Take the variable mechanism spring from the old platen roller, and insert each prong into their respective slots on the new platen roller.</cmd>
-        </step>
-        <step>
-          <cmd>Using a hook tool, gently slide the springs over the platen shaft collar and into place.</cmd>
-        </step>
-        <step>
-          <cmd>Slide the washer, shaft mechanisms, and platen knob onto the other end of the platen roller shaft.</cmd>
-        </step>
-        <step>
-          <cmd>Attach and install the screw from the old platen roller that connects the right-hand platen knob to the platen roller shaft.</cmd>
-        </step>
-        <step>
-          <cmd>Insert the newly refinished platen roller into the typewriter using the section below, titled "Insert the Platen Roller."</cmd>
-        </step>
-       </steps>
+    <steps>
+      <step>
+        <cmd>Remove the screw that connects the right-hand platen knob to your platen roller.</cmd>
+      </step>
+      <step>
+        <cmd>Remove the platen knob, shaft mechanisms, and washers from your platen shaft.</cmd>
+      </step>
+      <step>
+        <cmd>Locate the variable mechanism spring on the left hand side of your platen roller.</cmd>
+      </step>
+      <step>
+        <cmd>Use a hook tool to slide the variable mechanism spring prongs out of the slots in your platen roller.</cmd>
+      </step>
+      <step>
+        <cmd>Use a hook tool to slide the variable mechanism spring up and over the platen shaft collar.</cmd>
+      </step>
+      <step>
+        <cmd>Unwrap your new platen roller.</cmd>
+      </step>
+      <step>
+        <cmd>Insert each prong on the variable mechanism spring into the prong slots on your new platen roller.</cmd>
+      </step>
+      <step>
+        <cmd>Use a hook tool to slide the variable mechanism spring over the platen shaft collar and into place.</cmd>
+      </step>
+      <step>
+        <cmd>Slide the washer, shaft mechanisms, and platen knob onto the end of the platen shaft.</cmd>
+      </step>
+      <step>
+        <cmd>Attach and install the screw that connects the right-hand platen knob to the platen shaft.</cmd>
+      </step>
+      <step>
+        <cmd>Follow the steps in the section titled "Insert the Platen Roller" to insert the newly refinished platen roller into your typewriter.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>

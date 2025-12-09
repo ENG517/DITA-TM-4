@@ -2,37 +2,32 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_case_considerations">
   <title>Smith-Corona Typewriter Cases and Care Considerations</title>
-  <shortdesc>
-  Portable Smith-Corona typewriters are typically stored in protective cases designed to prevent staining and wear, with specific care needs depending on the case material.
-  </shortdesc>
+  <shortdesc>Protective storage cases for Smith-Corona typewriters have specific care needs that should be considered.</shortdesc>
   <conbody>
   <section>
-      <title>Smith-Corona Holiday Case</title>
-      <p>
-        Portable Smith-Corona machines are commonly stored in a case known as the “Holiday Case.” 
-        This case is slightly larger than standard typewriter carriers and can be disassembled. 
-        Like Smith-Corona typewriter panels, Holiday Cases are made of a non-porous material that resists staining, 
-        allowing most marks to be removed with mild soap and water.
-      </p>
-    </section>
-
-    <section>
-      <title>Alternate Case Styles</title>
-      <p>
-        Some machines were sold in different styles of cases. 
-        The care process for these cases varies based on their materials and construction.
-      </p>
-      <p>
-        Cases made of other materials may have hinges that need to be unscrewed for removal rather than unhooked. 
-        The cleaning solution required may also differ depending on the case’s material.
-      </p>
-    </section>
-    
-   <section>
-     <note>
-      For leather, cloth, or carpet-style cases, the cleaning solution should be selected carefully. 
-      Research and patch test all detergents and cleaners before use to prevent damage or discoloration.
+    <title>Smith-Corona Holiday Case</title>
+    <p>
+      Portable Smith-Corona machines are commonly stored in a case known as the “Holiday Case.” 
+      The Holiday Case is slightly larger than standard typewriter carriers, and can be disassembled. 
+      Holiday Cases are made of a non-porous material that resists staining, allowing most marks to be removed with mild soap and water.
+    </p>
+  </section>
+  <section>
+    <title>Alternate Case Styles</title>
+    <p>
+      Some typewriters may be found in different styles of cases. 
+      The care process for alternate typewriter cases varies based on the case's materials and construction.
+    </p>
+    <p>
+      Alternate typewriter cases may have hinges that need to be unscrewed for removal. 
+      The typewriter case's material will determine the best cleaning solution to use.
+    </p>
+  </section>
+  <section>
+    <note type="attention">
+      Typewriter cases made of leather, cloth, or carpet may require careful selection of cleaning detergents.
+      Research and patch test all detergents and cleaners before you apply them to your typewriter to prevent damage or discoloration.
     </note>
-   </section>
+  </section>
   </conbody>
 </concept>

@@ -2,9 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_typewriter_maintenance_materials">
   <title>Typewriter Maintenance Materials</title>
-  <shortdesc>
-    Using the proper materials to maintain a typewriter is essential to preserve its functionality and prevent damage to fragile mechanical components.
-  </shortdesc>
+  <shortdesc>Typewriter maintenance materials include tools and cleaning agents that are used to clean and repair a typewriter. Using the proper materials is essential to preserve functionality and prevent damage to a typewriter.</shortdesc>
   <refbody>
     <!--Regular Cleaning-->
     <section>
@@ -29,7 +27,7 @@
                 <p>Cleaning Picks</p>
               </entry>
               <entry>
-                <p>Used to scrape ink or stuck-on residue from non-delicate typewriter components, such as the type slugs. Toothpicks can be used as an alternative.</p>
+                <p>For scraping stuck-on residue off non-delicate typewriter components.</p>
               </entry>
             </row>
             <row>
@@ -37,7 +35,7 @@
                 <p>Cotton Swabs</p>
               </entry>
               <entry>
-                <p>Used to apply mineral spirits and clean hard-to-reach typewriter components.</p>
+                <p>For applying mineral spirits and cleaning hard-to-reach mechanisms.</p>
               </entry>
             </row>
             <row>
@@ -45,7 +43,7 @@
                 <p>Mineral Spirits</p>
               </entry>
               <entry>
-                <p>Used to dissolve grease and hardened oils from internal mechanisms.</p>
+                <p>For dissolving grease and hardened oils from internal mechanisms.</p>
               </entry>
             </row>
             <row>
@@ -53,7 +51,7 @@
                 <p>Soft-Bristle Brush</p>
               </entry>
               <entry>
-                <p>Used to remove loose dust, dirt, and lint from exterior surfaces and type keys.</p>
+                <p>For removing loose debris from the typewriter surface.</p>
               </entry>
             </row>
             <row>
@@ -61,7 +59,7 @@
                 <p>Stiff-Bristle Brush</p>
               </entry>
               <entry>
-                <p>Used to gently scrub ink and buildup from type slugs.</p>
+                <p>For removing stuck-on buildup from metal components.</p>
               </entry>
             </row>
             <row>
@@ -69,7 +67,7 @@
                 <p>Compressed Air</p>
               </entry>
               <entry>
-                <p>Used to remove dust and dirt from intricate and delicate mechanical components.</p>
+                <p>For removing debris from intricate mechanical components.</p>
               </entry>
             </row>
             <row>
@@ -77,7 +75,7 @@
                 <p>Microfiber Rags</p>
               </entry>
               <entry>
-                <p>Used to wipe down exterior surfaces without leaving lint in greased/waxed components.</p>
+                <p>For cleaning typewriter surfaces without leaving lint residue.</p>
               </entry>
             </row>
             <row>
@@ -85,7 +83,7 @@
                 <p>Rubbing Alcohol</p>
               </entry>
               <entry>
-                <p>Used to clean ink buildup from metal key levers and type slugs.</p>
+                <p>For cleaning ink buildup off metal levers and type slugs.</p>
               </entry>
             </row>
             <row>
@@ -93,7 +91,7 @@
                 <p>Mild Soap</p>
               </entry>
               <entry>
-                <p>Used to gently clean typewriter exterior and casing.</p>
+                <p>For gentle cleansing typewriter exterior and casing.</p>
               </entry>
             </row>
             <row>
@@ -101,7 +99,7 @@
                 <p>Nitrile Gloves</p>
               </entry>
               <entry>
-                <p>Used to protect skin from harsh mineral spirits, rubbing alcohol, ink, and lubricants.</p>
+                <p>For protection of skin from ink, lubricants, and harsh solvents.</p>
               </entry>
             </row>
             <row>
@@ -109,7 +107,7 @@
                 <p>Nozzle Head Bottle</p>
               </entry>
               <entry>
-                <p>Used to precisely apply cleaning solvents to hard-to-reach typewriter components.</p>
+                <p>For precise application of cleaning solvents to hard-to-reach areas.</p>
               </entry>
             </row>
             <row>
@@ -117,7 +115,7 @@
                 <p>Plastic Sheeting</p>
               </entry>
               <entry>
-                <p>Used to protect work surfaces from harsh cleaning chemicals, such as mineral spirits or lacquer thinner. Paper towels or microfiber towels can be layered as an alternative.</p>
+                <p>For protection of work surfaces from harsh cleaning chemicals. Paper towels or microfiber towels are an alternative.</p>
               </entry>
             </row>
             <row>
@@ -125,7 +123,7 @@
                 <p>Spray Bottle</p>
               </entry>
               <entry>
-                <p>Used to evenly distribute cleaning solvents to metal typewriter components, such as the segment.</p>
+                <p>For evenly distributing solvents to typewriter components.</p>
               </entry>
             </row>
             <row>
@@ -133,7 +131,7 @@
                 <p>Sunlight</p>
               </entry>
               <entry>
-                <p>Used to aid in the drying of typewriter components and casing. Alternatively, a fan can be used.</p>
+                <p>For drying of typewriter components and casing. Alternatively, a fan can be used.</p>
               </entry>
             </row>
             <row>
@@ -141,7 +139,7 @@
                 <p>Well-Ventilated Work Space</p>
               </entry>
               <entry>
-                <p>Necessary when using harsh solvents or waxes that could cause respiratory distress.</p>
+                <p>For using harsh solvents or waxes that could cause respiratory distress.</p>
               </entry>
             </row>
           </tbody>
@@ -172,15 +170,16 @@
                 <p>Lightweight Oil</p>
               </entry>
               <entry>
-                <p>Apply to moving components that would otherwise be damaged by lubricants that can harden or congeal over time. Sewing machine oil, gun oil, or a specialized typewriter oil is preferred.</p>
+                <note type="important">Sewing machine oil, gun oil, or a specialized typewriter oil is preferred.</note>
+                <p>For lubrication of moving components that would be damaged by heavy lubricants that harden over time.</p>
               </entry>
             </row>
             <row>
               <entry>
-                <p>Pipette</p>
+                <p>Pipette/Medicine Dropper</p>
               </entry>
               <entry>
-                <p>Used to precisely apply oil to pivot points and hard-to-reach grooves while avoiding areas that could be damaged or dirtied by excessive oil. Alternatively, a medicine dropper can be used.</p>
+                <p>For precise application of oil to pivot points and hard-to-reach grooves.</p>
               </entry>
             </row>
             <row>
@@ -188,7 +187,8 @@
                 <p>Penetrating Lubricant</p>
               </entry>
               <entry>
-                <p>To help loosen and free stuck mechanical components. Excess oil should always be removed.</p>
+                <note type="important">Excess oil should always be removed.</note>
+                <p>For loosening stuck mechanical components.</p>
               </entry>
             </row>
           </tbody>
@@ -219,7 +219,7 @@
                 <p>Dust Cover or Case</p>
               </entry>
               <entry>
-                <p>Protect typewriter from long-term dust and dirt buildup.</p>
+                <p>For protection of a typewriter from dust and dirt buildup.</p>
               </entry>
             </row>
             <row>
@@ -227,7 +227,7 @@
                 <p>Polishing Wax</p>
               </entry>
               <entry>
-                <p>Protect exterior paint finish and prevent rusting of metal components.</p>
+                <p>For protection of the exterior paint finish, and rust prevention.</p>
               </entry>
             </row>
             <row>
@@ -235,7 +235,7 @@
                 <p>Moisture Absorbers</p>
               </entry>
               <entry>
-                <p>Used when typewriter is in long-term storage to prevent excessive moisture buildup and rusting of mechanical components.</p>
+                <p>For prevention of excess moisture buildup and rusting in long-term typewriter storage</p>
               </entry>
             </row>
             <row>
@@ -243,7 +243,7 @@
                 <p>Backing Sheet</p>
               </entry>
               <entry>
-                <p>Using an appropriately thick sheet behind typing paper absorbs impact from type slugs and protects the platen from long term wear and tear.</p>
+                <p>For absorbing impact from type slugs and protecting the platen from wear and tear.</p>
               </entry>
             </row>
           </tbody>
@@ -274,7 +274,7 @@
                 <p>Allen Wrench</p>
               </entry>
               <entry>
-                <p>Also known as a hex wrench, used to disassemble the mainspring housing. Size required will vary based on past typewriter repairs or replacement components.</p>
+                <p>For disassembling the mainspring housing. Also known as a hex wrench.</p>
               </entry>
             </row>
             <row>
@@ -282,7 +282,7 @@
                 <p>Eye Protection</p>
               </entry>
               <entry>
-                <p>Thick work glasses, such as construction glasses, are necessary when handling springs as they can pop out and cut skin/eyes without warning.</p>
+                <p>For handling high-tensioned springs..</p>
               </entry>
             </row>
             <row>
@@ -290,7 +290,7 @@
                 <p>Fine Grit Sandpaper</p>
               </entry>
               <entry>
-                <p>Used to repair typewriter rollers that need increased grip or thick debris removal. 400-600 grit is preferred.</p>
+                <p>For repairing typewriter rollers that need increased grip or thick debris removal. 400-600 grit is preferred.</p>
               </entry>
             </row>
             <row>
@@ -298,7 +298,7 @@
                 <p>Heat gun</p>
               </entry>
               <entry>
-                <p>Used to adhere new plastic tubing to an existing, damaged platen roller for quick repair.</p>
+                <p>For adhering new plastic tubing to an existing platen roller for refinishing.</p>
               </entry>
             </row>
             <row>
@@ -306,7 +306,7 @@
                 <p>Heat Shrink Tubing</p>
               </entry>
               <entry>
-                <p>Used to cover an existing platen roller that needs a new rubber surface.</p>
+                <p>For refinishing a damaged platen roller.</p>
               </entry>
             </row>
             <row>
@@ -314,7 +314,7 @@
                 <p>Hydrogen Peroxide</p>
               </entry>
               <entry>
-                <p>Used to remove long-term staining, such as tobacco tar staining, on high-touch typewriter components. 3% is preferred.</p>
+                <p>For removing deep staining on high-touch typewriter components. 3% is preferred.</p>
               </entry>
             </row>
             <row>
@@ -322,7 +322,7 @@
                 <p>Ink Ribbons</p>
               </entry>
               <entry>
-                <p>A fresh ink ribbon will be required for replacement when print quality becomes deteriorated.</p>
+                <p>For replacement of dried/old ink ribbons.</p>
               </entry>
             </row>
             <row>
@@ -330,7 +330,7 @@
                 <p>Lacquer Thinner</p>
               </entry>
               <entry>
-                <p>Strong solvent used to clean rubber rollers quickly. Ideal due to its ability to quickly dissolve oil and debris, while drying quickly and leaving no residue on rubber components.</p>
+                <p>For surface cleaning of rubber rollers.</p>
               </entry>
             </row>
             <row>
@@ -338,7 +338,7 @@
                 <p>Long Hook Tool</p>
               </entry>
               <entry>
-                <p>Used to grab onto broken or loosened drawbands through the typewriter carriage.</p>
+                <p>For handling a broken or loose drawband through the typewriter carriage.</p>
               </entry>
             </row>
             <row>
@@ -346,7 +346,7 @@
                 <p>Mainspring</p>
               </entry>
               <entry>
-                <p>Used in replacement or repair of a damaged or broken mainspring.</p>
+                <p>For replacement of a damaged mainspring.</p>
               </entry>
             </row>
             <row>
@@ -354,7 +354,7 @@
                 <p>Misc. Springs</p>
               </entry>
               <entry>
-                <p>Various typewriter mechanics rely on springs to function and need to be replaced if they become worn or damaged.</p>
+                <p>For the replacement of worn or damaged springs.</p>
               </entry>
             </row>
             <row>
@@ -362,7 +362,7 @@
                 <p>Needle Nose Pliers</p>
               </entry>
               <entry>
-                <p>Required to reach and handle small or dangerous components, such as the drawband hooks or mainspring.</p>
+                <p>For handling small or dangerous components, such as the drawband hooks and mainspring.</p>
               </entry>
             </row>
             <row>
@@ -370,7 +370,7 @@
                 <p>Rollers</p>
               </entry>
               <entry>
-                <p>If platen or feeder rollers harden or become cracked, they cannot be repaired and must be replaced.</p>
+                <p>For the replacement of unrepairable platen or feed rollers.</p>
               </entry>
             </row>
             <row>
@@ -378,7 +378,7 @@
                 <p>Screw Driver Set</p>
               </entry>
               <entry>
-                <p>The disassembly and reassembly process will require many phillips and flat head screwdrivers of various sizes.</p>
+                <p>For the disassembly and reassembly of typewriter components containing screws.</p>
               </entry>
             </row>
             <row>
@@ -386,7 +386,7 @@
                 <p>Work Gloves</p>
               </entry>
               <entry>
-                <p>Some components of a typewriter, particularly the mainspring, are dangerous and can easily cut skin.</p>
+                <p>For handling dangerous mechanisms and springs.</p>
               </entry>
             </row>
           </tbody>

@@ -2,29 +2,31 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_clean_platen">
   <title>Clean The Platen Roller</title>
-  <shortdesc>
-    The first step in repairing a platen roller is to clean it. This will allow you to see any tears, cracks, or severe indents on the roller that may indicate further repairs are needed.
-  </shortdesc>
+  <shortdesc>You can apply lacquer thinner using a lint free cloth to clean the typewriter platen until debris is fully removed.</shortdesc>
   <taskbody>
-       <steps>
-        <step>
-          <cmd>Activate the paper release lever so that the feed rollers and paper bail rollers are not touching the platen roller.</cmd>
-        </step>
-        <step>
-          <cmd>Apply a light layer of your lacquer thinner to a lint free cloth.</cmd>
-        </step>
-        <step>
-          <cmd>Rub the platen with the cloth along the cylinder, cleaning the entire surface of the roller.</cmd>
-        </step>
-        <step>
-          <cmd>Once the thinner has dried down, clean it once more with a clean lint free cloth and fresh lacquer thinner.</cmd>
-        </step>
-        <step>
-          <cmd>Repeat steps 2 and 3 until little to no residue is coming off on the cloth.</cmd>
-        </step>
-        <step>
-          <cmd>If you notice your feed rollers or paper bail rollers are a bit dirty, clean them with a new cloth and fresh lacquer thinner.</cmd>
-        </step>
-       </steps>
+    <steps>
+      <step>
+        <note type="note">The paper release lever must be activated so that the feed and paper bail rollers are not touching the platen.</note>
+        <cmd>Activate the paper release lever.</cmd>
+      </step>
+      <step>
+        <cmd>Apply a light layer of lacquer thinner to a clean, lint free cloth.</cmd>
+      </step>
+      <step>
+        <cmd>Rub the platen with the cloth along the entire surface of the roller.</cmd>
+      </step>
+      <step>
+        <cmd>Allow the lacquer thinner on the platen to dry down.</cmd>
+      </step>
+      <step>
+        <cmd>Repeat steps 1 through 3 until little to no residue can be seen on the cloth.</cmd>
+      </step>
+      <step>
+        <cmd>If you notice your feed rollers or paper bail rollers are dirty, clean them using steps 1 through 3.</cmd>
+      </step>
+      <step>
+        <cmd>Deactivate the paper release lever.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>

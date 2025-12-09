@@ -2,103 +2,97 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_typewriter_anatomy_definitions">
   <title>Typewriter Anatomy Definitions</title>
-  <shortdesc>
-    Typewriters contain a multitude of mechanical components. It is important for typewriter users to be familiar with these components to effectively and efficiently use their typewriters.
-  </shortdesc>
+  <shortdesc>Typewriter anatomy includes the internal and external mechanisms and accessories that work together to make a functioning typewriter.</shortdesc>
   <refbody>
     <!--External Components-->
     <section>
       <title>External Components</title>
       <dl>
-        <dlentry audience="expert">
+        <dlentry>
           <dt>Body Panels</dt>
-          <dd>The casing or outer shell of a typewriter that protects the internal mechanisms.</dd>
+          <dd>The outer shell of a typewriter which protects the internal mechanisms.</dd>
         </dlentry>
-        <dlentry audience="expert">
+        <dlentry>
           <dt>Body Screws</dt>
-          <dd>Any screw that connects the body panels to the interior typewriter machinery.</dd>
+          <dd>Screws connecting the body panels to the interior typewriter machinery.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Carriage</dt>
-          <dd>A large mechanical component that holds the platen and feed rollers, and moves horizontally across the machine as you type.</dd>
+          <dd>The large mechanical shaft that holds the platen and feed rollers, moving horizontally across the machine as you type.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Carriage Centering Lever</dt>
-          <dd>A small lever located on the right hand side of the typewriter, often directly next to the right platen knob, that automatically centers the carriage.</dd>
+          <dd>A small lever on the right-hand side of the typewriter, next to the right-hand platen knob, that centers the carriage when activated.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Carriage Return Lever</dt>
-          <dd>A large lever, often located on the left side of the carriage, that moves the carriage back to the right margin and advances the paper to the next line.</dd>
+          <dd>A large lever located on the left-hand side of the carriage that moves the carriage to the left-hand margin and advances your typing paper to the next line.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Feed Roller</dt>
-          <dd>A smaller, rubber-covered roller that works in conjunction with the platen to grip and guide paper.</dd>
+          <dd>A small, rubber roller that works in conjunction with the platen to grip and guide your typing paper.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Line Spacing Lever</dt>
-          <dd>A lever that controls the vertical distance, or spacing, between lines of text. This can sometimes be the same lever as the carriage return.</dd>
+          <dd>A lever located on the left-hand side of the carriage that sets the vertical distance between lines of text.</dd>
         </dlentry>
-        <dlentry audience="novice">
-          <dt>Magic Margin Buttons</dt>
-          <dd>Buttons on newer typewriter models that allow the user to set margins by moving the carriage and pressing the buttons.</dd>
-        </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Manual Ribbon Reverse</dt>
-          <dd>A lever or switch that allows the user to manually change the winding direction of the ink ribbon between its spools. </dd>
+          <dd>A lever that allows you to manually change the winding direction of the ink ribbon between. </dd>
         </dlentry>
-        <dlentry audience="novice">
-          <dt>Margin Release</dt>
-          <dd>A key or lever that allows the user to temporarily type past preset margin stops.</dd>
+        <dlentry>
+          <dt>Margin Release Key</dt>
+          <dd>A key that allows the user to temporarily type past preset margin stops. Often denoted as "MAR-REL."</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Margin Stops</dt>
-          <dd>A small metal or plastic tab that is used to set margins. These tabs act as stoppers and prevent the carriage from moving beyond a set margin on the left and right sides of the page.</dd>
+          <dd>Small tabs on the carriage used to set margins. The tabs act as stoppers and prevent the carriage from moving beyond a set margin space.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Paper Bail</dt>
-          <dd>A metal bar that flips down to hold paper against the platen.</dd>
+          <dd>A metal bar that holds typing paper against the platen.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Paper Bail Rollers</dt>
           <dd>Small rubber rollers on the paper bail that press the paper against the platen roller.</dd>
         </dlentry>
         <dlentry>
           <dt>Paper Fingers</dt>
-          <dd>An adjustable clamp that holds paper against the platen roller to maintain alignment and prevent it from slipping, used in conjunction with the paper bail.</dd>
+          <dd>An adjustable clamp that holds paper against the platen roller, used in conjunction with a paper bail.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Paper Release Lever</dt>
-          <dd>A small lever that releases the presser on the paper from the feed rollers, allowing the user to remove or readjust the paper.</dd>
+          <dd>A lever that, when activated, releases pressure from the feed rollers, allowing the typing paper to be removed.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Paper Support</dt>
-          <dd>A piece of metal or plastic that lightly holds paper perpendicular against the platen during paper feeding to guide the paper into the machine.</dd>
+          <dd>A flat surface being the platen that holds paper perpendicular against the platen.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Platen Detent Arm</dt>
-          <dd>A small metal arm shaft that sticks out from the center of the left hand platen knob that connects to a metal shaft which holds the platen in place.</dd>
+          <dd>A small shaft protruding from the left-hand platen knob, connecting to a metal shaft that holds the platen.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Platen Knob</dt>
-          <dd>A small handle located at the end of the platen used to rotate the platen roller.</dd>
+          <dd>A circular handle at each end of the platen which rotates the platen.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Platen Release Lever</dt>
-          <dd>A small lever on the right hand side of the typewriter that releases the platen from its slot in the typewriter when pressed.</dd>
+          <dd>A lever on the right-hand side of the typewriter, unlocking the platen from the typewriter when pressed.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Platen Roller</dt>
-          <dd>A large, rubber-covered roller that works in conjunction with feed rollers to grip and guide paper.</dd>
+          <dd>A rubber roller in front of the carriage, holding and guiding paper as you type.</dd>
         </dlentry>
         <dlentry>
           <dt>Ribbon Color Selector</dt>
-          <dd>A lever or switch that shifts the ribbon to type a different color.</dd>
+          <dd>A lever that shifts the ribbon up and down, allowing ink transfer of a different color.</dd>
         </dlentry>
         <dlentry>
           <dt>Ribbon Cover</dt>
-          <dd>A metal lid that protects the internal ribbon mechanisms, often hinged or connected via prongs and grommets.</dd>
+          <dd>The metal lid protecting the internal ribbon mechanisms, often hinged or connected via prongs and grommets.</dd>
         </dlentry>
-        <dlentry audience="expert">
+        <dlentry>
           <dt>Segment Plate</dt>
           <dd>A thin metal plate, located on the typewriter undercarriage directly under the segment.</dd>
         </dlentry>
@@ -108,7 +102,7 @@
         </dlentry>
         <dlentry>
           <dt>Typewriter Feet</dt>
-          <dd>Small rubber pads on the bottom of a typewriter, used to prevent sliding and absorb vibrations from typing.</dd>
+          <dd>The small rubber pads on the bottom of a typewriter, preventing sliding and absorbing vibrations.</dd>
         </dlentry>
         <dlentry>
           <dt>Undercarriage</dt>
@@ -121,89 +115,85 @@
     <section>
       <title>Internal Components</title>
       <dl>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Auto Reversing Brackets</dt>
-          <dd>A forked or pronged lever that uses grommets or eyelets to automatically change the ribbon winding direction without manual intervention.</dd>
+          <dd>A pronged lever that automatically changes the ribbon winding direction during typing.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Carriage Rails</dt>
-          <dd>A linear guide mechanism that contains a metal rail and tracks that slide the carriage back and forth along the horizontal plane of the rail.</dd>
+          <dd>A linear guide mechanism that slides the carriage along the horizontal plane of the rail.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Drawband</dt>
-          <dd>A string or cord that connects the carriage to the mainspring drum.</dd>
+          <dd>A string connecting the carriage to the mainspring drum.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Grommets</dt>
-          <dd>Small metal or plastic rings that cover and protect holes in the typewriter frame at points of connection between structural components.</dd>
+          <dd>Small rings that cover holes in the typewriter frame where structural components connect.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Keylever</dt>
-          <dd>The metal arm that connects Type Keys to the Type Bar/Hammer.</dd>
+          <dd>A metal arm connecting Type Keys to a Type Bar/Hammer.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Mainspring</dt>
-          <dd>A tightly coiled spring that maintains tension to move the carriage while typing and powers the carriage return.</dd>
+          <dd>A tightly coiled spring, maintaining tension to move the carriage as needed.</dd>
         </dlentry>
-        <dlentry audience="expert">
+        <dlentry>
           <dt>Platen Shaft Collar</dt>
-          <dd>A small, metal, ring-like component located at the end of the platen shaft/rod.</dd>
+          <dd>A ring-like mechanism at the end of the platen shaft/rod.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Ribbon Carrier/Vibrator</dt>
-          <dd>A metal component located at the center of a typewriter that guides and supports the ink ribbon as it passes from one spool to the other. It holds the ribbon in position for the type slugs to strike it and transfer ink to paper.</dd>
+          <dd>A mechanism holding the ribbon guides and lifting the ribbon to meet the type bar when a key is struck, transferring ink onto the typing paper.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Ribbon Guides</dt>
-          <dd>Small metal slots located on the Ribbon Carrier to hold and straighten the ribbon in place.</dd>
+          <dd>Small slots that hold and straighten the ribbon.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Ribbon Pin Slot</dt>
-          <dd>A small opening or groove on the Ribbon Spool that fits over the Spool Pin.</dd>
+          <dd>A small opening on the Ribbon Spool that sits over the Spool Pin.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Ribbon Spool</dt>
-          <dd>A cylindrical reel that contains inked ribbon.</dd>
+          <dd>A cylindrical reel containing inked ribbon.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Segment</dt>
-          <dd>An arched, comb-like metal component that guides the typebars to ensure proper typing alignment. Also known as a type basket.</dd>
+          <dd>A comb-like mechanism that guides the typebars to ensure proper character alignment. Also known as the type basket.</dd>
         </dlentry>
         <dlentry>
           <dt>Spring Barrel</dt>
-          <dd>Metal cylinder that holds the mainspring, also known as the Spring Drum.</dd>
+          <dd>Metal cylinder that contains the mainspring, also known as the Spring Drum.</dd>
         </dlentry>
         <dlentry>
           <dt>Spring Housing</dt>
-          <dd>The group of gears, barrels/drums, and other mechanics that hold the mainspring to the typewriter.</dd>
+          <dd>The group of gears, barrels/drums, and other mechanics that hold the mainspring in the typewriter.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
-          <dt>Spring-Loaded Ribbon Arm</dt>
-          <dd>Metal or plastic arm that holds and directs the ink ribbon between the ribbon spool and ribbon guide.</dd>
-        </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Spool Pin</dt>
-          <dd>A small metal or plastic pin that secures and aligns the ribbon spool to the ribbon shaft.</dd>
+          <dd>A small pin that aligns the ribbon spool with the ribbon shaft.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Spool Shaft</dt>
           <dd>A small rod that holds and rotates the ribbon spool.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Type Bar/Hammer</dt>
-          <dd>A thin, metal bar that holds type characters at its end and strikes the ink ribbon to print the characters.</dd>
+          <dd>A thin, metal bar that holds type slugs at its end and strikes the ink ribbon to print text.</dd>
         </dlentry>
-        <dlentry audience="intermediate">
+        <dlentry>
           <dt>Type Bar Linkage</dt>
-          <dd>Small mechanical connection between Keylever and Type Bar.</dd>
+          <dd>Mechanical connection between the Keylever and Type Bar.</dd>
         </dlentry>
-        <dlentry audience="novice">
+        <dlentry>
           <dt>Type Slugs</dt>
-          <dd>Individual metal characters located at the end of a Type Bar.</dd>
+          <dd>Metal characters located at the end of a Type Bar.</dd>
         </dlentry>
-        <dlentry audience="expert">
+        <dlentry>
           <dt>Variable Mechanism Spring</dt>
-          <dd>A small spring, wrapped into a circle and with a prong on either end of the circle, that sits between the platen roller and platen shaft collar that allows for manual spacing adjustment.</dd>
+          <dd>A small spring, wrapped into a circle, that sits between the platen roller and platen shaft collar, allowing manual spacing adjustment.</dd>
         </dlentry>
       </dl>
     </section>

@@ -3,40 +3,39 @@
 <concept id="c_cleaning_materials_types">
   <title>Cleaning Materials for Typewriters</title>
   <shortdesc>
-  Various cleaning materials are used to maintain and restore typewriters, each suited for specific cleaning tasks. it is essential to know which one is right for your typeweiter model.
+  Various cleaning materials are used to maintain and restore typewriters. It is essential to know what materials are best for your typewriter.
   </shortdesc>
   <conbody>
   <section>
       <title>Recommended Cleaning Materials</title>
       <p>
-        Safe cleaning materials remove dust, ink, and residue without corroding metal or degrading rubber and paint surfaces. 
-        Commonly recommended materials include:
+        Safe cleaning materials remove dust, ink, and residue, without damaging typewriter components. 
+        Recommended cleaning materials include:
       </p>
       <ul>
-        <li>Mild soap and water or diluted all-purpose cleaners</li>
-        <li>Mineral spirits, gentle degreasers, or rubbing alcohol for removing oil and grime</li>
-        <li>Compressed air with thin nozzle attachments for dislodging debris from tight spaces</li>
-        <li>Soft-bristle brushes, such as car detailing brushes or toothbrushes</li>
-        <li>Lint-free cloths, microfiber towels, and cotton swabs for surface cleaning</li>
-        <li>Light-weight oils such as sewing machine oil or typewriter-specific lubricants</li>
+        <li>Mild soap and water, or diluted all-purpose cleaners.</li>
+        <li>Mineral spirits, gentle degreasers, or rubbing alcohol for removing oil and grime.</li>
+        <li>Compressed air with thin nozzle attachments for dislodging debris from tight spaces.</li>
+        <li>Soft-bristle brushes, such as car detailing brushes or toothbrushes.</li>
+        <li>Lint-free cloths, microfiber towels, and cotton swabs for surface cleaning.</li>
+        <li>Light-weight oils such as sewing machine oil or typewriter-specific lubricants.</li>
       </ul>
     </section>
     <section>
       <title>Materials to Avoid</title>
       <p>
-        Certain substances can damage internal mechanisms, paint, or rubber components. 
-        Avoid the following materials when cleaning a typewriter:
+        Avoid the following cleaning materials as they can damage internal mechanisms, paint, and rubber components.
       </p>
       <ul>
-        <li>Acetone, nail polish remover, or other strong solvents that can dissolve paint and plastics</li>
-        <li>Bleach, ammonia, or other corrosive household cleaners</li>
-        <li>Abrasive pads, steel wool, or coarse sandpaper that can scratch metal surfaces</li>
-        <li>WD-40 or similar penetrating oils that leave residue and attract dust</li>
-        <li>High-pressure air compressors without a regulator, which can dislodge delicate parts</li>
+        <li>Acetone, nail polish remover, and other strong solvents that dissolve paint and plastics.</li>
+        <li>Bleach, ammonia, and other corrosive cleaners.</li>
+        <li>Abrasive pads, steel wool, and coarse sandpaper that can scratch surfaces.</li>
+        <li>WD-40, and other heavy oils that leave residue and attract dust.</li>
+        <li>High-pressure air compressors without a regulator, which can dislodge delicate parts.</li>
       </ul>
   </section>
   <section>
-    <note>Refer to the Typewriter Maintenance Materials topic for more details on cleaning materias.</note>
+    <note type="tip">Refer to the Typewriter Maintenance Materials topic for more details on cleaning materias.</note>
   </section>
   </conbody>
   </concept>
