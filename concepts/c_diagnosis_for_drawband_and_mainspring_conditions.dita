@@ -6,7 +6,7 @@
    The condition of the drawband and mainspring during inspection helps to determine what actions are necessary: repairs, reatttachment, or replacements.
   </shortdesc>
   <conbody>
-     <ul>
+    <ul>
       <li audience="intermediate">
         If the carriage moves freely and the drawband has come loose from the spring barrel, it needs to be reattached. 
         See <xref href="t_reattach_drawband.dita">Reattach the Drawband</xref>.
@@ -16,13 +16,12 @@
         See <xref href="t_replace_mainspring.dita">Replace the Mainspring</xref>.
       </li>
       <li>
-        If the carriage does not move freely, and the spring barrel is not rotating easily, the spring needs to be cleaned, flushed, and lubricated. 
+        If the carriage does not move freely and the spring barrel does not rotate easily, the spring needs to be cleaned, flushed, and lubricated. 
         See <xref href="t_repair_mainspring.dita">Repair the Mainspring</xref>.
       </li>
     </ul>
-
     <note>
-      If none of the above conditions match your concerns, the issue is likely not dependent on the spring, and further disassembly is required to diagnose the problem.
+      If none of the above conditions match your concerns, the issue is likely not dependent on the mainspring. Further disassembly is required to diagnose the problem.
     </note>
   </conbody>
 </concept>

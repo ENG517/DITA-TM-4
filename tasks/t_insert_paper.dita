@@ -3,7 +3,7 @@
 <task id="t_insert_paper">
   <title>Insert New Paper</title>
   <shortdesc>
-    To write on your typewriter, you will need to insert a new sheet of paper.
+    You can insert a new piece of typing paper into your typewriter by manually feeding your paper into your platen roller. 
   </shortdesc>
   <taskbody>
     <steps>
@@ -33,13 +33,11 @@
           </substeps>
       </step>
        <step>
+        <note>If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly.</note>
         <cmd>Test and Type.</cmd>
           <substeps>
             <substep>
               <cmd>Use the return lever to move the carriage to the left margin and begin typing.</cmd>
-            </substep>
-            <substep>
-              <cmd>If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly.</cmd>
             </substep>
           </substeps>
       </step>
