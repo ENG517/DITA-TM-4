@@ -2,15 +2,15 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_remove_drawband">
   <title>Remove The Drawband</title>
-  <shortdesc>If any repairs or replacements to the drawband or mainspring are required, you must first remove the drawband from the spring barrel.</shortdesc>
+  <shortdesc>To repair or replace the drawband or mainspring, you must first remove the drawband from the spring barrel.</shortdesc>
   <taskbody>
      <steps>
       <step>
-        <cmd>Locate the point of connection where the drawband meets the spring barrel.</cmd>
+        <cmd>Locate the point of connection where the drawband meets the mainspring barrel.</cmd>
         <info audience="intermediate">The spring's end has a knot or metal hook attached to the mainspring barrel by sliding into a thin slot through a hole in the barrel. The hole is sufficient for removal of the knot/hook, but the narrow slot holds the knot/hook in place.</info>
       </step>
       <step>
-        <cmd>Grab the drawband with a pair of needle nosed pliers and gently slide it out of the thin barrel slot, guiding it all of the way out through the hole in the barrel.</cmd>
+        <cmd>Grab the end of the drawband with a pair of needle nosed pliers and gently slide the drawband out of the thin barrel slot. Guide the drawband out of the mainspring barrel through the drawband barrel hole.</cmd>
       </step>
     </steps>
   </taskbody>

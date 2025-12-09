@@ -3,13 +3,13 @@
 <task id="t_assemble_typewriter">
   <title>Assemble the Typewriter</title>
   <shortdesc>
-  It is important to carefully reassemble the typewriter after cleaning to ensure all components are securely in place and functioning properly.
+  You can reassemble your typewriter after conducting maintenance by reattaching all external components. 
   </shortdesc>
   <taskbody>
     <steps>
      <step>
       <cmd>Line up the metal segment plate with the typewriter feet.</cmd>
-      <stepresult>The segment plate must be placed evenly on both feet.</stepresult>
+      <stepresult>The segment plate will be evenly placed on both feet.</stepresult>
      </step>
     <step>
      <note type ="tip">The prongs need not be forced. If aligned properly, they should slide in effortlessly</note>
