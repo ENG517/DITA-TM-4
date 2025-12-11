@@ -34,11 +34,23 @@
       </step>
       <step>
         <cmd>Remove excess mineral spirit and loosened debris using a cotton swab.</cmd>
-        <info>If ink or debris remains, use a toothpick or cleaning pick to gently scrape the debris off the type slugs.</info>
+        <!-- LINDGREN:
+          Here's a more appropriate and semantic pattern to use,
+          since this is a tip.
+        -->
+        <info>
+          <note type="tip">
+            If ink or debris remains, use a toothpick or cleaning pick to gently scrape the debris off the type slugs.
+          </note>
+        </info>
+        <!-- <info>If ink or debris remains, use a toothpick or cleaning pick to gently scrape the debris off the type slugs.</info> -->
       </step>
       <step>
         <cmd>Set the typewriter in direct sunlight, or in front of a fan, for a few hours to a couple of days to fully dry.</cmd>
       </step>
     </steps>
+    <!-- LINDGREN
+      - Note that you can use the <postreq> element to make suggestions about what potential tasks or concepts may be useful to review. This provides smoother reuse-hardy transitions.
+    -->
   </taskbody>
 </task>
